@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: es-ES
-  baseUrl: notas.amatoria.cl
+  baseUrl: holafer.cl
   ignorePatterns:
     - private
     - templates
