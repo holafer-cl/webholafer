@@ -228,3 +228,28 @@ Esta sección documenta el reconocimiento visual y la geografía práctica de lo
 > https://make.powerapps.com
 
 ---
+
+
+### 1. El portal de creación y el selector de entorno (`make.powerapps.com`)
+
+Esta es la pantalla principal o centro de comando de Power Apps (`make.powerapps.com`) (**Fig.1**), el punto de partida fundamental para todo creador y consultor funcional. Desde este portal de desarrollo (*Maker Portal*), se gestiona la creación de interfaces de usuario, la conexión con el motor de base de datos relacional y el empaquetamiento de soluciones corporativas.
+
+![[gui_power-platform_fig1_2026-09-30T122121_power-apps.png]]
+**Figura 1.** Inicio Power Apps.
+
+- **Barra Superior:** Contiene la barra de búsqueda central para localizar componentes, el selector de entorno a la derecha (que indica en qué espacio de trabajo o servidor nos encontramos, como un entorno de desarrollo), notificaciones del sistema, el menú de ayuda y el perfil de usuario activo.
+- **Menú Lateral Izquierdo:** El panel de navegación estructurado que organiza las herramientas de trabajo:
+  - **Inicio y Crear:** Accesos para iniciar nuevas aplicaciones desde cero, plantillas o diseño asistido.
+  - **Learn y Planes:** Guías de aprendizaje y gestión de licencias o capacidades de la plataforma.
+  - **Aplicaciones y Centro de IA:** Visualización de las apps creadas y módulos de inteligencia artificial.
+  - **Tablas, Flujos y Soluciones:** Los pilares arquitectónicos clave para administrar Dataverse, automatizar procesos (Power Automate) y empaquetar artefactos para migración a otros ambientes.
+- **Área Central de Trabajo:** Muestra las opciones rápidas para "Comenzar con el diseño", "Comenzar con datos" o "Comenzar con un plan", además de las pestañas (*Aplicaciones*, *Planes*, *Soluciones*) que enlistan los elementos creados en el ambiente actual.
+
+### 2. El panel de exploración y el centro de administración de Power Platform
+
+Al hacer clic en el botón inferior izquierdo de **Power Platform** (**Fig.2**), se despliega el menú de navegación general que conecta los distintos portales del ecosistema (*Maker Portals*). Entre ellos destaca un componente crítico para la administración corporativa:
+
+- **Centro de administración de Power Platform (`admin.powerplatform.microsoft.com`):** Es el panel exclusivo para administradores de TI y consultores senior. Desde aquí no se construyen aplicaciones ni flujos, sino que se gestionan los **Entornos** (*Environments*), las directrices de prevención de pérdida de datos (Políticas DLP), las capacidades de Dataverse, la seguridad corporativa, las licencias y la asignación de recursos para toda la organización.
+
+![[gui_power-platform_fig2_2026-09-30T125657_power-apps.png]]
+**Figura 2.** Explorar Power Platform.
