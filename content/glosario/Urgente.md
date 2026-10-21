@@ -1,0 +1,1 @@
+En [[cibernética]], para gestionar el [[tiempo]] las tareas urgentes son aquellas que necesitan ser abordadas o parecen necesitar ser abordadas de inmediato y generalmente se completan rápido y fácilmente. ([Kennedy &Porter, 2022](https://doi.org/10.5688/ajpe8914)).

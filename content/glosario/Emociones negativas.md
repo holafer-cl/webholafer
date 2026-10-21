@@ -1,0 +1,1 @@
+En [[psicología]], son las que tienen ausencia de [[bienestar]], y sobre todo presencia de malestar: [[miedo]], [[ansiedad]], [[estrés]], [[ira]], rabia, enfado, cólera, [[enojo]], [[tristeza]], resentimiento, etc ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

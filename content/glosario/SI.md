@@ -1,0 +1,1 @@
+Système International d'Unités, el [[sistema]] internacional de unidades establecido en 1960 y basado en siete unidades básicas para las cantidades: [[longitud]], [[tiempo]], [[masa]], [[corriente eléctrica]], [[temperatura]] termodinámica, [[cantidad de sustancia]] e [[intensidad luminosa]] ([IUPAC, 2014](https://doi.org/10.1351/goldbook.S05653)).

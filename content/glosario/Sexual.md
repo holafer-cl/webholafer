@@ -1,0 +1,3 @@
+**A)** En [[sexología]], (sustantivo, [[sexualidad]]): relativo al [[sexo]] o, más concretamente, a la estimulación, respuesta y funciones de los órganos sexuales, ya sea en solitario o con una o varias parejas ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).
+
+**B)** En [[ecología]], perteneciente al [[sexo]], a los caracteres o rasgos relacionados al [[sexo]] o al [[proceso]] de la reproducción sexual ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

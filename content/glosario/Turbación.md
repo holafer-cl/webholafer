@@ -1,0 +1,1 @@
+En [[psicología]], alteración del [[ánimo]] que priva de desenvoltura y aplomo. Confusión, desorden. desconcierto ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

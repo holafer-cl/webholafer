@@ -1,0 +1,1 @@
+En [[estadística]], [[Proceso]] estadístico empleado para determinar si se acepta o se rechaza una [[hipótesis]] [[estadística]], o si los valores observados difieren significativamente de los esperados ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

@@ -1,0 +1,1 @@
+En [[psicología]], [[aburrimiento]] extremo o estado de [[ánimo]] del que soporta algo o a alguien que no le interesa ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

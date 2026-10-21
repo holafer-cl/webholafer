@@ -1,0 +1,1 @@
+En [[estadística]], condición de una [[variable]] que no está influida o controlada por otra [[variable]]; independiente ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

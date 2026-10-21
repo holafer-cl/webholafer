@@ -1,0 +1,1 @@
+En [[estadística]], el punto medio o central de un [[conjunto]] de puntuaciones. La tendencia central de un [[conjunto]] de [[datos]] muestrales, por ejemplo, puede estimarse mediante varios estadísticos diferentes (p. ej., [[MEDIA]], [[MEDIANA]], [[MODA]]). Ver también [[MEDIDA DE TENDENCIA CENTRAL]] ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

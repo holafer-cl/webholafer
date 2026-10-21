@@ -1,0 +1,1 @@
+En [[psicología]], [[trastorno emocional]] caracterizado por la aversión obsesiva a alguien o a algo. Temor irracional compulsivo ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

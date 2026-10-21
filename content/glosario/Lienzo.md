@@ -1,0 +1,1 @@
+En [[economía]], Lienzo del [[modelo de negocio]] de nueve elementos de Alexander Osterwalder. En esta obra utilizamos el lienzo para capturar las [[hipótesis]] del [[modelo de negocio]] y como un cuadro de mando que permite un seguimiento en el [[tiempo]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

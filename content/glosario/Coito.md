@@ -1,0 +1,1 @@
+**A)** En [[sexología]], el acto [[sexual]], específicamente la introducción del pene en la [[vagina]], o la penetración de la vagina con el pene; pero, de manera más general, la [[interacción]] completa entre dos parejas sexuales. Véase también [[relación sexual]]; [[copular]]; [[montar]] ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

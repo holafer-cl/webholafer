@@ -1,0 +1,1 @@
+En [[medicina]], experiencia sensorial y [emocional](Emoción) desagradable asociada a un daño real o potencial del tejido, o se describe en términos de dicho daño. Experiencia que pueden vivir todos aquellos seres que tengan un sistema nervioso ([Colorado & Barba, 2011](https://books.google.hn/books/about/Diccionario_enciclopedico_de_bioetica_En.html?id=13zmygAACAAJ)).

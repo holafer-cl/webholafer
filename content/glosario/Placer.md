@@ -1,0 +1,1 @@
+En [[psicología]], [[satisfacción]], goce. Sensación agradable producida por la realización de algo que gusta o complace ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

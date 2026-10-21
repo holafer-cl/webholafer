@@ -1,0 +1,1 @@
+En [[psicología]], tendencia a comportarse según afloran las emociones, sin ningún tipo de regulación. El comportamiento impulsivo predispone a la [[violencia]] como consecuencia de la [[ira]] que no se regula de forma apropiada ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

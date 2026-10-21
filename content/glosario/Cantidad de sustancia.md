@@ -1,0 +1,1 @@
+La [[cantidad]] de sustancia, [[símbolo]] n, de un [[sistema]] es una medida del [[número]] de entidades elementales especificadas. Una entidad elemental puede ser un átomo, una molécula, un ion, un electrón, cualquier otra partícula o [[grupo]] específico de partículas ([Marquardt et al., 2018](https://doi.org/10.1515/pac-2017-0106)). [[mol]]

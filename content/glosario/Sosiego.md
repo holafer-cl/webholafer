@@ -1,0 +1,1 @@
+En [[psicología]], estado de [[tranquilidad]] o [[calma]] en algo o alguien ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

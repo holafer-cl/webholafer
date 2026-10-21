@@ -1,0 +1,1 @@
+En [[psicología]], [[estado afectivo]]. Se utiliza en "[[estados de ánimo]]", que puede ser positivo o negativo. También se usa en "dar ánimo", "animar a alguien": en este caso significa impulsar a alguien en sentido positivo para realizar acciones y lograr objetivos ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

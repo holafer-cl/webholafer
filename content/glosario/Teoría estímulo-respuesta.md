@@ -1,0 +1,1 @@
+En [[psicología]], [[teoría]] según la cual la capacidad de respuesta humana está determinada por contingencias de recompensa y castigo en el entorno externo ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

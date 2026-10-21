@@ -1,0 +1,1 @@
+En [[sexología]], en una [[relación]] [[sexuoerótico]] ([[sexual]] y erótica), tercera y última fase que, de ocurrir, se caracteriza por la concepción, el embarazo, el parto y la paternidad ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

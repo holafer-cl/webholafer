@@ -1,0 +1,1 @@
+En [[ecología]], un [organismo](Organismos) se beneficia sin ayudar o dañar al otro ([Faust & Raes, 2012](https://doi.org/10.1038/nrmicro2832)).

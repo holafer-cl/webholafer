@@ -1,0 +1,1 @@
+[[Unidad]] de potencia derivada del [[SI]], W = [J](Joule) [s](Segundo)−1 = [m](Metro)2 [kg](Kilogramo) [s](Segundo)−3 ([IUPAC, 2014](https://doi.org/10.1351/goldbook.W06656)).

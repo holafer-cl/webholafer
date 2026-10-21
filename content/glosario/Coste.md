@@ -1,0 +1,1 @@
+En [[economía]], en esta obra, es el valor monetario (en dinero) que vale una cosa o que cuesta hacerla o producirla y ponerla a disposición de quién quiere comprarla ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

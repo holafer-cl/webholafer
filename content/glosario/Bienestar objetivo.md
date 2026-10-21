@@ -1,0 +1,1 @@
+En [[psicología]], es el [[bienestar]] que se puede medir objetivamente. Incluye principalmente el [[bienestar material]] (por ejemplo, el PIB, Producto Interior Bruto) y los indicadores objetivos de salud (esperanza de vida, prevalencia de enfermedades) ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

@@ -1,0 +1,1 @@
+En [[economía]], Compara una versión de una página web con otra y comprueba cuál produce los mejores resultados ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)). [[Producto web-móvil]]

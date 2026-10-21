@@ -1,0 +1,1 @@
+En [[estadística]], cualquier subconjunto de una [[población]]; parte representativa de una [[unidad]] mayor, usada para estudiar las propiedades del todo ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

@@ -1,0 +1,1 @@
+**A)** En medicina, la capacidad de las [personas](Persona), las familias y las [comunidades](Comunidad) para promover la salud, prevenir las enfermedades, mantener la salud y hacer frente a las enfermedades y discapacidades con o sin el apoyo de un profesional de la salud ([WHO, 2022](https://www.ncbi.nlm.nih.gov/books/NBK586739/)).

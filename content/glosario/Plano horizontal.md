@@ -1,0 +1,1 @@
+En [[kinesiología]], un plano transversal en ángulos rectos del eje longitudinal del [[cuerpo]] ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

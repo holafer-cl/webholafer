@@ -1,0 +1,1 @@
+En [[estadística]], [[Método no paramétrico]] en el que las cuentas obtenidas por [[muestra]] son clasificadas en una sola secuencia; se le utiliza para determinar si dos muestras aleatorias independientes han sido tomadas de [poblaciones](Población) que tiene la misma [[distribución]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

@@ -1,0 +1,1 @@
+(científica) - 1) [[Persona]] que como producto de una [[investigación]] produce [[ciencia]]. 2) De un conocimiento adquirido como consecuencia de una [[investigación]] metodológicamente ordenada para alcanzar una [[ley]] ([Colorado & Barba, 2011](https://books.google.hn/books/about/Diccionario_enciclopedico_de_bioetica_En.html?id=13zmygAACAAJ)).

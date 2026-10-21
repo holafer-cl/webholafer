@@ -1,0 +1,1 @@
+En [[sexología]], relativo al [[amor]] [[sexual]] o, más concretamente, a su expresión imaginaria en la ensoñación, la fantasía o el sueño, ya sea de forma autónoma o en respuesta a un estímulo perceptivo, y ya sea solo o con uno o más compañeros ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

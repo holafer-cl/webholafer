@@ -1,0 +1,1 @@
+(de medida) - [[Cantidad]] particular, definida y adoptada por convención, con la que se comparan otras cantidades del mismo tipo para expresar sus magnitudes relativas a esa [[cantidad]]. Las unidades tienen nombres y símbolos convencionalmente asignados ([IUPAC, 2014](https://doi.org/10.1351/goldbook)).

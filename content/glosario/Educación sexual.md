@@ -1,0 +1,5 @@
+**A)** En [[sexología]], es un termino que se usa para describir la educación acerca de la [[sexualidad]] humana, el aparato reproductor femenino y el masculino, la orientación [[sexual]], las relaciones sexuales, el uso de anticonceptivos, el [[sexo]] seguro, la reproducción y otros aspectos de la [[sexualidad]] ([Colorado & Barba, 2011](https://books.google.hn/books/about/Diccionario_enciclopedico_de_bioetica_En.html?id=13zmygAACAAJ)).
+
+**B)** El [[proceso]] de recopilar [[información]] precisa, desarrollar [actitudes](Actitud) y creencias y adquirir habilidades sobre las facetas biológicas, sociológicas y psicológicas de la [[sexualidad]] en un entorno académico formal ([Shackelford & Weekes-Shackelford, 2021](https://doi.org/10.1007/978-3-319-19650-3)).
+
+**C)** El [[conjunto]] de conocimiento en [[relación]] con la anatomía sexual, fisiología de la [[respuesta sexual humana]], la [[sexualidad]] a través del ciclo vital, dificultades sexuales más frecuentes ([ADIPA, 2024](https://adipa.cl)).

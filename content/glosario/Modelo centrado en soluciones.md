@@ -1,0 +1,1 @@
+En [[psicología]], es un [[modelo]] de terapia cuyo objetivo es el desarrollo de soluciones, es decir: I) identificar el futuro [deseado](Deseo), II) movernos del [[problema]] a la solución, III) identificar los pasos para lograr el futuro deseado. Utilizar verbos en futuro, y la acciones o metas deben ser concretas y observables ([ADIPA, 2024](https://adipa.cl)). 

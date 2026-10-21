@@ -1,0 +1,1 @@
+En [[psicología]], valoración positiva de uno mismo. La autoestima es la dimensión emocional y el autoconcepto es la dimensión cognitiva del autoconocimiento ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

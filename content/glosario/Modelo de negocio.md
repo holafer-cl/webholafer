@@ -1,0 +1,1 @@
+En [[economía]], descripción de cómo una organización crea, proporciona y captura [[valor]]. En esta obra se refiere específicamente al [[lienzo]] del [[modelo]] de [[negocio]] de nueve elementos de Alexander Osterwalder ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

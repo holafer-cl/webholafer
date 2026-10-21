@@ -1,0 +1,1 @@
+En [[psicología]], [[disgusto]] que se experimenta por un contratiempo de poca importancia ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

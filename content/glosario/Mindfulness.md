@@ -1,0 +1,1 @@
+En [[psicología]], [[estado emocional]] resultado de la meditación. Estado de consciencia o atención plena ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

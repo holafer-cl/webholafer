@@ -1,0 +1,3 @@
+El especialista en [[psicología]] social Rolando Díaz Loving (1996) propone un ciclo de pareja denominado _[[modelo]] de acercamiento-alejamiento_, se compone de 13 etapas: [[extraño]], [[conocido]], [[amistad]], [[atracción]], [[pasión]], [[romance]], [[compromiso]], [[mantenimiento]], [[conflicto]], [[alejamiento]], [[desamor]], [[separación]] y [[olvido]].
+
+Díaz, R. (1996). Una teoría bio-psico-socio-cultural de la relación de pareja. _Revista de psicología contemporánea_

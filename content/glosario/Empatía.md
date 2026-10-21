@@ -1,0 +1,1 @@
+En [[psicología]], identificación mental y afectiva de un sujeto con el [[Estados de ánimo]] de otro. Sentir la [[emoción]] que siente la otra [[persona]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

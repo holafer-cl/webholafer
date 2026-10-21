@@ -1,0 +1,1 @@
+En [[sexología]], lo [[sexual]] y lo [[erótico]] experimentados como una [[unidad]], con más énfasis en el comportamiento [[sexual]] que en las imágenes eróticas ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

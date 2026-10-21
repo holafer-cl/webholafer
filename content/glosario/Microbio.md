@@ -1,0 +1,6 @@
+(*microorganismo*) - 
+**A)** [[Conjunto]] de bacterias, virus y hongos ([Jackman, 2011](https://doi.org/10.1007/978-1-60327-219-3_2)).
+
+**B)** grupos de [[organismos]] microscópicos, algunos de los cuales no pueden detectarse sin la ayuda de un microscopio óptico o electrónico, entre los que se encuentran los virus, los procariotas (bacterias y arqueas) y las formas de [[vida]] eucariotas, como los protozoos, los hongos filamentosos, las levaduras y las microalgas, u otra entidad biótica microscópica autorreplicante ([EEA, 2024](http://biodiversity-chm.eea.europa.eu/nyglossary_terms/M/micro-organisms)).
+
+**C)** Son pequeños [[organismos]] cuyo tamaño es demasiado pequeño para ser observados a simple vista. La resolución del ojo humano es de 0,2 mm, y esto establece 1 mm como límite artificial para el tamaño máximo de los [[microorganismos]]. Taxonómicamente, "microorganismo" carece de un significado preciso, y el término incluye procariotas (bacterias y arqueas) y eucariotas (protistas, algas microscópicas y hongos), que son unicelulares o carecen de tejidos verdaderos. Excepcionalmente, los virus deben incluirse en la definición de "[[microorganismos]]", aunque carezcan de arreglo celular ([Sanz, 2011](https://doi.org/10.1007/978-3-642-11274-4_992)).

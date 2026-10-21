@@ -1,0 +1,1 @@
+En [[ecología]], requiere oxígeno molecular ([IUPAC, 1993](https://doi.org/10.1351/pac199365092003).) (ver [[Aerobio]], [[respiración aeróbica]]). 

@@ -1,0 +1,1 @@
+En [[estadística]] y [[microbiología]], esta [[distribución]] subyace a la prueba exacta de Fisher, que se utiliza comúnmente para inferir redes a partir de [[datos]] de presencia-ausencia. Dada la aparición de dos taxones en las muestras, la [[prueba]] evalúa la importancia del [[número]] de copresencias observadas ([Faust & Raes, 2012](https://doi.org/10.1038/nrmicro2832)).

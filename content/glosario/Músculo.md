@@ -1,0 +1,1 @@
+En [[kinesiología]], tipo de tejido que se contrae y permite el [[movimiento]]; en el [[cuerpo]] hay tres tipos de músculo: esquelético (estriado), liso y cardíaco ([NIH, 2023](https://training.seer.cancer.gov/anatomy/muscular/types.html)).

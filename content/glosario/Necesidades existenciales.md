@@ -1,0 +1,1 @@
+En [[economía]], [[necesidades]] de ser, tener, hacer y estar ([Max-Neef et al., 2010](http://habitat.aq.upm.es/deh/adeh.pdf)).

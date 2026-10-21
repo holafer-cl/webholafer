@@ -1,0 +1,2 @@
+En [[economía]], (*waterfall development*) - [[Proceso]] de ingeniería que permite el desarrollo de productos (hardware, software o servicios) lineal y secuencialmente, etapa por etapa. Todo el [[producto]] y todas sus funciones se especifican por adelantado. Cada etapa del desarrollo se asigna a un equipo independiente para garantizar un control mayor del proyecto y de
+las fechas límite. El desarrollo en cascada es la antítesis del [[desarrollo ágil]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

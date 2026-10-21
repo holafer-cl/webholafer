@@ -1,0 +1,1 @@
+En [[estadística]], Las variables discretas (contables) suponen sólo números enteros y algún tipo de recuento. Ejemplo: la edad y la fecha son discretas. Mientras que la Edad permanece [[constante]] durante un período de 1 año, la Fecha lo hace durante 24 horas. Ambos saltan o aumentan en 1 ([Hattab et al., 2020](https://doi.org/10.1371/journal.pcbi.1008901)).

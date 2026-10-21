@@ -1,0 +1,1 @@
+En [[kinesiología]], [[movimiento]] en el que la palma de la mano se gira hacia el suelo o se aleja de la [[posición anatómica]] o fetal ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

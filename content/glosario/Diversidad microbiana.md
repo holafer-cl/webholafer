@@ -1,0 +1,1 @@
+El [[número]] de [especies](Especie) diferentes en un [[hábitat]]; a veces se utiliza (falsamente) como sinónimo de [[estructura comunitaria]] ([Friedrich, 2011](https://doi.org/10.1007/978-1-4020-9212-1_144)).

@@ -1,0 +1,1 @@
+En [[psicología]], son eventos o circunstancias específicas de un [[problema]] [[sexual]], no instalado en el [[tiempo]], donde generalmente existe un factor desencadenante fácilmente identificable. Además, se presenta malestar subjetivo de impacto [[variable]] en la [[vida]] de la [[persona]], no necesariamente presente (consciente) ([ADIPA, 2024](https://adipa.cl)).

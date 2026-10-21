@@ -1,0 +1,1 @@
+En [[psicología]], [[exaltación]], engrandecimiento del [[ánimo]]. La energía emocional se deriva hacia una actividad socialmente útil: puede ser a través del arte, espiritualidad, compromiso social, etc ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

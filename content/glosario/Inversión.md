@@ -1,0 +1,1 @@
+En [[kinesiología]], [[movimiento]] en el que la planta del pie mira hacia dentro (opuesto a la eversión) ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

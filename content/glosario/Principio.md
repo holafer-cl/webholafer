@@ -1,0 +1,1 @@
+Son reglas o normas de conducta que orientan la acción de un ser humano. Son normas generales que orientan nuestras acciones, pero no nos dicen lo que hay que hacer en cada situación concreta. Su interpretación y aplicabilidad dependen de muchos factores ([Colorado & Barba, 2011](https://books.google.hn/books/about/Diccionario_enciclopedico_de_bioetica_En.html?id=13zmygAACAAJ)).

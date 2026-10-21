@@ -1,0 +1,1 @@
+Catálogo de palabras de una misma disciplina, de un mismo campo de estudio, de una misma obra, etc., definidas o comentadas ([DLE, 2024](https://dle.rae.es/glosario?)).

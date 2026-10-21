@@ -1,0 +1,1 @@
+En [[psicología]], [[actitud]] y acción de procurar el bien ajeno aun a costa del propio ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

@@ -1,0 +1,1 @@
+Postura del [[cuerpo]], especialmente cuando expresa un [[estados de ánimo]] ([DLE, 2023](https://dle.rae.es/actitud)).

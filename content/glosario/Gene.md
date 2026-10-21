@@ -1,0 +1,1 @@
+En [[ecología]], en genética moderna, [[unidad]] básica de la herencia que comprende una sucesión específica de nucleótidos en la cadena del ADN que desarrolla una función específica y ocupa un lugar específico en un cromosoma; las formas alternas de un gene se denominan alelos ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

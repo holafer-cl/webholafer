@@ -1,0 +1,1 @@
+En [[ecología]], el [[número]] de [especies](Especie) en una [[muestra]] determinada, reunión, [[comunidad]], [[biomasa]] o [[hábitat]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

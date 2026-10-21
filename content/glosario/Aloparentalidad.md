@@ -1,0 +1,1 @@
+**A)** En [[sexología]], (adjetivo: aloparental), cuidado por parte de cuidadores no parentales, que brindan inversiones directas y/o indirectas a un niño ([Shackelford & Weekes-Shackelford, 2021](https://doi.org/10.1007/978-3-319-19650-3)).

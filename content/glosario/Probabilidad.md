@@ -1,0 +1,1 @@
+En [[estadística]], estimación del apoyo relativo a cada [[hipótesis]] alterna; posibilidad de que se produzca un evento dado; la probabilidad de un evento imposible es cero y la de un evento inevitable es la unidad (1) ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

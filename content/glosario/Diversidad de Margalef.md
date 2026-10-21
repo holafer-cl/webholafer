@@ -1,0 +1,5 @@
+En [[ecología]],:
+
+**A)** Medida de la [[diversidad]] de [especies](Especie) calculada como d = (*S*-1)/*log N*, donde la *S* es el [[número]] de especies en el [[hábitat]] o [[comunidad]] y *N* el [[número]] total de individuos de todas las especies; [[índice]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).
+
+**B)** Transforma el [[número]] de especies por [[muestra]] a una proporción a la cual las especies son añadidas por expansión de la [[muestra]]. Supone que hay una [[relación]] funcional entre el [[número]] de especies y el [[número]] total de individuos. Tiene en cuenta únicamente la [[riqueza de especies]], pero de una forma que no aumente al aumentar el tamaño de la [[muestra]]. _D_ _Mg_ = (_S_ - 1) / ln _N_. Dónde _S_ es el [[número]] total de especies presentes, y _N_ es el [[número]] total de individuos ([Valdez et al., 2018](http://dx.doi.org/10.15517/rbt.v66i4.32135)). [[Diversidad alfa]]

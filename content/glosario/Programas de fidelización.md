@@ -1,0 +1,1 @@
+En [[economía]], tácticas como «puntos» y «programas de [[clientes]] habituales/frecuentes» que se utilizan para «retener» a los [[clientes]] existentes y reducir la [[rotación]]. Ver [[Rotación]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

@@ -1,0 +1,1 @@
+En [[sexología]], simultáneamente [[erótico]] y [[sexual]]. Se puede ser [[sexual]] sin ser [[erótico]], como en la inseminación de donante. A la inversa, ser [[erótico]] no significa necesariamente ser [[sexual]], especialmente en el sentido de cópula, fertilidad o reproducción ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

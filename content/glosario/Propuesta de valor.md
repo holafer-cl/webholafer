@@ -1,0 +1,2 @@
+En [[economía]], Describe el trabajo que se realiza para el cliente. Incluye características que solucionan problemas o [[necesidades]] de los [[clientes]] (aumento de la productividad, estatus social, mayor sencillez, más comodidad, etc.) que pertenecen al segmento o segmentos de [[clientes]] elegidos. Una propuesta de [[valor]] debe coincidir con lo que necesita el segmento de
+[[clientes]] de la [[startup]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

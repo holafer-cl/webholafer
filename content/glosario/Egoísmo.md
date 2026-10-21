@@ -1,0 +1,1 @@
+En [[psicología]], [[actitud]] contraria a compartir, en donde se antepone el propio [[interés]] en perjuicio de los demás ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

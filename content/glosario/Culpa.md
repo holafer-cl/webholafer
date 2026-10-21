@@ -1,0 +1,1 @@
+En [[psicología]], acción u omisión que genera un [[sentimiento]] de responsabilidad por un daño causado ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)). 

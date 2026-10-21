@@ -1,0 +1,1 @@
+En [[sexología]], experiencia personal y expresión manifiesta de agonía cuando la pareja de la que uno se ha enamorado es un desajuste total cuya respuesta es la indiferencia, o un desajuste parcial cuya reciprocidad es incompleta, deficiente, anómala o insatisfactoria por otros motivos ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

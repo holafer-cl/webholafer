@@ -1,0 +1,1 @@
+En [[kinesiología]], [[movimiento]] en el que el extremo [[distal]] de un hueso se mueve de forma circular, manteniendo estable el extremo [[proximal]] ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

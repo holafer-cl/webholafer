@@ -1,0 +1,1 @@
+En [[ecología]] y [[microbiología]], ecuaciones que describen la [[dinámica]] de un [[sistema]] presa-depredador. En su forma generalizada, las ecuaciones de Lotka-Volterra pueden modelar la [[dinámica]] de más de dos especies y describir relaciones distintas a las de presa-depredador ([Faust & Raes, 2012](https://doi.org/10.1038/nrmicro2832)).

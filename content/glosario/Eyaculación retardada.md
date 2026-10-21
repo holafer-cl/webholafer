@@ -1,0 +1,1 @@
+**A)** En [[psicología]], se define como: I) retardo marcado de la [[eyaculación]], II) infrecuencia o ausencia de [[eyaculación]] ([ADIPA, 2024](https://adipa.cl)).

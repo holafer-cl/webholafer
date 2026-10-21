@@ -1,0 +1,3 @@
+**A)** En [[economía]], duda, perplejidad, falta de seguridad sobre un resultado futuro. La actividad empresarial supone la asunción del riesgo y la incertidumbre ([Elosua, et al. 2003](https://www.google.cl/books/edition/Diccionario_LID/JH7KAAAACAAJ?hl=es-419)).
+
+**B)** Véase, [[Criterio de decisión]] ([Mondría, 2004](https://www.google.cl/books/edition/Diccionario_de_la_comunicación_comercia/Tu9OvAJxrRAC?hl=es-419&gbpv=0)).

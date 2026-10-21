@@ -1,0 +1,1 @@
+Energía de Gibbs (función), 𝐺. Entalpía menos el producto de la [[temperatura]] termodinámica y la entropía. Antiguamente se llamaba energía libre o entalpía libre ([IUPAC, 2023](https://doi.org/10.1351/goldbook.G02629)).

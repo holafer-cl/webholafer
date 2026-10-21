@@ -1,0 +1,1 @@
+Rama de la [[ecología]] que ubica a la [[técnica]] para el estudio de las relaciones ecológicas y sus aplicaciones sobre el medio [[ambiente]] construido (e.g.: La formulación de modelos y la experimentación *in vitro* ([Sarmiento, 2000](https://books.google.cl/books?id=vt1BF53n3woC&newbks=1&newbks_redir=0&hl=es-419&redir_esc=y)).

@@ -1,0 +1,3 @@
+En mecánica, la suma de la energía potencial y la energía cinética. En termodinámica, la energía termodinámica o el aumento de energía termodinámica, ΔU, es la suma del calor y el trabajo aportados al [[sistema]]. Sólo los cambios de energía son mensurables. Para fotones E = hν
+donde h es la [[constante de Planck]] y ν la frecuencia de radiación. En [[física]] relativista , E = mc2
+donde c es la velocidad de la luz y m la [[masa]] ([IUPAC, 2023](https://doi.org/10.1351/goldbook.E02101)).

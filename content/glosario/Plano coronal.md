@@ -1,0 +1,1 @@
+En [[kinesiología]], un plano vertical en ángulo recto con el [[plano sagital]], dividiendo el [[cuerpo]] en la parte [[anterior]] o [[posterior]]. También se conoce como plano frontal ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

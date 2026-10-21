@@ -1,0 +1,1 @@
+En [[estadística]], una medida de variabilidad en un [[conjunto]] o [[distribución]] de valores. Se determina dividiendo la [[DESVIACIÓN ESTÁNDAR]] de la distribución por su [[MEDIA]] ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

@@ -1,0 +1,1 @@
+En [[economía]], encuesta de percepción del [[negocio]] y/o de sus productos desde fuera, obtenida de entrevistas con consumidores ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

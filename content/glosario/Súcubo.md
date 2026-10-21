@@ -1,0 +1,1 @@
+En [[sexología]], (*succubus*) - plural, succubi): espíritu maligno o demonio que adopta forma femenina y se supone que se acuesta bajo personas dormidas, principalmente hombres, y mantiene relaciones [sexuales](Sexual) con ellos ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

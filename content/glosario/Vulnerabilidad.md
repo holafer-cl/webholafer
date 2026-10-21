@@ -1,0 +1,1 @@
+En [[psicología]], estado anímico por el cual la [[persona]] se siente indefensa ante la posibilidad de ser herida física o moralmente. Sentir que se está en peligro ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

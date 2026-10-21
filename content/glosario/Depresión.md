@@ -1,0 +1,1 @@
+En [[kinesiología]], [[movimiento]] de una parte elevada del [[cuerpo]] hacia abajo, hacia su posición original ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

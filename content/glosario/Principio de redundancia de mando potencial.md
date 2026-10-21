@@ -1,0 +1,1 @@
+En [[cibernética]], El poder reside donde reside la [[información]] (Warren McCulloch).

@@ -1,0 +1,1 @@
+En [[kinesiología]], más alejado del centro del [[cuerpo]] o del punto de inserción de una extremidad (opuesto a [[proximal]]) ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

@@ -1,0 +1,5 @@
+**A)** En [[ecología]], 1) Patrón de [[distribución]] de [[organismos]] o [poblaciones](Población) en el espacio. 2) En [[estadística]], [[distribución]] de observaciones o valores alrededor de un [[valor]] medio o central ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).
+
+**B)** En [[ecología]], [[movimiento]] y colonización exitosa (establecimiento) de un [organismo](Organismos) individual de un lugar a otro a través de mecanismos tanto activos como pasivos ([Zhou & Ning, 2017](https://doi.org/10.1128%2FMMBR.00002-17)).
+
+**C)** En [[estadística]], el grado en que un [[conjunto]] de puntuaciones se desvía de la [[media]]. También llamado propagación. Véase también [[RANGO]]; [[DESVIACIÓN ESTÁNDAR]]; [[VARIANZA]] ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

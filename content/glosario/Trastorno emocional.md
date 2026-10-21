@@ -1,0 +1,1 @@
+En [[psicología]], alteración del estado de animo que puede ser patológica. Entre los trastornos emocionales están [[ansiedad]], [[estrés]], depresión, fobias, etc ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

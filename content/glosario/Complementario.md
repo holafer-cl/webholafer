@@ -1,0 +1,1 @@
+En [[colorimetría]], los colores complementarios son los [colores](Color) que están directamente opuestos entre sí en el círculo cromático. A menudo contrastan y se destacan entre sí. Son útiles cuando se utilizan como colores de resaltado en los [[datos]] ([Hattab et al., 2020](https://doi.org/10.1371/journal.pcbi.1008901)).

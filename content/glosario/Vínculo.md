@@ -1,0 +1,1 @@
+En [[psicología]], [[sentimiento]] amoroso hacia otra [[persona]]. Se relaciona con lo que en inglés se denomina attachment, que también se traduce por apego ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

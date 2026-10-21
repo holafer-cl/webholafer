@@ -1,0 +1,1 @@
+En [[biología]], [[conjunto]] de los sistemas orgánicos que constituyen un [organismo](Organismos). Aquello que tiene [[extensión]] limitada, perceptible por los sentidos ([DLE, 2023](https://dle.rae.es/cuerpo)).

@@ -1,0 +1,1 @@
+La medida en que algo es significativo o tiene consecuencias. En [[estadística]] y campos relacionados, el término generalmente denota [[SIGNIFICANCIA ESTADÍSTICA]]. Ver también SIGNIFICANCIA CLÍNICA; SIGNIFICANCIA PRÁCTICA; SIGNIFICANCIA PSICOLÓGICA ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

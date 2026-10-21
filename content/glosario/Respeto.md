@@ -1,0 +1,1 @@
+En [[psicología]], consideración y reconocimiento hacia una [[persona]]. P. ej. "Respeto a las personas mayores"; "Todas las personas merecen respeto" ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

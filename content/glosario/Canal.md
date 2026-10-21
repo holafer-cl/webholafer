@@ -1,0 +1,1 @@
+En [[economía]], canal de ventas y/o de distribución. Cómo llega el [[producto]] desde el [[negocio]] al cliente. Esta obra presenta canales físicos y web/móvil ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

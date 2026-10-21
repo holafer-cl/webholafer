@@ -1,0 +1,1 @@
+En [[estadística]], la puntuación que ocurre con más frecuencia en un [[conjunto]] de [[datos]], que a veces se utiliza como medida de [[TENDENCIA CENTRAL]]. También llamado [[valor]] modal ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

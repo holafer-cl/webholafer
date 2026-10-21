@@ -1,0 +1,1 @@
+En [[psicología]], [[emoción]] muy positiva para el [organismo](Organismos) y vía para experimentar la [[felicidad]]. Se produce al cumplirse las [expectativas](Expectativa) de una [[persona]], por ejemplo, el [[éxito]] como fruto de un trabajo bien hecho ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

@@ -1,0 +1,1 @@
+En [[psicología]], cansancio o [[fastidio]] originado generalmente por disgustos o molestias, o por no contar con algo que distraiga y divierta. [[Aburrición]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

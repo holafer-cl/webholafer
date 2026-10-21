@@ -1,0 +1,3 @@
+**A)** En [[sexología]], conexión o [[interacción]] entre personas. En las relaciones sexuales, la conexión suele definirse como entre dos personas. Se define erróneamente como introducir el pene en la [[vagina]] ([[coito]] penovaginal), pues toda la [[interacción]] [[sexual]] entre la pareja constituye [[relación]] [[sexual]]. Véase también [[coito]]; [[copular]]; montar ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).
+
+**B)** En [[psicología]], práctica [[sexual]], son comportamientos predecibles con connotación erótica presentados por individuos o [comunidades](Comunidad) de personas; incluye tribadismo, sexting, petting, fisting, cruising, bareback, bdsm, felación, cunilingus ([ADIPA, 2024](https://adipa.cl)).

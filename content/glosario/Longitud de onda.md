@@ -1,0 +1,1 @@
+𝜆, [[Longitud]] en la dirección de propagación de una onda periódica entre dos puntos sucesivos donde en un momento dado la fase es la misma ([IUPAC, 2014](https://doi.org/10.1351/goldbook.W06659)).

@@ -1,0 +1,3 @@
+**A)** En [[ecología]], [[concepto]] que se refiere al espacio ocupado por una [[especie]], que incluye tanto el espacio físico como el papel funcional de la [[especie]]; conceptualizado como un hipervolumen multidimensional que define el espacio biológico ocupado por una [[especie]]; las dimensiones de este espacio son los [parámetros](Parámetro) del [[nicho]]; algunas veces se utiliza erróneamente como el equivalente de microhábitat ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).
+
+**B)** En [[microbiología]], a diferencia del [[hábitat]] (espacial), el [[nicho]] define la función de un [organismo](Organismos) ([Friedrich, 2011](https://doi.org/10.1007/978-1-4020-9212-1_144)).

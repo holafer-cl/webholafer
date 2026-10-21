@@ -1,0 +1,1 @@
+En [[sexología]], son dispositivos con forma de falo, en su mayoría con dimensiones promedio de pene, que están diseñados para la penetración o estimulación vaginal o rectal ([Dewitte & Reisman, 2021](https://doi.org/10.1038/s41585-021-00456-2)).

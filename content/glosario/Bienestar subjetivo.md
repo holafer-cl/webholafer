@@ -1,0 +1,1 @@
+En [[psicología]], evaluación subjetiva sobre la [[satisfacción]] general en la [[vida]]. Tiene una dimensión cognitiva que se refiere a un periodo amplio de [[tiempo]] y otra dimensión más experiencial referida a un momento concreto, generalmente el presente ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

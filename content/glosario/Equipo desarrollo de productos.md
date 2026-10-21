@@ -1,0 +1,1 @@
+En [[economía]], [[Grupo]] de ingenieros encargado de la construcción de un [[producto]]. En una [[startup]], los equipos de desarrollo de productos suelen utilizar un [[proceso]] llamado [[desarrollo ágil]] para construir el [[producto]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

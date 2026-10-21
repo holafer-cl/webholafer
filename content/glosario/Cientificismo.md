@@ -1,0 +1,1 @@
+También llamado *Cientismo*. [[Actitud]] o creencia humana que establece la prevalencia de la [[ciencia]] sobre cualquier otro criterio, dando validez ilimitada a los conocimientos derivados de la misma ([Colorado & Barba, 2011](https://books.google.hn/books/about/Diccionario_enciclopedico_de_bioetica_En.html?id=13zmygAACAAJ)).

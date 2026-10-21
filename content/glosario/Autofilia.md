@@ -1,0 +1,1 @@
+En [[sexología]], (adjetivo, autofílico) - La condición en la que el [[amor]] y la lujuria no están unidos a una pareja sino a uno mismo, del griego, auto, self + philia ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

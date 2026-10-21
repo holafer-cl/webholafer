@@ -1,0 +1,1 @@
+En [[ecología]], [[ciencia]] que estudia la clasificación de los [[organismos]] según sus semejanzas y diferencias, con el fin de ordenar el [[grupo]] que comparte cualidades que los agrupan en cada nivel o [[taxón]] ([Sarmiento, 2000](https://books.google.cl/books?id=vt1BF53n3woC&newbks=1&newbks_redir=0&hl=es-419&redir_esc=y)).

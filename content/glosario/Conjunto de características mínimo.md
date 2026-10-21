@@ -1,0 +1,1 @@
+En [[economía]], Término utilizado para describir el [[Producto viable mínimo]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

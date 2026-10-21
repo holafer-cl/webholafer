@@ -1,0 +1,1 @@
+En [[psicología]], [[estado emocional]] que se experimenta cuando estamos ante retos y amenazas que consideramos que superan nuestros recursos. Se distingue entre [[eustrés]] y [[distrés]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

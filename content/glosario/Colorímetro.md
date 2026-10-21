@@ -1,0 +1,1 @@
+En [[colorimetría]], instrumento utilizado para la [[medición]] del [[color]] basado en la comparación óptica con colores estándar ([IUPAC, 2023](https://doi.org/10.1351/goldbook.C01179)).

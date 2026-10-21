@@ -1,0 +1,1 @@
+En [[ciencia]], representación gráfica, teórica o de otro tipo de un [[concepto]] o [[proceso]] que puede utilizarse para diversos fines de [[investigación]] y demostración, como mejorar la comprensión del [[concepto]], proponer [[hipótesis]], mostrar [relaciones](Relación) o identificar patrones ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

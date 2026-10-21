@@ -1,0 +1,1 @@
+En [[psicología]], estado interior de paz, [[sosiego]] y [apacibilidad](Apacible), normalmente [[producto]] de un trabajo voluntario de regulación emocional ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

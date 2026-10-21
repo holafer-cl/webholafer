@@ -1,0 +1,1 @@
+En [[sexología]], en las hembras de los mamíferos, el [[canal]] que se abre hacia la vulva y, internamente, conecta con el cuello uterino o boca del útero. Encierra el pene en las relaciones sexuales. Véase también vulva ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

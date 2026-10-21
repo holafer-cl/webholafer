@@ -1,0 +1,1 @@
+Dicho de una [[persona]]: Que pone cuidado y [[atención]] en lo que hace o decide ([DLE, 2024](https://dle.rae.es/responsable)).

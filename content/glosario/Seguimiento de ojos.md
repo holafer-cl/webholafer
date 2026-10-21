@@ -1,0 +1,1 @@
+En [[economía]], (eye tracking): Herramienta que muestra el camino que siguen los ojos de los [[Usuario]] en una página web. Es extremadamente útil para eliminar incertidumbres en el [[diseño]] de páginas web. Ver [[Mapas de calor]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

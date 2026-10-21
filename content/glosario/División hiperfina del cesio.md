@@ -1,0 +1,1 @@
+Frecuencia de transición hiperfina del cesio. Se define tomando el [[valor]] numérico fijo de la frecuencia de cesio ΔνCs, la frecuencia de transición hiperfina del estado fundamental no perturbado del átomo de cesio 133, como 9.192.631.770 cuando se expresa en la [[unidad]] [Hz](Hertz), que es igual a s-1 ([Mills & Marquardt, 2019](https://iupac.org/100/stories/the-new-si/.)).

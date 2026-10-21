@@ -1,0 +1,1 @@
+[[Unidad]] lingüística, dotada generalmente de significado, que se separa de las demás mediante pausas potenciales en la pronunciación y blancos en la escritura ([DLE, 2024](https://dle.rae.es/palabra)).

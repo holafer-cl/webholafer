@@ -1,0 +1,1 @@
+En [[ecología]], la [[selección]] negativa dependiente de la frecuencia es un fenómeno evolutivo que mantiene genotipos raros (variantes) en comunidades complejas y ocurre cuando la aptitud relativa de una variante es mayor cuando su [[abundancia relativa]] en la [[población]] es baja ([Khan & Hill, 2021](https://doi.org/10.1007/s00248-021-01745-4)).

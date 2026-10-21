@@ -1,0 +1,1 @@
+En [[psicología]], espera, generalmente curiosa o tensa, de un acontecimiento que interesa o importa ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

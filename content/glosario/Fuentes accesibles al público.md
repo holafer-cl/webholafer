@@ -1,0 +1,1 @@
+En [[estadística]], los registros o recopilaciones de [[datos personales]], públicos o privados, de acceso no restringido o reservado a los solicitantes ([Ley 19628 Chile, 2024](https://www.bcn.cl/leychile/navegar?idNorma=141599)). Ver [[Banco de datos]]

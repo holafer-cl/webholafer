@@ -1,0 +1,1 @@
+En [[estadística]], una única combinación lineal extraída como parte de un [[ANÁLISIS DE COMPONENTES PRINCIPALES]] ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

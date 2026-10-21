@@ -1,0 +1,3 @@
+**A)** Expresión numérica de la [[relación]] entre dos cantidades ([RAE, 2023](https://dle.rae.es/índice?m=form)).
+
+**B)** En [[estadística]], un indicador compuesto que se forma cuando los indicadores individuales se compilan en un solo índice, sobre la base de un [[modelo]] subyacente del [[concepto]] multidimensional que se está midiendo ([Ashraf et al., 2019](https://doi.org/10.7189%2Fjogh.09.010405)).

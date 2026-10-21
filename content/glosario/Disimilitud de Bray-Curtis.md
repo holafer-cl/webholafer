@@ -1,0 +1,1 @@
+En [[estadística]], indicador de la desemejanza de dos [comunidades](Comunidad), basada en la métrica de Manhattan; su [[rango]] va de 0 (similar) a 1 (disimilar); [[índice]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

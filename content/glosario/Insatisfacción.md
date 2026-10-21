@@ -1,0 +1,2 @@
+En [[psicología]], [[sentimiento]] negativo que aparece cuando lo que tenemos o lo que hemos
+conseguido no satisface nuestras [expectativas](Expectativa) ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

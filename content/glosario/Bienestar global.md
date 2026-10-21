@@ -1,0 +1,1 @@
+En [[psicología]], valoración de los diversos tipos de [[bienestar]] (físico, material, social, etc) en una organización, sociedad o país. Es el promedio del [[bienestar integral]] referido a un [[grupo]] de personas ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

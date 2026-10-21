@@ -1,0 +1,1 @@
+En [[kinesiología]], [[movimiento]] hacia la línea [[media]] (opuesto a la [[abducción]]) ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

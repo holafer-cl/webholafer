@@ -1,0 +1,1 @@
+En [[psicología]], angustia, [[sufrimiento]] moral o [[dolor]] físico muy fuerte que padece una [[persona]], Congoja o aflicción de [[ánimo]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

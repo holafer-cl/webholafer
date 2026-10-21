@@ -1,0 +1,1 @@
+En [[ecología]], 1) Término general aplicado a un [[conjunto]] de [[organismos]] que permanecen juntos o que interactúan durante un periodo de [[tiempo]]. 2) En zoología, colección de taxones relacionados o coordinados; como en una [[especie]]-grupo o en un género-grupo ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

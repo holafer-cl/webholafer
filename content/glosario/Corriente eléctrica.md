@@ -1,0 +1,1 @@
+[[Cantidad base]] en el [[sistema]] de [cantidades](Cantidad) en el que se basa el [[SI]] ([IUPAC, 2014](https://doi.org/10.1351/goldbook.E01927)). [[amperio]]

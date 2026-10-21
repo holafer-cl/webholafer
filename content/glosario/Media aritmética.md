@@ -1,0 +1,1 @@
+En [[estadística]], promedio para n valores; se calcula como la suma (*Σn*) dividida entre el [[número]] (*n*); [[media]].

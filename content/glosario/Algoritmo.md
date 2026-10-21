@@ -1,0 +1,1 @@
+En [[programción]], [[conjunto]] de pasos, procedimientos o acciones que nos permiten alcanzar un resultado o resolver un [[problema]] ([Cairó, 2005](https://www.google.cl/books/edition/Metodología_de_la_programación/aut1EAAAQBAJ?hl=es-419&gbpv=0)).

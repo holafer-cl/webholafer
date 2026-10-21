@@ -1,0 +1,1 @@
+En [[microbiología]], define un desequilibrio que implica perturbación del estado de simbiosis y se reconoce por cambios cualitativos y/o cuantitativos en la composición y funciones de la microbiota ([Álvarez et al., 2021](https://doi.org/10.1016/j.gastrohep.2021.01.009)).

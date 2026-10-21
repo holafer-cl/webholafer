@@ -1,0 +1,1 @@
+En [[estadística]], la conservación o custodia de [[datos]] en un registro o [[banco de datos]] ([Ley 19628 Chile, 2024](https://www.bcn.cl/leychile/navegar?idNorma=141599)).

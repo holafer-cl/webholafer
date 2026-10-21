@@ -1,0 +1,1 @@
+En [[estadística]], [[prueba]] en que la que la región crítica incluye valores que se encuentran en ambos lados de la [[media]] de la [[distribución]] [muestral](Muestra) (extremos derecho e izquierdo); [[prueba]] de dos colas ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

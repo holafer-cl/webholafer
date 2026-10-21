@@ -1,0 +1,1 @@
+En [[estadística]], [[análisis]] simultáneo de dos [variables](Variable) ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

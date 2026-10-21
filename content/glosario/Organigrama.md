@@ -1,0 +1,1 @@
+En [[cibernética]], 1) sinopsis o esquema de la organización de una entidad, de una [[empresa]] o de una tarea. 2) Representación gráfica de las operaciones sucesivas en un [[proceso]] industrial, de informática, etc ([DLE, 2024](https://dle.rae.es/organigrama)).

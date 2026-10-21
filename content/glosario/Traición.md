@@ -1,0 +1,1 @@
+En [[psicología]], [[sentimiento]] producido por la falta de lealtad cometida por una [[persona]] que no cumple con su palabra o con lo que se esperaba de él. La traición no es un fenómeno afectivo, pero provoca emociones que se expresan con: "Me siento traicionado" ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

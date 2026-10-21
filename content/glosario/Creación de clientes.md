@@ -1,0 +1,1 @@
+En [[economía]], Tercera fase de las cuatro que componen el [[desarrollo de clientes]]. En la fase de creación, una vez que los creadores del [[negocio]] validan su [[modelo de negocio]], se centran en aumentar las acciones de venta y marketing para crecer ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

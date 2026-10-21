@@ -1,0 +1,1 @@
+En [[economía]], Exposición comercial en televisión, vallas publicitarias, postal o en internet. La publicidad y los medios de comunicación de pago son parte de los programas de captación de [[clientes]] de un [[negocio]]. Ver [[Publicidad gratuita]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

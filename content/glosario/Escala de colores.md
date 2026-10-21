@@ -1,0 +1,1 @@
+En [[colorimetría]], serie de números ordenados que representa gradaciones observables de un atributo determinado o gradaciones de una combinación de atributos de percepción del [[color]] ([IUPAC, 2023](https://doi.org/10.1351/goldbook.CT07342))

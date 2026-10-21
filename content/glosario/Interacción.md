@@ -1,0 +1,3 @@
+En [[ecología]], acción recíproca entre dos o más elementos que forman el [[ecosistema]]; la [[ecología]], como [[ciencia]], estudia tales interacciones dentro del individuo, entre individuos y con el medio [[ambiente]] ([Sarmiento, 2000](https://books.google.cl/books?id=vt1BF53n3woC&newbks=1&newbks_redir=0&hl=es-419&redir_esc=y)).
+
+Mutulismo, [[comensalismo]], antagonismo (parasitismo y predación), neutralismo (co-ocurrencia), amensalismo, competancia.

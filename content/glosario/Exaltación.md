@@ -1,0 +1,1 @@
+En [[psicología]], aumento o viveza de un [[sentimiento]] o [[pasión]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

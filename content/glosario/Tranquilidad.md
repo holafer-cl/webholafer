@@ -1,0 +1,1 @@
+En [[psicología]], estado de [[calma]] y armonía; [[sosiego]] y serenidad frente a una [[persona]], lugar o situación ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

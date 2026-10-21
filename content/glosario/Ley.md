@@ -1,0 +1,1 @@
+Norma, regla o [[principio]] [[constante]] e invariable, que ha nacido como fruto de la [[investigación]] científica y aprobada por los cuerpos colegiados correspondientes ([Sarmiento, 2000](https://books.google.cl/books?id=vt1BF53n3woC&newbks=1&newbks_redir=0&hl=es-419&redir_esc=y)).

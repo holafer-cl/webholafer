@@ -1,0 +1,1 @@
+La [[ciencia]] y la tecnología utilizadas para cuantificar y describir físicamente la percepción humana del [[color]] ([Ohno, 2000](https://web.archive.org/web/20090515032644/http://www.physics.nist.gov/Divisions/Div844/facilities/photo/Publications/OhnoNIP16-2000.pdf)) . 

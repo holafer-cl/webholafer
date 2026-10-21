@@ -1,0 +1,1 @@
+En [[psicología]], [[rechazo]] o [[repugnancia]] frente a algo o alguien ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

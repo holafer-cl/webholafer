@@ -1,0 +1,1 @@
+En [[kinesiología]], [[movimiento]] específico de la articulación en silla de montar del pulgar, en donde el pulgar es capaz de tocar la punta de los dedos de la misma mano ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

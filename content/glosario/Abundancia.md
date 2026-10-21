@@ -1,0 +1,1 @@
+En [[ecología]], [[número]] total de individuos de una [[especie]] o especies que existen en un área, volumen, [[población]], o [[comunidad]] dadas ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

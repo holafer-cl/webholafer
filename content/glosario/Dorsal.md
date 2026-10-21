@@ -1,0 +1,1 @@
+En [[kinesiología]], relativo a la espalda o la parte [[posterior]] (opuesto a [[ventral]]) ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

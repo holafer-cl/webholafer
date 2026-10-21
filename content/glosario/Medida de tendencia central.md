@@ -1,0 +1,2 @@
+En [[estadística]], cualquiera de una clase de estadísticas descriptivas que reflejan el punto medio o central de un [[conjunto]] de puntuaciones. Las medidas de [[tendencia central]] más comunes son la [[MEDIA]], LA [[MEDIANA]] y la [[MODA]], que son las puntuaciones promedio, punto medio y que ocurren con mayor frecuencia en una [[distribución]], respectivamente. También llamada medida de ubicación ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)). Ver [[estadística descriptiva]]
+

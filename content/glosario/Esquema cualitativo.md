@@ -1,0 +1,5 @@
+En [[colorimetría]],
+
+**A)** Los [colores](Color) en los esquemas cualitativos deben poder distinguirse fácilmente entre sí. También deben ser similares en [[luminosidad]] y [[saturación]] para evitar que las clases se enfaticen demasiado o poco. Desafortunadamente, los humanos sólo pueden distinguir de manera confiable entre 5 y 10 colores simultáneamente, por lo que el [[número]] de clases debe ser pequeño. Usar colores “con nombre” saturados y de brillo medio es un buen enfoque: rojo, azul, verde, morado, naranja, etc ([NASA, 2023](https://earthobservatory.nasa.gov/resources/blogs/intro_to_color_for_visualization.pdf)).
+
+**B)** Las paletas cualitativas no dependen ni implican diferencias de magnitud entre clases. Normalmente, los tonos se emplean con una [[luminosidad]] [[constante]] para representar [[datos]] nominales y categóricos ([Hattab et al., 2020](https://doi.org/10.1371/journal.pcbi.1008901)). [[Esquema de colores]]

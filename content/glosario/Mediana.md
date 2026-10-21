@@ -1,0 +1,1 @@
+En [[estadística]], [[valor]] de una [[variable]] en un agrupamiento ordenado que posee un [[número]] igual de observaciones, o items, sobre y bajo este; cuartil segundo ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

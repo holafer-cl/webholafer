@@ -1,0 +1,1 @@
+En [[ecología]], [[número]] exacto de individuos de un [[taxón]] que habitan en un área, volumen, [[población]] o [[comunidad]] dadas ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)). [[Abundancia]]

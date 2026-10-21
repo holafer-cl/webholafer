@@ -1,0 +1,1 @@
+[[Unidad]] de frecuencia derivada del [[SI]] igual a un ciclo por [[segundo]], Hz = s−1 ([IUPAC, 2014](https://doi.org/10.1351/goldbook.H02785)).

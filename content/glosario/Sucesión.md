@@ -1,0 +1,1 @@
+En [[ecología]], la manera ordenada y predecible por la cual las [comunidades](Comunidad) cambian con el [[tiempo]] después de la colonización de un nuevo entorno ([Faust & Raes, 2012](https://doi.org/10.1038/nrmicro2832)).

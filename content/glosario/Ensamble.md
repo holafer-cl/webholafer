@@ -1,0 +1,1 @@
+En [[ecología]], el [[grupo]] de [especies](Especie) que se encuentran juntas y no imparte ningún supuesto ecológico ([Guy & Brown, 2007](https://doi.org/10.47886/9781888569773)).

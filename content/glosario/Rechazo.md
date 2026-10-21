@@ -1,0 +1,1 @@
+En [[psicología]], [[sentimiento]] de [[aversión]] o [[repugnancia]] que lleva a no aceptar a alguien o algo ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

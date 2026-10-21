@@ -1,0 +1,1 @@
+En [[ciencia]], acto de medir; estimación cuantitativa ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

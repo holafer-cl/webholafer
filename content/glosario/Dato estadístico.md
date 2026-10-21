@@ -1,0 +1,1 @@
+En [[estadística]], el dato o [[datos]] que, en su origen, o como consecuencia de su tratamiento, no puede ser asociado a un titular identificado o identificable ([Ley 19628 Chile, 2024](https://www.bcn.cl/leychile/navegar?idNorma=141599)).

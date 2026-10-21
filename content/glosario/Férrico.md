@@ -1,0 +1,1 @@
+En química, perteneciente o relativo al hierro ([DLE, 2024](https://dle.rae.es/férrico)).

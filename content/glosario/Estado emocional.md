@@ -1,0 +1,1 @@
+En [[psicología]], equivale a [[Estados de ánimo]]. En inglés *mood* ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

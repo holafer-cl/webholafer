@@ -1,0 +1,1 @@
+En [[sexología]] y [[terapia sexual]], es la recomendación de textos para que el paciente lea y reflexione sobre distintas miradas y aclare dudas, es parte de la [[educación sexual]] ([ADIPA, 2024](https://adipa.cl)).

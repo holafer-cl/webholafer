@@ -1,0 +1,1 @@
+En arte, fase de realización de una obra de arte, intermedia entre la concepción y su acabado. Esbozo, bosquejo. O, Industrial: aplicación de una idea o [[técnica]] artística a una actividad o [[producto]] industrial ([Borrás y Fatás, 2000](https://dialnet.unirioja.es/servlet/libro?codigo=291684)).

@@ -1,0 +1,3 @@
+**A)** En [[ecología]], es un [[conjunto]] de [especies](Especie) taxonómicamente relacionadas dentro de una [[comunidad]], como plantas, mamíferos o aves ([Guy & Brown, 2007](https://doi.org/10.47886/9781888569773)). Ver [[Taxonomía]]
+
+**B)** [[Grupo]] de especies que corresponden a un [[taxón]] supraespecífico particular y que aparecen juntas en la misma asociación ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

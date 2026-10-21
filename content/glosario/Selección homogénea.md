@@ -1,0 +1,1 @@
+En [[ecología]], [[selección]] en condiciones ambientales [abióticas](Abiótico) y bióticas homogéneas que conducen a [estructuras](Estructura) más similares entre [comunidades](Comunidad) ([Zhou & Ning, 2017](https://doi.org/10.1128%2FMMBR.00002-17)).

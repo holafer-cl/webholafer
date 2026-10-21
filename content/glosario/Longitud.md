@@ -1,0 +1,1 @@
+[[Cantidad base]] en el [[sistema]] de [cantidades](Cantidad) en el que se basa el [[SI]]. Se utilizan símbolos especiales para diferentes tipos de longitudes ([IUPAC, 2014](https://doi.org/10.1351/goldbook.L03498)). [[metro]]

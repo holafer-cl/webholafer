@@ -1,0 +1,1 @@
+Cualidad de curioso/sa, inclinación/[[deseo]] a aprender lo que no conoce ([DLE, 2024](https://dle.rae.es/curiosidad)). [[Persona]].

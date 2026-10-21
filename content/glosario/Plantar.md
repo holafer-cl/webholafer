@@ -1,0 +1,1 @@
+En [[kinesiología]], Relativo a la planta del pie ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

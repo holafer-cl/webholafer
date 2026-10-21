@@ -1,0 +1,1 @@
+En [[ecología]], *MAXIMUM POTENTIAL THEORY*. Los sistemas con mayor flujo de [[energía]] desplazan a los que poseen un flujo menor ([Sarmiento, 2000](https://books.google.cl/books?id=vt1BF53n3woC&newbks=1&newbks_redir=0&hl=es-419&redir_esc=y)). [[Teoría]]

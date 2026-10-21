@@ -1,0 +1,1 @@
+[[Unidad]] derivada del [[SI]] de flujo luminoso, lm = [cd](Candela) sr ([IUPAC, 2014](https://doi.org/10.1351/goldbook.L03639)).

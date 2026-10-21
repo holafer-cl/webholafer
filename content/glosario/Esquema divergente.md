@@ -1,0 +1,5 @@
+En [[colorimetría]],
+
+**A)** Un subconjunto de esquemas de [[color]] secuenciales, utilizados para [[datos]] que se apartan de una [[cantidad]] promedio o neutra (anomalía de [[temperatura]], carga eléctrica o pH) ([NASA, 2023](https://earthobservatory.nasa.gov/resources/blogs/intro_to_color_for_visualization.pdf)).
+
+**B)** Las paletas divergentes muestran variación visual en 2 direcciones. Se utilizan principalmente para poner el mismo énfasis en los valores medios y extremos en ambos extremos de los rangos de [[datos]] de [[intervalo]] y suelen ser simétricos. Los colores aumentan en la oscuridad para representar diferencias alrededor de un punto de ruptura (por ejemplo, [[cambio]] cero o valor medio) de un valor medio significativo específico en los [[datos]] ([Hattab et al., 2020](https://doi.org/10.1371/journal.pcbi.1008901)). [[Esquema de colores]]

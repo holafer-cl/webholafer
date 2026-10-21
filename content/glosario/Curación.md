@@ -1,0 +1,1 @@
+El acto o [[proceso]] de seleccionar y organizar algo, como artículos o imágenes, para su [[distribución]] o publicación ([Merriam Webster, 2024](https://www.merriam-webster.com/dictionary/curation)).

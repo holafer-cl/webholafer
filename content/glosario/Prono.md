@@ -1,0 +1,1 @@
+En [[kinesiología]], posición del [[cuerpo]] en la que la superficie [[ventral]] mira hacia abajo (opuesto a [[supino]]) ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

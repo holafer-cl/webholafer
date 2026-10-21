@@ -1,0 +1,1 @@
+En [[kinesiología]], [[movimiento]] de una articulación en dos superficies ventrales que se acercan (opuesto a [[extensión]]) ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

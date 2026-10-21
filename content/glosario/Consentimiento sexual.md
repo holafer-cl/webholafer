@@ -1,0 +1,1 @@
+En [[sexología]], capacidad de elegir/decidir, basado en tu propia experiencia interna para poder decidir lo que queremos física, emocional, mental, espiritual y [[sexual]]; así identificar para comunicar el deseo ([ADIPA, 2024](https://adipa.cl)).

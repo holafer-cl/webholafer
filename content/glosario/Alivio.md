@@ -1,0 +1,1 @@
+En [[medicina]], disminución y mitigación de las enfermedades, dolores, fatigas del [[cuerpo]] o aflicciones del [[ánimo]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

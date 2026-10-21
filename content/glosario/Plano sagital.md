@@ -1,0 +1,1 @@
+En [[kinesiología]], un plano vertical que se extiende en dirección anteroposterior, dividiendo el [[cuerpo]] en la parte derecha e izquierda ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

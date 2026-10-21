@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Vista
+    order:
+      - file.name
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: ASC

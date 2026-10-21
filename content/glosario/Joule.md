@@ -1,0 +1,1 @@
+[[Unidad]] de [[energía]] derivada del [[SI]], J = N m = [kg](Kilogramo) [m](Metro)2 [s](Segundo)−2 ([IUPAC, 2014](https://doi.org/10.1351/goldbook.J03363)).

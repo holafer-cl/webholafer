@@ -1,0 +1,1 @@
+En [[psicología]], [[emoción]] que se experimenta ante la pérdida. Puede ser de cosas, pero sobre todo de personas queridas. Estado de animo afligido por las propias penas o por las de otros. Afligido, apesadumbrado ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

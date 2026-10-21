@@ -1,0 +1,1 @@
+En [[psicología]], forma coloquial de [[aburrimiento]], aceptada por la RAE. Estado de cansancio o pesadez de algo o de alguien ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

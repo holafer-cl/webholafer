@@ -1,0 +1,1 @@
+En [[sexología]], el término "dispositivos sexuales" es un término simple que cubre un amplio espectro de [productos](Producto) utilizados para generar, facilitar o aumentar la [[excitación]] [[sexual]], el [[orgasmo]] y el juego [[erótico]] ([Dewitte & Reisman, 2021](https://doi.org/10.1038/s41585-021-00456-2)).

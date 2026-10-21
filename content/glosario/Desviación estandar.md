@@ -1,0 +1,1 @@
+En [[estadística]], medida de la variación dentro de un [[conjunto]] de [[datos]], calculada como la raíz cuadrada de la [[varianza]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

@@ -1,0 +1,1 @@
+**A)** En [[sexología]] y [[psicología]], es una fase de transición en la [[respuesta sexual humana]] que consolida la fase de [[excitación]]. Es una fase donde la excitación se mantiene en un nivel relativamente alta y [[constante]] ([ADIPA, 2024](https://adipa.cl)).

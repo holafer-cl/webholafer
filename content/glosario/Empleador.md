@@ -1,0 +1,1 @@
+En [[economía]], la [[persona]] natural o jurídica que utiliza los servicios intelectuales o materiales de una o más personas en virtud de un contrato de trabajo ([BCN, 2024](https://www.bcn.cl/leychile/navegar?idNorma=207436&idVersion=2024-05-01&idParte=)).

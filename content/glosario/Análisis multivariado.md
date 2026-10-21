@@ -1,0 +1,1 @@
+En [[estadística]], [[grupo]] de técnicas para el [[análisis]] simultáneo de más de una [[variable]] independiente, incluyendo el [[análisis]] de [[varianza]] y [[covarianza]], así como los métodos de [[regresión]] y [[correlación]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

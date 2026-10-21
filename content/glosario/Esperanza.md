@@ -1,0 +1,1 @@
+En [[psicología]], [[estados de ánimo]] en el cual se pasa mal, pero se confía en superarlo. Se nos presenta como posible lo que [deseamos](Deseo). Consiste en temer lo peor pero ansiar mejorar y esperar conseguirlo ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

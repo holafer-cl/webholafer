@@ -1,0 +1,1 @@
+El metro, [[símbolo]] m, es la [[unidad]] de [[longitud]] del [[SI]]. Se define tomando el [[valor]] numérico fijo de la [[velocidad de la luz en el vacío]] c como 299.792.458 cuando se expresa en la [[unidad]] m [s](Segundo)−1, donde el [[segundo]] se define en términos de la frecuencia del cesio ΔνCs ([IUPAC, 2021](https://doi.org/10.1351/goldbook.M03884)).

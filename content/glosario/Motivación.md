@@ -1,0 +1,1 @@
+En [[psicología]], disposición del [[ánimo]] para trabajar, emprender, mejorar y realizar cosas nuevas ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

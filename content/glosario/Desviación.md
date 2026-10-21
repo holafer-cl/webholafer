@@ -1,0 +1,1 @@
+En [[estadística]], divergencia de una observación con respecto a un [[valor]] dado o esperado ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

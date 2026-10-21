@@ -1,0 +1,1 @@
+En [[kinesiología]], hacia la espalda o la cara [[dorsal]] del [[cuerpo]] o de un órgano (opuesto a [[anterior]]) ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

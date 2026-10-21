@@ -1,0 +1,1 @@
+En [[psicología]], enfado. [[movimiento]] del [[ánimo]] que suscita ira contra alguien ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

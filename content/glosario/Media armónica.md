@@ -1,0 +1,1 @@
+En [[estadística]], recíproco de la [[media aritmética]] de los recíprocos de un [[conjunto]] de observaciones ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

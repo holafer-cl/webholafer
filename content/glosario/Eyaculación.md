@@ -1,0 +1,1 @@
+**A)** En [[sexología]] y [[psicología]], la eyaculación masculina se compone de fases: I) fase de emisión, donde el semen y los espermatozoides comienzan su recorrido antes de salir, II) fase de expulsión, sale el semen por la uretra del pene hacia afuera. Un cuerpo 100% relajado es incapaz de eyacular.
