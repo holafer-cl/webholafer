@@ -1,1 +1,0 @@
-En [[economía]], supone contrastar un [[grupo]] específico de [[clientes]] con alguna característica que no cambia con el [[tiempo]] con algún otro del que se quieren obtener referencias útiles para el [[negocio]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

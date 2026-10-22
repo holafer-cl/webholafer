@@ -1,1 +1,0 @@
-En [[estadística]], [[Método no paramétrico]] que comprende el [[análisis]] en un solo sentido de la [[varianza]] por rango; se utiliza para probar las deferencias en el nivel medio entre varias [muestras](Muestra) en las que el [[número]] obtenido por el conteo de muestras puede ser diferente ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

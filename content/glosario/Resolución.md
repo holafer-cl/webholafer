@@ -1,3 +1,0 @@
-**A)** En [[sexología]], es un periodo de restablecimiento físico y psíquico que se da después del [[orgasmo]]. En el hombre, hay un periodo de resolución entre cada [[orgasmo]]. En algunos hombres, el periodo de resolución entre cada [[orgasmo]] puede ser muy corto y comenzar casi de nuevo la [[respuesta sexual humana]] ([Shackelford & Weekes-Shackelford, 2021](https://doi.org/10.1007/978-3-319-19650-3)).
-
-**B)** En [[psicología]], es una fase de involución del compromiso somático que retorna a la condiciones basales del [[cuerpo]] ([ADIPA, 2024](https://adipa.cl)).

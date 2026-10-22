@@ -1,1 +1,0 @@
-En [[psicología]], [[conjunto]] de fenómenos relacionados con el [[afecto]]. Incluyen [emociones](Emoción), [sentimientos](Sentimiento), [[estado emocional]], trastornos emocionales e incluso rasgos de personalidad ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

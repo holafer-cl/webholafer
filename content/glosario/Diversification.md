@@ -1,1 +1,0 @@
-En [[ecología]], [[proceso]] evolutivo de generación de nuevas variantes genéticas, que es un equilibrio entre especiación y extinción ([Zhou & Ning, 2017](https://doi.org/10.1128%2FMMBR.00002-17)).

@@ -1,1 +1,0 @@
-En [[psicología]], [[proceso]] educativo (educación) que tiene como finalidad el desarrollo de competencias emocionales ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

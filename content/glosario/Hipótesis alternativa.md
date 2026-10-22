@@ -1,1 +1,0 @@
-En [[estadística]], la [[hipótesis]] aceptada cuando se descarta la [[hipótesis nula]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

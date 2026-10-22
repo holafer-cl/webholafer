@@ -1,1 +1,0 @@
-En [[psicología]], [[tedio]], [[aversión]] a alguien o algo ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

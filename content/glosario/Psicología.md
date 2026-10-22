@@ -1,1 +1,0 @@
-[[Ciencia]], estudio [[científico]] del comportamiento de los individuos y sus procesos mentales ([Pérez-Álvarez, 2018](https://doi.org/10.1007%2Fs12124-017-9408-4)).

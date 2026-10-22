@@ -1,3 +1,0 @@
-**A)** Se utiliza comúnmente en [[estadística]] para denotar constantes y diferenciarlas de las [variables](Variable); también se emplea para denotar descripciones adimensionales de una [[distribución]] o [[conjunto]] de [[datos]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).
-
-**B)**  [[Cantidad]] o [[valor]] que sirve como medida de alguna propiedad. Por ejemplo, el [[COEFICIENTE DE CORRELACIÓN]] es una medida de relación lineal y un COEFICIENTE DE [[REGRESIÓN]] es una medida de la [[relación]] entre un predictor y una [[variable]] de respuesta ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

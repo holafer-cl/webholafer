@@ -1,1 +1,0 @@
-En [[sexología]], ver [[relación sexual]].

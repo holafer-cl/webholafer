@@ -1,1 +1,0 @@
-En [[economía]], tercer paso en el ciclo de decisión de compra o [[embudo de ventas]] de un [[canal físico]]. En estos canales físicos, el [[embudo de ventas]] se compone de descubrimiento, [[interés]], reflexión y compra ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

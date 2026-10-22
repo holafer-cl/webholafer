@@ -1,1 +1,0 @@
-En [[microbiología]], [[microorganismos]] individuales (de los misma “[[especie]]”) forman una [[población]] ([Friedrich, 2011](https://doi.org/10.1007/978-1-4020-9212-1_144)).

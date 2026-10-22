@@ -1,1 +1,0 @@
-En [[psicología]], [[sentimiento]] de [[éxito]] en un desempeño o acción por haber conseguido algo ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

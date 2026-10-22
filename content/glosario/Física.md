@@ -1,1 +1,0 @@
-[[Ciencia]] que estudia las propiedades de los cuerpos y las leyes según las cuales se modifica su estado sin que se produzca un [[cambio]] de materia ([Larousse, 2008](https://www.google.cl/books/edition/Diccionario_Esencial_Física/9b4uBgAAQBAJ?hl=es-419)).

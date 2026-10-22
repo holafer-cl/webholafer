@@ -1,1 +1,0 @@
-En [[sexología]], representación o plantilla de desarrollo sincrónica en la mente y en el cerebro que representa al amante idealizado, la [[relación]] amorosa idealizada y el programa idealizado de actividad [sexuoerótico](Sexuoerótico) proyectado en imágenes o realizado realmente con el amante ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

@@ -1,1 +1,0 @@
-En [[psicología]], [[estado emocional]] de tensión al afrontar una situación en la que los retos se perciben como superiores a los propios recursos. Comporta efectos psicológicos y fisiológicos que afectan a la salud ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

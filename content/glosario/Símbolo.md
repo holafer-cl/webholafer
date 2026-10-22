@@ -1,1 +1,0 @@
-En comunicación, representación sensorialmente perceptible de una realidad, en virtud de rasgos que se asocian con ésta, por una convención socialmente aceptada ([Mondría, 2004](https://www.google.cl/books/edition/Diccionario_de_la_comunicación_comercia/Tu9OvAJxrRAC?hl=es-419&gbpv=0)).

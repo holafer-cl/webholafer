@@ -1,5 +1,0 @@
-**A)** [[Cantidad]] que no cambia de [[valor]] en una [[relación]] general entre [variables](Variable). Por ejemplo, en la ecuación y = 2x + 3, donde *x* y *y* son variables, los [números](Número) 2 y 3 son constantes. En este
-caso son constantes absolutas, pues nunca varían. A veces una constante puede tomar diversos valores en diferentes aplicaciones de una misma formula general. En la ecuación general de segundo grado ax2 + bx + c = 0, a, 0 y c son constantes porque no se les ha fijado ningún [[valor]], En una integral indefinida se incluye una constante arbitraria (la constante de integración) porque para una función f(x) la integral con respecto a x tiene la forma f(x)dx+c
-donde el [[valor]] de la constante c depende de los limites elegidos. Véase integral indefinida ([Daintith, 2002](https://biblioteca.multiversidadreal.com/BB/Biblio/Colectivo/Diccionario%20de%20Matematicas%20%281190%29/Diccionario%20de%20Matematicas%20-%20Colectivo.pdf)).
-
-**B)** Cantidad que tiene un valor fijo en un cálculo determinado ([Larousse, 2008](https://www.google.cl/books/edition/Diccionario_Esencial_Física/9b4uBgAAQBAJ?hl=es-419)).

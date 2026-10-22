@@ -1,1 +1,0 @@
-En [[estadística]], el [[análisis]] de [[datos]] apareados (*x1y1, x2y2...*) donde las *x* están medidas sin error y las *y* son [variables](Variable) aleatorias dependientes de las *x* ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

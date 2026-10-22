@@ -1,1 +1,0 @@
-[[Técnica]] [[estadística]] en la que la [[información]] de una TABLA DE CONTINGENCIA bidireccional se transforma en una presentación gráfica. Esto luego se puede analizar para comprender las asociaciones entre las diversas categorías de las diferentes variables involucradas ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

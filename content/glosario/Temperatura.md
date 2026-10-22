@@ -1,3 +1,0 @@
-**A)** En [[ecología]], grado de calor o de frío medido en una escala arbitraria (Celsius, [[Kelvin]], Centígrados, Fahrenheit, etc.) mediante termómetros que registran los [[datos]] del [[ambiente]] o de los objetos de estudio ([Sarmiento, 2000](https://books.google.cl/books?id=vt1BF53n3woC&newbks=1&newbks_redir=0&hl=es-419&redir_esc=y)).
-
-**B)** temperatura termodinámica, 𝑇. [[cantidad base]] en el [[sistema]] de [cantidades](Cantidad) en el que se basa el [[SI]] ([IUPAC, 2023](https://doi.org/10.1351/goldbook.T06321)). [[kelvin]]

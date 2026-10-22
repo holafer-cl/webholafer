@@ -1,1 +1,0 @@
-En [[estadística]], [[sistema]] [[científico]] que implica la formulación de teorías o [[hipótesis]] a partir de las cuales se deducen enunciados individuales que pueden probarse ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)). [[Estadística descriptiva]]

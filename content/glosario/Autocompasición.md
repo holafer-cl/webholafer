@@ -1,1 +1,0 @@
-En [[psicología]], compasión lastimosa por uno mismo. [[Sentimiento]] de pena ante situaciones percibidas como adversas y que no han sido aceptadas por uno mismo o no se tiene la confianza o habilidad para adaptarse a ellas ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

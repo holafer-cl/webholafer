@@ -1,1 +1,0 @@
-En [[kinesiología]], es lo que ocurre en el [[músculo]] objetivo cuando el [[músculo]] opuesto se contrae voluntariamente en forma de disminución de la actividad neuronal en el [[músculo]] objetivo ([Hindle, et al., 2012](https://doi.org/10.2478%2Fv10078-012-0011-y)).

@@ -1,1 +1,0 @@
-En [[sexología]], (sustantivo, somestésico) - en [[terapia sexual]], tratamiento, tratamiento que involucra los sentidos de la piel como el tacto, la presión (masaje), el calor/frío, la humedad/día y el aseo sensual por contacto corporal ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

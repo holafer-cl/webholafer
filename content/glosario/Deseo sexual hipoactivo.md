@@ -1,1 +1,0 @@
-**A)** En [[psicología]], se define cómo la ausencia o reducción: I) fantasías o pensamiento sexuales o eróticos, o [[deseo]] de [[actividad sexual]], II) evaluación de deficiencia clínica. ([ADIPA, 2024](https://adipa.cl)). Uso de metodo de Helen Kaplan, por ejemplo, [[focalización sensorial]]. 

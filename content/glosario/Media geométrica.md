@@ -1,1 +1,0 @@
-En [[estadística]], medida de posición; se encuentra entre la [[media aritmética]] y la [[media armónica]] y se calcula como la raíz *n*-esima del [[producto]] de *n* valores ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

@@ -1,1 +1,0 @@
-En [[economía]], ([[coste]] por [[adquisición]]) - Precio que pagan los negocios web para comprar [[clientes]] referidos, de partners/colaboradores o de otros negocios web ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

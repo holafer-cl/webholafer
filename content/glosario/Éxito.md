@@ -1,1 +1,0 @@
-En [[psicología]], [[sentimiento]] de [[satisfacción]] y autorrealización que sentimos cuando nos proponemos algo y lo conseguimos ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

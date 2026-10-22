@@ -1,1 +1,0 @@
-En [[psicología]], de [[ánimo]] tranquilo y agradable ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

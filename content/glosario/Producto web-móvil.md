@@ -1,1 +1,0 @@
-En [[economía]], [[producto]] hecho de bits: redes sociales, videojuegos o aplicaciones para dispositivos móviles son algunos ejemplos. Ver [[Producto físico]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

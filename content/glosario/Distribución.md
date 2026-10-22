@@ -1,1 +1,0 @@
-**A)** En [[ecología]], 1) Patrón geográfico de un [[taxón]] o [[grupo]]. 2) Patrón u ordenamiento espacial de los miembros de una [[población]] o grupos. 3) [[Distribución de frecuencia]] [[estadística]] de valores ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

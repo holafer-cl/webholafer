@@ -1,1 +1,0 @@
-En [[psicología]], [[emoción]] que se experimenta ante un peligro real e inminente que se vive como arrollador y que pone en riesgo la salud y la [[vida]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

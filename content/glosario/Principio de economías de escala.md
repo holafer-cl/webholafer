@@ -1,1 +1,0 @@
-Las organizaciones a gran escala disfrutan de numerosas ventajas competitivas, como la capacidad de comprar en cantidades a granel, reduciendo así los costes por [[unidad]] ([Umpleby, 2007](http://dx.doi.org/10.1002/sres.761)). 

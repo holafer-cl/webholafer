@@ -1,1 +1,0 @@
-En [[química]], un ácido es una molécula o un ion capaz de donar un protón (es decir, un ion hidrógeno, H+), [[conocido]] como ácido de Brønsted-Lowry, o bien, capaz de formar un enlace covalente con un par de electrones, conocido como ácido de Lewis ([IUPAC, 1994](https://doi.org/10.1351/pac199466051077)). 

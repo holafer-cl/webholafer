@@ -1,1 +1,0 @@
-En [[cibernética]], un [[sistema]] de canales, enlaces de comunicación, rutas de flujos de [[información]], caminos, etc., que se asemeja a un diagrama de tejido o cableado y se puede describir como un gráfico ([Krippendorff, 1986](https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf)).

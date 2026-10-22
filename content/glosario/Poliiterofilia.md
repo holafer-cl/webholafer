@@ -1,1 +1,0 @@
-En [[sexología]], una forma de hiperfilia en la que la propia capacidad de respuesta [[erotosexual]] de una [[persona]] se desarrolla hacia el [[orgasmo]] al reiterar la misma actividad (manual, oral, anal, vaginal o peneana) muchas veces con muchas parejas ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

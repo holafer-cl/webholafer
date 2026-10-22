@@ -1,1 +1,0 @@
-En [[ecología]], una [[comunidad]] [[microbiana]] característica que ocupa un [[hábitat]] razonablemente bien definido con propiedades biofisicoquímicas distintivas ([Berg et al., 2020](https://doi.org/10.1186/s40168-020-00875-0)).

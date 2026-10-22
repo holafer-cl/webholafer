@@ -1,1 +1,0 @@
-En [[estadística]], la [[media]] de los valores restantes después de la omisión de uno o más items que se consideraron atípicos ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

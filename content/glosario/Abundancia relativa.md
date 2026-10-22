@@ -1,1 +1,0 @@
-En [[ecología]], el [[número]] total de individuos de un [[taxón]], comparado con el [[número]] total de individuos de todos los demás taxones combinados, por [[unidad]] de área, volumen o [[comunidad]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)). [[Abundancia]]

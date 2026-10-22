@@ -1,4 +1,0 @@
-**A)** En [[psicología]], perturbación o [[afecto]] intenso. Proviene del latín pasio, que significa [[sufrimiento]] que se padece de forma pasiva, es decir, no se puede hacer nada para
-evitarlo. La pasión de Cristo refleja este sentido. En un sentido moderno diferente, es una [[emoción]] intensa. un [[sentimiento]] muy fuerte por alquien o algo, que implica [[deseo]] y entusiasmo hacia el objeto de pasión. Pasión por la música, por el arte, por el deporte. etc ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).
-
-**B)** En [[sexología]], esta etapa incluye [[deseo]], el [[sexo]], el [[amor]] y la ternura. Díaz, R. (1996). Una teoría bio-psico-socio-cultural de la relación de pareja. _Revista de psicología contemporánea_

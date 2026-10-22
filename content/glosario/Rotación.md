@@ -1,3 +1,0 @@
-**A)** En [[economía]], (a veces llamado desgaste o [[ratio]] de salidas/cancelaciones) - [[Número]] de [[clientes]] o abonados que dejan un servicio en un período determinado. Por lo general se mide en porcentajes mensuales. Si uno de cada diez [[clientes]] se va, la rotación de [[clientes]] es del 10 por ciento ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).
-
-**B)** En [[kinesiología]], [[movimiento]] alrededor de un eje fijo ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

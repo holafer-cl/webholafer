@@ -1,1 +1,0 @@
-En [[ecología]], componente no vivo de un [[ecosistema]], factores físicos y químicos del medio [[ambiente]]; [[ambiente biótico]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

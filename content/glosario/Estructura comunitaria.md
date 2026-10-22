@@ -1,1 +1,0 @@
-En [[microbiología]], la composición de una [[comunidad microbiana]] y la [[abundancia]] de sus miembros ([Friedrich, 2011](https://doi.org/10.1007/978-1-4020-9212-1_144)).

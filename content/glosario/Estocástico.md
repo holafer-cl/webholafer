@@ -1,1 +1,0 @@
-En [[estadística]], aleatorio o indeterminado; que surge del azar. O, describir un [[sistema]] o [[proceso]] que sigue un patrón de [[probabilidad]], de modo que los eventos puedan analizarse de acuerdo con su probabilidad estadística pero no predecirse con precisión ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

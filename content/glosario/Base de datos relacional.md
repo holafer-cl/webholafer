@@ -1,1 +1,0 @@
-En informática, una base de datos relacional es una recopilación de elementos de [[datos]], con relaciones predefinidas entre ellos, basada en el [[modelo relacional]] de [[datos]] ([Codd, 1970](https://doi.org/10.1145/362384.362685)).

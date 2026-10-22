@@ -1,1 +1,0 @@
-En [[sexología]] y [[psicología]], 1) perteneciente o relativo al [[amor]], 2) que induce a [[amar]] ([DLE, 2024](https://dle.rae.es/amatorio)).

@@ -1,1 +1,0 @@
-En [[kinesiología]], posición del [[cuerpo]] acostado de lado ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

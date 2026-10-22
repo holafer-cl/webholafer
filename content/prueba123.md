@@ -1,4 +1,0 @@
----
-title: Esto es una prueba
-date: 2026-10-08T12:30:11
----

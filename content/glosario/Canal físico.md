@@ -1,1 +1,0 @@
-En [[economía]], [[canal]] de [[distribución]] y ventas con puntos físicos de contacto con el cliente. Puede incluir almacenes, tiendas minoristas y representantes, intermediarios, comerciales o vendedores y dependientes. Ver [[Canal web-móvil]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

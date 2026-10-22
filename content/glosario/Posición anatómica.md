@@ -1,1 +1,0 @@
-En [[kinesiología]], posición erguida, con los brazos y las manos dirigidos hacia delante ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

@@ -1,1 +1,0 @@
-En [[psicología]], son las emociones que se experimentan ante las obras de arte o ante la belleza. Cualquiera de las emociones puede ser una [[emoción]] estética cuando se vive de forma lúdica ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

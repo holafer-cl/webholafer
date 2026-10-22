@@ -1,1 +1,0 @@
-En [[economía]], Segunda de las cuatro fases del [[desarrollo de clientes]]. En la fase de validación, los creadores del [[negocio]] utilizan las [[hipótesis]] que hayan confirmado y tratan de conseguir los primeros pedidos/[[Usuario]]/clientes ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

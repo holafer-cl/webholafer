@@ -1,1 +1,0 @@
-En [[ecología]], [[proceso]] por el cual las [especies](Especie) colonizan e interactúan para establecer y mantener [comunidades](Comunidad) locales a través de una inmigración secuencial repetida desde el [[conjunto]] de especies regionales ([Zhou & Ning, 2017](https://doi.org/10.1128%2FMMBR.00002-17)).

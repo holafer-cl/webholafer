@@ -1,1 +1,0 @@
-En [[psicología]], [[estado emocional]] y de conducta que se caracteriza por la [[tranquilidad]] y el control emocional ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

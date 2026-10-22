@@ -1,2 +1,0 @@
-En [[ecología]], ([[índice]]) - Medida de la [[similitud]] entre la composición de [especies](Especie) de dos [comunidades](Comunidad) calculada como S = 2c/(a + b), donde a y b son los números de las especies en las comunidades A y B, respectivamente, y c es el [[número]] común de ambas; generalmente se expresa como un porcentaje ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).
-

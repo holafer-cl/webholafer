@@ -1,1 +1,0 @@
-En [[ecología]], UMBRELLA SPECIES. Aquellas que cumplen funciones generales y que tienen un nivel de redundancia dependiente de su posición en la [[red]], por lo que pueden controlar diversas funciones al mismo [[tiempo]] sobre varias cadenas alimenticias ([Sarmiento, 2000](https://books.google.cl/books?id=vt1BF53n3woC&newbks=1&newbks_redir=0&hl=es-419&redir_esc=y)). [[Especie]]

@@ -1,1 +1,0 @@
-En [[ecología]], los [[organismos]] que llegan primero a un lugar tienen impactos negativos o positivos sobre los [[organismos]] que llegan después ([Zhou & Ning, 2017](https://doi.org/10.1128%2FMMBR.00002-17)).

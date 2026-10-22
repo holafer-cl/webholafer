@@ -1,1 +1,0 @@
-En [[economía]], es lo que los nuevos negocios hacen antes de encontrar un [[modelo de negocio]] repetible y escalable. El proceso de búsqueda utiliza el [[proceso]] de [[desarrollo de clientes]] que se describe en esta obra. Ver Ejecución ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

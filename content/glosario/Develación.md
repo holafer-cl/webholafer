@@ -1,1 +1,0 @@
-En [[psicología]] y [[sexología]], [[proceso]] por el cual el abuso [[sexual]] es dado a conocer a personas ajenas a la situación ([ADIPA, 2024](https://adipa.cl)).

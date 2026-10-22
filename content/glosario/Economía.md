@@ -1,1 +1,0 @@
-**A)** [[Ciencia]] social que estudia la asignación óptima de unos recursos escasos para [satisfacer](Satisfacción) [[necesidades]] humanas. Analiza la producción, [[distribución]] y consumo de los bienes ([Elosua, et al. 2003](https://www.google.cl/books/edition/Diccionario_LID/JH7KAAAACAAJ?hl=es-419)).

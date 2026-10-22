@@ -1,1 +1,0 @@
-En [[ecología]] de [sistemas](Sistema), es la unión o el [[conjunto]] de subsistemas semejantes que conforman una [[unidad]] funcional o estructural mayor equilibrada. Existen varios tipos de tejidos ecológicos condicionados por su conectividad específica ([Sarmiento, 2000](https://books.google.cl/books?id=vt1BF53n3woC&newbks=1&newbks_redir=0&hl=es-419&redir_esc=y)).

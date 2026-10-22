@@ -1,1 +1,0 @@
-En [[kinesiología]], [[movimiento]] en una articulación que da lugar a dos superficies ventrales que se separan (opuesto a la [[flexión]]) ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

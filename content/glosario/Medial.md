@@ -1,1 +1,0 @@
-En [[kinesiología]] o interno - Localizado cerca de o en la línea [[media]] del [[cuerpo]] o de un órgano (opuesto a [[lateral]] o externo) ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

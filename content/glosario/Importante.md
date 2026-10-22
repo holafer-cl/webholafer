@@ -1,1 +1,0 @@
-En [[cibernética]], para gestionar el [[tiempo]] las tareas importantes son proyectos más grandes relacionados con los objetivos personales y las iniciativas de planificación estratégica ([Kennedy &Porter, 2022](https://doi.org/10.5688/ajpe8914)).

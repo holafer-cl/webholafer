@@ -1,1 +1,0 @@
-En [[economía]], Primer pedido que llega desde un [[canal]] al productor. También puede ser un pedido estacional como los sell-in de antes de Navidad ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

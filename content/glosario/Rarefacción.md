@@ -1,1 +1,0 @@
-En [[estadística]], medio para estandarizar las muestras de una [[comunidad]], a fin de medir la [[diversidad]] de las [especies](Especie), hacia un tamaño de [[muestra]] común; método para calcular el [[número]] de especies que se esperaría aparecieran en muestras de tamaño estándar ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

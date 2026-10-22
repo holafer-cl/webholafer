@@ -1,1 +1,0 @@
-En [[kinesiología]], relativo a la parte [[anterior]] o frontal (opuesto a [[dorsal]]) ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

@@ -1,1 +1,0 @@
-En [[cibernética]], un atributo que enfatiza el [[movimiento]], el [[cambio]] y el [[proceso]] en contraposición a lo "estático" ([Krippendorff, 1986](https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf)).

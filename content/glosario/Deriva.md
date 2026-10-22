@@ -1,1 +1,0 @@
-En [[ecología]], [cambios](Cambio) aleatorios, con respecto a la identidad de las [especies](Especie), en las abundancias relativas de diferentes especies dentro de una [[comunidad]] a lo largo del [[tiempo]] debido a los procesos estocásticos inherentes de nacimiento, muerte y reproducción ([Zhou & Ning, 2017](https://doi.org/10.1128%2FMMBR.00002-17)).

@@ -1,1 +1,0 @@
-En [[ecología]], *EURITOPE SPECIES*. Aquella que se extiende por un área extensa, no restringida ([Sarmiento, 2000](https://books.google.cl/books?id=vt1BF53n3woC&newbks=1&newbks_redir=0&hl=es-419&redir_esc=y)). [[Especie]]

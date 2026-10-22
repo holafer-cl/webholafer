@@ -1,1 +1,0 @@
-En [[ecología]], la [[diversidad]] de [especies](Especie) dentro de un [[hábitat]] o [[comunidad]] particular; [[diversidad]] en una [[muestra]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

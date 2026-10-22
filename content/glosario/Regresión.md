@@ -1,3 +1,0 @@
-**A)** En [[estadística]], estimación de la [[relación]] entre una [[variable]] y una o más variables distintas, expresando una en términos de una función lineal, o más compleja, que las otras ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).
-
-**B)** En [[microbiología]],  predicción de una [[relación]] entre una [[variable]] dependiente (aquí, la [[abundancia]] de una [[especie]] objetivo) y variables independientes (la [[abundancia]] (o abundancias) de una o más especies fuente independientes, rasgos ambientales y posiblemente un término de ruido), que aquí se denominan factores ([Faust & Raes, 2012](https://doi.org/10.1038/nrmicro2832)).

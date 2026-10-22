@@ -1,1 +1,0 @@
-En [[estadística]], todo tratamiento de [[datos personales]] de manera que la [[información]] que se obtenga no pueda asociarse a [[persona]] determinada o determinable ([Ley 19628 Chile, 2024](https://www.bcn.cl/leychile/navegar?idNorma=141599)).

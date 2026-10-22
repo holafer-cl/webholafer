@@ -1,1 +1,0 @@
-En [[economía]], Barbarismo con significado equícovo que se utiliza como sinónimo de normal, normalizado, objetivo, presupuestado o típico según los casos ([Elosua, et al. 2003](https://www.google.cl/books/edition/Diccionario_LID/JH7KAAAACAAJ?hl=es-419)).

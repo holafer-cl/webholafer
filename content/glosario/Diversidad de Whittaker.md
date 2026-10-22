@@ -1,1 +1,0 @@
-En [[ecología]], ([[diversidad beta]]) - se definió como la [[relación]] entre la [[diversidad gamma]] y [[diversidad alfa]] ([Whittaker, 1972](https://doi.org/10.2307/1218190)).

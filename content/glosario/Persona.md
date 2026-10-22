@@ -1,1 +1,0 @@
-Individuo de la [[especie]] humana ([DLE, 2023](https://dle.rae.es/persona?m=form)).

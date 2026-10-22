@@ -1,1 +1,0 @@
-[[Cantidad base]] en el [[sistema]] de [cantidades](Cantidad) en el que se basa el [[SI]] ([IUPAC, 2014](https://doi.org/10.1351/goldbook.M03709)). [[kilogramo]]

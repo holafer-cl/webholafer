@@ -1,1 +1,0 @@
-En [[kinesiología]], [[movimiento]] en el que la palma de la mano está girada hacia el techo, o hacia las posiciones anatómica o fetal ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

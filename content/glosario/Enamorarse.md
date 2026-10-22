@@ -1,1 +1,0 @@
-En [[sexología]], la experiencia personal y la expresión manifiesta de apegarse o vincularse intensamente, y posiblemente repentinamente, a otra [[persona]]. Puede ser recíproco y fuente de gran éxtasis, o unilateral y fuente de gran agonía. Suele ser [[erotosexual]] ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

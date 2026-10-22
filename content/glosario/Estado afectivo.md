@@ -1,1 +1,0 @@
-En [[psicología]], en sentido restrictivo equivale a [[Estados de ánimo]]. En ingles mood. En sentido amplio puede equivaler a [[fenómenos afectivos]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

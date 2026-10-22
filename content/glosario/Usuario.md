@@ -1,1 +1,0 @@
-Dicho de una [[persona]] que usa algo o que tiene derecho de usar de una cosa ajena con cierta limitación ([DLE, 2023](https://dle.rae.es/usuario?m=form)).

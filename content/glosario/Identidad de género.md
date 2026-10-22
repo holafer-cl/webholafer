@@ -1,1 +1,0 @@
-En [[psicología]], hace referencia al [[género]] y se clasifican en más comunes; incluye transgénero, cisgénero, no binario ([ADIPA, 2024](https://adipa.cl)).

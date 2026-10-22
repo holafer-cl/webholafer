@@ -1,1 +1,0 @@
-En [[psicología]], coincide con el desarrollo económico y tecnológico. Es el objetivo principal propugnado por las organizaciones (empresas, industria, comercio, política, etc.). Es muy importante, pero no es suficiente para asegurar la [[felicidad]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

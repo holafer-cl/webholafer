@@ -1,1 +1,0 @@
-En [[sexología]], parte del cerebro situada en el lóbulo temporal. Pertenece al "viejo cerebro" o sistema límbico. La amígdala parece estar implicada en la memoria y en la elaboración y expresión de la [erotosexualidad](Erotosexual) y la agresividad ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

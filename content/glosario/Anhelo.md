@@ -1,1 +1,0 @@
-En [[psicología]], [[deseo]] vehemente ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

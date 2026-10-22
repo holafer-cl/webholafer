@@ -1,1 +1,0 @@
-En [[psicología]] y [[sexología]], conjunto de consecuencias negativas que experimenta la víctima como consecuencia de su paso por el sistema o derivado de su interacción con el entorno social en general ([ADIPA, 2024](https://adipa.cl)).

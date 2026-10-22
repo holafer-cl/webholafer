@@ -1,1 +1,0 @@
-En [[psicología]], valoración personal que integra los diversos tipos de [[bienestar]] (material, físico, social, profesional, emocional, etc.) ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

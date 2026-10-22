@@ -1,1 +1,0 @@
-En [[sexología]], cualquier síntoma persistente físico, emocional, psicológico producto de una agresión de tipo [[sexual]] ([ADIPA, 2024](https://adipa.cl)).

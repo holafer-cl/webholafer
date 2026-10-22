@@ -1,1 +1,0 @@
-En [[psicología]], acto de participación recíproca en algo, ya sea material o inmaterial, que lleva implícito el [[valor]] de dar (generosidad) y de recibir, aceptar o acoger lo que otra [[persona]] ofrece. El auténtico compartir implica algún tipo de [[amor]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

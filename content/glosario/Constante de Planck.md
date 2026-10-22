@@ -1,1 +1,0 @@
-La [[constante]] de Planck, h, es una de las siete constantes fijas que definen el [[Sistema]] Internacional de Unidades, el [[SI]], con h = 6,62607015×10−34 [J](Joule) [s](Segundo). La constante de Planck se considera una constante fundamental de la [[naturaleza]] ([IUPAC, 2020](https://doi.org/10.1351/goldbook.P04685)).

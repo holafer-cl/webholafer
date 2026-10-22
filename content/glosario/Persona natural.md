@@ -1,1 +1,0 @@
-Son [personas](Persona) todos los individuos de la [[especie]] humana, cualquiera que sea su edad, [[sexo]], estirpe o condición. Divídense en chilenos y extranjeros ([Ley 4.808 Chile, 2024](https://www.bcn.cl/leychile/navegar?idNorma=172986&idVersion=Diferido)).

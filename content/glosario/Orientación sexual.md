@@ -1,3 +1,0 @@
-**A)** En [[sexología]], es la capacidad de establecer la [[respuesta sexual humana]], [[amor]] de pareja y [[reproductividad]] con personas del [[sexo]] opuesto, el mismo [[sexo]] o con los dos sexos ([Neira, 2010](https://repositorio.unam.mx/contenidos/identidad-sexual-una-propuesta-teorica-desde-un-enfoque-integral-266839?c=BG7AQK&d=false&q=*:*&i=1&v=1&t=search_0&as=0)).
-
-**B)** En [[psicología]], capacidad de sentir [[atracción]] física, emocional, erótica hacia personas del mismo, diferente o independiente del [[género]] ([ADIPA, 2024](https://adipa.cl)). Se incluye, asexual, pansexual, entre otros.

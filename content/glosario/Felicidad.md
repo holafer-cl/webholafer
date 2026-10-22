@@ -1,1 +1,0 @@
-En [[psicología]], estado de [[bienestar emocional]]. [[Satisfacción]], plenitud, armonía. Vivencia y experiencia de emociones positivas. Ausencia de [[miedo]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

@@ -1,3 +1,0 @@
-En [[sexología]], esta etapa florece cuando los [cambios](Cambio), presiones y obligaciones de la [[vida]] cotidiana propician tensiones que la pareja no puede manejar, lo cual lleva a [sentimientos](Sentimiento) de frustración, [[enojo]], irritación y temor. Si la pareja no puede resolver el conflicto a corto plazo, por lo general la pareja busca ayuda externa e incluso profesional para resolver el conflicto.
-
-Díaz, R. (1996). Una teoría bio-psico-socio-cultural de la relación de pareja. _Revista de psicología contemporánea_

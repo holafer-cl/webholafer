@@ -1,1 +1,0 @@
-En [[colorimetría]], es el [[conjunto]] de consideraciones prácticas que impulsan el desarrollo de combinaciones de [colores](Color) contemporáneas en una paleta ([Plante & Cushman, 2020](https://doi.org/10.1002%2Frth2.12308)).

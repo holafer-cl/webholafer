@@ -1,1 +1,0 @@
-En [[psicología]], [[emoción]] que produce el logro de objetivos, sucesos favorables, el encuentro con personas queridas y otros eventos valorados como un progreso hacia el [[bienestar]]. Las mayores alegrías se relacionan con el [[amor]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

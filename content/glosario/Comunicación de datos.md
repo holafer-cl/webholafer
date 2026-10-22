@@ -1,1 +1,0 @@
-En [[estadística]], comunicación o transmisión de datos, dar a conocer de cualquier forma los datos de carácter personal a personas distintas del titular, sean determinadas o indeterminadas ([Ley 19628 Chile, 2024](https://www.bcn.cl/leychile/navegar?idNorma=141599)).

@@ -1,1 +1,0 @@
-En [[microbiología]], [[comunidad]], todas las [poblaciones](Población) microbianas de un [[hábitat]] ([Friedrich, 2011](https://doi.org/10.1007/978-1-4020-9212-1_144)).

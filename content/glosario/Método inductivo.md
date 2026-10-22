@@ -1,1 +1,0 @@
-En [[estadística]], método [[científico]] que implica la formulación de afirmaciones universales, como las [[hipótesis]] o teorías, a partir de afirmaciones particulares, como observaciones empíricas o resultados experimentales ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)). [[Estadística inferencial]]

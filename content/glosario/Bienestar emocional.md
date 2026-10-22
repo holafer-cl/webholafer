@@ -1,1 +1,0 @@
-En [[psicología]], experiencia de [[emociones positivas]]. Es lo más próximo a sentirse feliz. Coincide bastante con el [[bienestar subjetivo]] ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

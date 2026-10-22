@@ -1,1 +1,0 @@
- En [[estadística]], una evaluación de la [[DISPERSIÓN]] dentro de una [[muestra]], generalmente expresada como un [[COEFICIENTE DE VARIACIÓN]] o un [[ÍNDICE DE DIVERSIDAD]] ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

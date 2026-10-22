@@ -1,1 +1,0 @@
-En [[psicología]], las emociones se agrupan en familias. Ejemplos de familias de emociones son: [[miedo]] (temor, [[terror]], pánico), [[ira]] (rabia, [[enfado]], [[enojo]]), [[tristeza]] (pena, [[sufrimiento]], [[depresión]]), [[alegría]] (ilusión, entusiasmo, éxtasis), etc. ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

@@ -1,1 +1,0 @@
-En [[física]], COORDENADAS CARTESIANAS; COORDENADAS CILÍNDRICAS; COORDENADAS POLARES ([Larousse, 2008](https://www.google.cl/books/edition/Diccionario_Esencial_Física/9b4uBgAAQBAJ?hl=es-419)).

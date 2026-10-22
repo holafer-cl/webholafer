@@ -1,1 +1,0 @@
-En [[psicología]], [[fastidio]], [[tedio]] o [[enfado]] que causa alguien o algo. De mala gana, incómodamente ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

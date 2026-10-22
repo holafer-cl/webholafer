@@ -1,1 +1,0 @@
-En [[ecología]], (*organismo*) - En biología, un individuo constituido para llevar a cabo todas las funciones de la [[vida]] [LINK](https://www.eea.europa.eu/help/glossary/eea-glossary/organism).

@@ -1,1 +1,0 @@
-En [[economía]], estudio de lo que los empleados entienden, perciben, creen y opinan sobre la [[empresa]] y sus productos. Ver [[Auditoría externa]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

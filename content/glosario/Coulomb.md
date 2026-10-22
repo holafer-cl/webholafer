@@ -1,1 +1,0 @@
-[[Unidad]] derivada del [[SI]] de carga eléctrica, C = [A](Amperio) ⋅ [s](Segundo) ([IUPAC, 2014](https://doi.org/10.1351/goldbook.C01365)).

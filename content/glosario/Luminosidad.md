@@ -1,3 +1,0 @@
-En [[colorimetría]], (luminosidad o brillo) - Atributo de una sensación visual por la que un objeto parece emitir más o menos luz. Es la impresión subjetiva de la *luminancia* o *intensidad física* de un determinado haz de luz. Cada [[tono]] tiene varias luminosidades para el [[observador]], que dependen de la intensidad física de la radiación. Cuando la luminosidad es muy grande resulta molesta para el ojo y produce el *deslumbramiento*. El espectro solar observado de día muestra su brillo mayor en amarillo ([Urtubia, 1996](https://books.google.es/books?id=LaSrnjvpBXcC&lpg=PA7&hl=es&pg=PA230#v=onepage&q&f=false)). [[Color]]
-
-Junto al [[tono]] y la [[saturación]] o pureza, una de las tres características psicofísicas del [[color]].

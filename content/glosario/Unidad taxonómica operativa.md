@@ -1,1 +1,0 @@
-En [[ecología]] y [[microbiología]], (OTU), se refiere a grupos taxonómicos de bacterias y arqueas que se derivan de la agrupación de secuencias y que, por tanto, son específicos de las muestras analizadas ([Faust & Raes, 2012](https://doi.org/10.1038/nrmicro2832)).

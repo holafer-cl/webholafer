@@ -1,1 +1,0 @@
-En [[sexología]] y [[psicología]], tener [[amor]] a alguien o algo ([DLE, 2024](https://dle.rae.es/amar)).

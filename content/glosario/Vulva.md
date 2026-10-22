@@ -1,1 +1,0 @@
-En [[sexología]], los genitales femeninos externos. Ver también [[vagina]] ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

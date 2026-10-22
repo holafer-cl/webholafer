@@ -1,1 +1,0 @@
-En [[ecología]], el [[ambiente]] biológico que comprende todos los [[organismos]] que afectan la [[vida]] de un individuo, [[población]] o [[especie]] particular; [[ambiente abiótico]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

@@ -1,1 +1,0 @@
-En [[sexología]], es el [[ambiente]] donde una [[persona]] crece y le indica cómo debe comportarse según su [[sexo]] biológico ([Neira, 2010](https://repositorio.unam.mx/contenidos/identidad-sexual-una-propuesta-teorica-desde-un-enfoque-integral-266839?c=BG7AQK&d=false&q=*:*&i=1&v=1&t=search_0&as=0)).

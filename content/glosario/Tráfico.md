@@ -1,1 +1,0 @@
-En [[economía]], Medida de la [[cantidad]] de individuos que visitan una tienda o página web. Pueden llegar gracias a la publicidad pagada (es decir, Google, televisión o anuncios de Facebook) o [[publicidad gratuita]] (RRPP, referencias) ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

@@ -1,1 +1,0 @@
-En [[psicología]], [[actitud]] positiva frente a lo que no se puede cambiar. Estima hacia algo o alguien ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

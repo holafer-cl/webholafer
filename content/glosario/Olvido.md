@@ -1,3 +1,0 @@
-En [[sexología]], en esta etapa se da un intento de reintegrar a la pareja, principalmente al comparar la situación de soledad o respecto a una nueva [[relación]], y se reevalúa positivamente la antigua [[vida]] en pareja. Sin embargo, con el paso del [[tiempo]] se cierra este ciclo de pareja. 
-
-Díaz, R. (1996). Una teoría bio-psico-socio-cultural de la relación de pareja. _Revista de psicología contemporánea_

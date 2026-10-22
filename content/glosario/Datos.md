@@ -1,1 +1,0 @@
-En [[estadística]], [[unidad]] de [[información]]; hechos; observaciones; resultados de un experimento o estudio ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

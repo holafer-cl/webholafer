@@ -1,1 +1,0 @@
-En [[ecología]], medida de la [[similitud]] en la composición de las especies entre dos comunidades (*A* y *B*)m utilizando sólo [[datos]] binarios (presencia, ausencia); [[índice]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)). Ver Índice de Jaccard

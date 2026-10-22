@@ -1,1 +1,0 @@
-En [[psicología]], son las que aportan bienestar: [[alegría]], [[felicidad]], [[amor]], etc ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

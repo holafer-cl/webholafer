@@ -1,1 +1,0 @@
-En [[psicología]], estado emocionaI caracterizado por la [[esperanza]] de que ocurra la esperado ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

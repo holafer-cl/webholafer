@@ -1,1 +1,0 @@
-**A)** En [[sexología]], (sustantivo, cópula): emparejar, unirse o unirse como en la [[interacción]] [[sexual]] y la unión genital. Véase también [[coito]]; [[relación sexual]] ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

@@ -1,7 +1,0 @@
-En [[ecología]]:
-
-**A)** [[Índice]] univariado de [[diversidad]] basado en la [[teoría de la información]]; se le emplea como [[índice]] de biodiversidad en una [[muestra]] o congregación; su [[valor]] mínimo se presenta si todos los individuos pertenecen a la misma [[especie]], y su [[valor]] máximo si cada individuo pertenece a una [[especie]] distinta ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).
-
-**B)** Expresa la uniformidad de los valores de importancia a través de todas las especies de la [[muestra]]; mide el grado promedio de la [[incertidumbre]] en predecir a que [[especie]] pertenecerá un individuo escogido al azar en una colección. _H´_ = -∑(_p_ _i_ _ln p_ _i_ _)_. Dónde _p_ _i_ es la proporción de individuos de la i-esima [[especie]] = _n_ _i_ /_N_ ([Valdez et al., 2018](http://dx.doi.org/10.15517/rbt.v66i4.32135)).
-
-**C)** [[ÍNDICE DE DIVERSIDAD]] ampliamente utilizado en estudios ecológicos, donde proporciona [[información]] importante sobre la rareza o [[abundancia]] de especies en una [[comunidad]]. Se calcula identificando la [[PROBABILIDAD]] de cada [[especie]] en el [[sistema]], multiplicando cada [[valor]] de [[probabilidad]] por el LOGARITMO (generalmente el logaritmo natural) y tomando la suma negativa de esos números. También llamada medida de información de Shannon. Comparar el ÍNDICE DE SIMPSON. (Claude Shannon (1916-2001), matemático estadounidense) ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)). [[Diversidad alfa]]

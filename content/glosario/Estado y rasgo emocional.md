@@ -1,1 +1,0 @@
-En [[psicología]], al hablar de emociones se puede distinguir entre el [[estado emocional]] que una [[persona]] tiene en un momento dado y el [[estilo emocional]] (rasgo) que le caracteriza ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

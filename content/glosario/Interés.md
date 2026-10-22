@@ -1,3 +1,0 @@
-**A)** En [[economía]], En un [[canal físico]], el interés es una de las cuatro fases del ciclo (embudo) de ventas para captar [[clientes]]. Ver [[Atención]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).
-
-**B)** En [[psicología]], Inclinación del [[ánimo]] hacia algo o alguien (objeto, [[persona]], fenómeno) ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

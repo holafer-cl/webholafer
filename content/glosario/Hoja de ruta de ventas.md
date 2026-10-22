@@ -1,1 +1,0 @@
-En [[economía]], Ofrece detalles sobre cómo ejecutar cada paso del [[embudo de ventas]] - qué hace cada quién y en qué orden para que el [[negocio]] pueda hacer una venta ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

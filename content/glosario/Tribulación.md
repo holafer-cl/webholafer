@@ -1,1 +1,0 @@
-En [[psicología]], pena, disgusto o preocupación, o cosa que lo causa ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

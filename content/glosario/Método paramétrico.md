@@ -1,1 +1,0 @@
-En [[estadística]], [[prueba]] mediante la cual se formula una [[hipótesis]] acera de la forma de la [[distribución]] subyacente ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

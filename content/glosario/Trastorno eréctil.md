@@ -1,1 +1,0 @@
-**A)** En [[psicología]], se define como la dificultad marcada para: I) conseguir una erección durante la [[actividad sexual]], II) mantener la erección hasta finalizar la [[actividad sexual]], III) mantener rigidez de la erección ([ADIPA, 2024](https://adipa.cl)).

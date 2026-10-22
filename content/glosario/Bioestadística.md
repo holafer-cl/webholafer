@@ -1,1 +1,0 @@
- Rama de la [[estadística]] que se ocupa de recopilar y analizar [[datos]] relacionados con procesos biológicos o características de salud, especialmente en medicina y epidemiología. También llamada [[biometría]] ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

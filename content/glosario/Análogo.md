@@ -1,1 +1,0 @@
-En [[colorimetría]], los colores análogos son aquellos que se encuentran a ambos lados de un [[color]] determinado o están separados por uno. A menudo se trata de combinaciones de colores que se encuentran en la [[naturaleza]] ([Hattab et al., 2020](https://doi.org/10.1371/journal.pcbi.1008901)).

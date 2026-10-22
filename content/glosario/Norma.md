@@ -1,1 +1,0 @@
-En [[economía]], Regla que establece lo que se debe hacer y cómo en cada circunstancia, Puede estar implícita en la costumbre o haberse promulgado expresamente ([Elosua, et al. 2003](https://www.google.cl/books/edition/Diccionario_LID/JH7KAAAACAAJ?hl=es-419)).

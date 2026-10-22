@@ -1,1 +1,0 @@
-En [[economía]], Volumen de [[producto]] vendido por el [[canal]] al consumidor final. Cuando los productos se venden con el [[proceso]] «sell-through», rara vez puede ser devueltos al productor. Ver [[Saturación del canal]] ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).

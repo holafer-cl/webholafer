@@ -1,1 +1,0 @@
-En [[sexología]], condición o síndrome hipofílico, de etiología [[variable]], de capacidad defectuosa para experimentar [[excitación]] sexuoerótica en circunstancias normalmente propicias; mal llamada falta de deseo [[sexual]]. ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

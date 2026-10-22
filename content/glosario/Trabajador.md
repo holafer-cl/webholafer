@@ -1,1 +1,0 @@
-En [[economía]], toda [[persona]] natural que preste servicios personales intelectuales o materiales, bajo dependencia o subordinación, y en virtud de un contrato de trabajo ([BCN, 2024](https://www.bcn.cl/leychile/navegar?idNorma=207436&idVersion=2024-05-01&idParte=)).

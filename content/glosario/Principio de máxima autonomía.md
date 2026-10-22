@@ -1,1 +1,0 @@
-En [[cibernética]], el propósito de una red de planificación es proporcionar herramientas para la planificación local, en lugar de proporcionar principalmente un control centralizado de la planificación en los diferentes nodos (Arbib). [[Principio]]

@@ -1,1 +1,0 @@
-En [[psicología]], forma habitual de comportarse una [[persona]] en [[relación]] a sus emociones que más le caracterizan. Algunos autores de la neurociencia han propuesto substituir el [[concepto]] de personalidad por estilo emocional ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

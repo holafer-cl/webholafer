@@ -1,1 +1,0 @@
-En [[psicología]], es la forma de como se manifiesta el [[género]] a través de la apariencia, gestos, acciones y comportamientos en un contexto particular ([ADIPA, 2024](https://adipa.cl)).

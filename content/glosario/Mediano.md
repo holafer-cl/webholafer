@@ -1,1 +1,0 @@
-En [[kinesiología]], localizado centralmente o en medio del [[cuerpo]] ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

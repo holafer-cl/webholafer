@@ -1,1 +1,0 @@
-En [[estadística]], [[datos]] de carácter personal o datos personales, los relativos a cualquier [[información]] concerniente a personas naturales, identificadas o identificables ([Ley 19628 Chile, 2024](https://www.bcn.cl/leychile/navegar?idNorma=141599)). Ver [[Persona natural]].

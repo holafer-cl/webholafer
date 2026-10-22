@@ -1,1 +1,0 @@
-En [[ecología]], [[selección]] bajo condiciones ambientales [abióticas](Abiótico) y bióticas heterogéneas que conducen a [estructuras](Estructura) más diferentes entre [comunidades](Comunidad); También llamada selección de variables ([Zhou & Ning, 2017](https://doi.org/10.1128%2FMMBR.00002-17)).

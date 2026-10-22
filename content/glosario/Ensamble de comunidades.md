@@ -1,1 +1,0 @@
-En [[ecología]], es el estudio del [[proceso]] que conforma la identidad y la [[abundancia]] de las especies dentro de las [comunidades](Comunidad) ecológicas ([Kraft & Ackerly, 2014](https://doi.org/10.1007/978-1-4614-7501-9_1)).

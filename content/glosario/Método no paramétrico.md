@@ -1,5 +1,0 @@
-**A)** Los métodos no paramétricos, o métodos sin [[distribución]], son métodos estadísticos que no se basan en suposiciones de que los [[datos]] se extraen de una [[distribución de probabilidad]] determinada ([Sinharay, 2010](https://doi.org/10.1016/B978-0-08-044894-7.01719-X)).
-
-**B)** Los métodos no paramétricos son procedimientos estadísticos para probar [[hipótesis]] que no requieren una [[distribución normal]] (o cualquier otra forma particular de [[distribución]]) porque se basan en recuentos o rangos (la observación más pequeña tiene rango 1, la siguiente es 2, luego 3, etc. ) en lugar de los valores de [[datos]] reales ([Siegel & Wagner, 2022](https://doi.org/10.1016/B978-0-12-820025-4.00016-6)).
-
-**C)** [[Prueba]] [[estadística]] que no formula ninguna [[hipótesis]] sobre, y por lo tanto es independiente de, los valores de los parámetros que una función de densidad [[estadística]] o la forma precisa de la [[distribución]] madre de la que se derivaron los [[datos]] ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)). [[Parámetro]]

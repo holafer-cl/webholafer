@@ -1,1 +1,0 @@
-En [[kinesiología]], alejado de la superficie (opuesto a [[superficial]]) ([Niel-Asher, 2017](https://www.google.cl/books/edition/_/b1SRDwAAQBAJ?hl=es-419&gbpv=0)).

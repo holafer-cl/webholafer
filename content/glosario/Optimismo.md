@@ -1,1 +1,0 @@
-En [[psicología]], propensión a ver o esperar lo mejor. Disposición interna para valorar Ia realidad de la manera más positiva posible ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)). [[Emoción]]

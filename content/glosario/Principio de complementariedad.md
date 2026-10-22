@@ -1,1 +1,0 @@
-En [[cibernética]], algunas observaciones nunca pueden realizarse simultáneamente. Por ejemplo, no se puede ver un electrón como partícula y como onda al mismo [[tiempo]]. Son necesarias dos situaciones experimentales diferentes, que no pueden realizarse simultáneamente. El [[principio]] fue formulado por primera vez por Niels Bohr (Lefebvre, 1983, p. xxv).

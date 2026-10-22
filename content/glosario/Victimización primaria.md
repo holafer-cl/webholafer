@@ -1,1 +1,0 @@
-En [[psicología]] y [[sexología]], [[conjunto]] de consecuencias negativas que experimenta la víctima como consecuencia del acto delictivo mismo ([ADIPA, 2024](https://adipa.cl)).

@@ -1,1 +1,0 @@
-El [[movimiento]] de individuos hacia y/o el establecimiento de individuos (colonización) en una nueva ubicación está restringido, lo que lleva a [estructuras](Estructura) más diferentes entre las [comunidades](Comunidad) ([Zhou & Ning, 2017](https://doi.org/10.1128%2FMMBR.00002-17)).

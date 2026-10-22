@@ -1,3 +1,0 @@
-**A)** En [[ecología]], [[comunidad]] de [[organismos]] y su medio físico interactuando como una [[unidad]] [ecológica](Ecología); contenido biológico y físico completo de un biotopo ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).
-
-**B)** En [[microbiología]], una [[comunidad]] de [[microorganismos]] y su entorno natural ([Friedrich, 2011](https://doi.org/10.1007/978-1-4020-9212-1_144)).

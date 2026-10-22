@@ -1,1 +1,0 @@
-En [[economía]], [[necesidades]] de subsistencia, protección, [[afecto]], entendimiento, participación, ocio, creación, identidad y [[libertad]] ([Max-Neef et al., 2010](http://habitat.aq.upm.es/deh/adeh.pdf)).

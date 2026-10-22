@@ -1,1 +1,0 @@
-En [[sexología]], (sustantivo, autosexualidad) - Caracterizado por el contacto autosexual, generalmente como un acto genital (masturbación), con o sin un ritual o fantasía erótica que lo acompañe; o, raramente, como un estatus [[sexuoerótico]] a largo plazo sin pareja, del griego, auto, self + [[sexo]] ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

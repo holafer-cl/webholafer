@@ -1,1 +1,0 @@
-En [[ecología]], género de la clase *[[Acidithiobacillia]]* del filo Proteobacteria. Los miembros de este género se encuentran entre los procariotas extremadamente acidófilos más estudiados. El género comprende bacterias autótrofas Gram negativas que son acidófilas obligadas ([Moya-Beltrán, 2021](https://doi.org/10.1038/s41396-021-00995-x)).

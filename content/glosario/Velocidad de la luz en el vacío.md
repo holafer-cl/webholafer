@@ -1,1 +1,0 @@
-La velocidad de la luz en el vacío, c, es una de las siete constantes fijas que definen el Sistema Internacional de Unidades, el [[SI]], con c = 299792458 m s-1. La velocidad de la luz se considera una [[constante]] fundamental de la [[naturaleza]] ([IUPAC, 2020](https://doi.org/10.1351/goldbook.S05854)).

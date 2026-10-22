@@ -1,1 +1,0 @@
-En [[estadística]], [[análisis]] de un carácter o [[variable]] en un momento dado ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)).

@@ -1,1 +1,0 @@
-En [[psicología]], pasión del alma, que causa indignación y [[enojo]]. Es la palabra culta que designa una familia de emociones que incluye rabia, cólera, furia, furor, enfado, etc. ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

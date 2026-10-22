@@ -1,1 +1,0 @@
-En [[psicología]], manía, odio u ojeriza hacia algo o alguien ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

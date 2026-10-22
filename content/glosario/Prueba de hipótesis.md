@@ -1,1 +1,0 @@
-En [[estadística]], un procedimiento de [[inferencia]] estadística para determinar si una proposición dada sobre un [[PARÁMETRO]] de [[población]] debe rechazarse o no sobre la base de [[datos]] de [[muestra]] observados. Ver también [[Prueba de significancia]] ([Zedeck et al., 2013](https://www.apa.org/pubs/books/4311019)).

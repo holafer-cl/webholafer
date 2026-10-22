@@ -1,3 +1,0 @@
-**A)** En [[medicina]], Es la sensación motivada por cualquier condición que someta a un sistema nervioso al desgaste. Puede ser consciente o inconsciente. Cuando se manifiesta de forma consciente lo hace en forma de [[dolor]] o infelicidad; cuando es inconsciente se traduce en agotamiento o cansancio ([Colorado & Barba, 2011](https://books.google.hn/books/about/Diccionario_enciclopedico_de_bioetica_En.html?id=13zmygAACAAJ)).
-
-**B)** Padecimiento de dolores o penas físicas o morales ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

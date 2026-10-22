@@ -1,1 +1,0 @@
-En [[ecología]], tasa muy alta de [[dispersión]] entre [comunidades](Comunidad), lo que homogeneiza a las comunidades de tal manera que sus [estructuras](Estructura) son muy similares ([Zhou & Ning, 2017](https://doi.org/10.1128%2FMMBR.00002-17)).

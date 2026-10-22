@@ -1,3 +1,0 @@
-(saturación o pureza) - En [[colorimetría]], depende de la [[cantidad]] de [[gris]] mezclada al [[color]]. Un [[color]] es tanto más puro o saturado cuanto menos [[gris]] tenga. El [[rojo]] es, según esto, más saturado que el [[rosa]]  ([Urtubia, 1996](https://books.google.es/books?id=LaSrnjvpBXcC&lpg=PA7&hl=es&pg=PA230#v=onepage&q&f=false)).
-
-Junto a la [[luminosidad]] o brillo y al [[tono]], una de las tres características psicofísicas del [[color]].

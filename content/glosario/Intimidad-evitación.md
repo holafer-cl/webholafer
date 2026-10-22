@@ -1,1 +1,0 @@
-En [[sexología]], una restricción socialmente dictada sobre la divulgación personal a individuos o grupos específicos, o sobre un tema específico. Afecta el comportamiento y la comunicación [[erótico-sexual]]. Puede afectar sólo la comunicación íntima, pero no el comportamiento con la pareja [[sexual]] ([Pranzarone, 2015](http://dx.doi.org/10.13140/RG.2.1.4870.6723)).

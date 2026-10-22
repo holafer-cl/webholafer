@@ -1,1 +1,0 @@
-En [[psicología]], falta de aprecio. Desaire, desdén. ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

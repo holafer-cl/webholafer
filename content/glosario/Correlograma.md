@@ -1,1 +1,0 @@
-En [[estadística]], procedimiento estadístico para el [[análisis]] de [[datos]] de una serie temporal y su [[prueba]] para identificar la presencia de eventos cíclicos ([Lincoln et al., 2009](https://fondodeculturaeconomica.com/Ficha/9786071600417/F)). [[Correlación]]

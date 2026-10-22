@@ -1,1 +1,0 @@
-En [[cibernética]], el propósito fundamental de un [[sistema]] no debe ponerse en peligro, ni sus objetivos fundamentales deben comprometerse significativamente, para dar cabida a eventos de [[probabilidad]] extremadamente baja (R. Machol, 1965, pp. l-7).

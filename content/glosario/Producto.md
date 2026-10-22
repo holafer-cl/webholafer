@@ -1,1 +1,0 @@
-En química, sustancia que se forma durante una reacción química ([IUPAC, 2023](https://doi.org/10.1351/goldbook.P04861)).

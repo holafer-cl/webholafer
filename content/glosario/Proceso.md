@@ -1,1 +1,0 @@
-En [[cibernética]], fenómeno por el cual se produce un [[cambio]] en un [[sistema]]. En los sistemas fisiológicos, un proceso puede ser químico, físico o ambos ([IUPAC, 1992](https://doi.org/10.1351/pac199264101569)).

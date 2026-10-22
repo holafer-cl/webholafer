@@ -1,1 +1,0 @@
-En [[kinesiología]], es lo que ocurre en un [[músculo]] contraído o estirado en forma de una disminución de la excitabilidad debido a señales inhibidoras enviadas desde los órganos tendinosos de Golgi del mismo [[músculo]]; relajación repentina de un [[músculo]] en respuesta a un exceso de tensión ([Hindle, et al., 2012](https://doi.org/10.2478%2Fv10078-012-0011-y)).

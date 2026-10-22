@@ -1,1 +1,0 @@
-En [[economía]], aquel que en el ejercicio de la actividad de que se trate no depende de [[empleador]] alguno ni tiene trabajadores bajo su dependencia ([BCN, 2024](https://www.bcn.cl/leychile/navegar?idNorma=207436&idVersion=2024-05-01&idParte=)).

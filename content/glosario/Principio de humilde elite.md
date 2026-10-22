@@ -1,1 +1,0 @@
-Para ciertas funciones gubernamentales, el brillo de la función debe ser manejado por expertos. Dicha élite debe ser humilde en el sentido de que acepta la responsabilidad de explicar sus decisiones a las personas y ser receptiva a sus puntos de vista (Arbib). [[Principio]]

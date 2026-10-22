@@ -1,1 +1,0 @@
-En [[química]], el aceptor de electrones es cualquiera de los agentes oxidantes orgánicos o inorgánicos que participan en una reacción enzimática. En un sentido restrictivo, es el oxidante terminal de una cadena de transporte de electrones ([Peretó, 2011](https://doi.org/10.1007/978-3-642-11274-4_494)). 

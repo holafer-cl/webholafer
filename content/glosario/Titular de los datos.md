@@ -1,1 +1,0 @@
-En [[estadística]], la [[persona natural]] a la que se refieren los datos de carácter personal.

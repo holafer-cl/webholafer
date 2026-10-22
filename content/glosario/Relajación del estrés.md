@@ -1,1 +1,0 @@
-En [[kinesiología]], Es lo que ocurre cuando la [[unidad]] musculotendinosa, que involucra los [músculos](Músculo) y los tendones conectados, está bajo un estrés [[constante]] ([Hindle, et al., 2012](https://doi.org/10.2478%2Fv10078-012-0011-y)).

@@ -1,1 +1,0 @@
-En [[psicología]], reconocimiento y aprobación de las propias cualidades y limitaciones ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

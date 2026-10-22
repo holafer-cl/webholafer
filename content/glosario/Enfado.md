@@ -1,1 +1,0 @@
-En [[psicología]], causar una alteración del [[ánimo]] que se manifiesta con reacción ostensible. [[Movimiento]] del [[ánimo]] que suscita [[ira]]. Impresión desagradable y molesta que hacen en el [[ánimo]] algunas cosas ([Bisquerra & Laymuns, 2022](https://universodeemociones.com/producto/libro-diccionario-de-emociones/)).

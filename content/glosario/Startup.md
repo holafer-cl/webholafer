@@ -1,1 +1,0 @@
-En [[economía]], (o nuevo [[negocio]]) - Es una organización temporal construida para buscar las respuestas a la [[pregunta]]: ¿Qué es lo que hace que un [[modelo de negocio]] sea repetible y escalable? Ambos términos se utilizan indistintamente en esta obra ([Blank & Dorf, 2017](https://www.google.cl/books/edition/El_manual_del_emprendedor_la_guía_paso/wiIOngEACAAJ?hl=es-419)).
