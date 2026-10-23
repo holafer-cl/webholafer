@@ -1,7 +1,7 @@
 ---
 title: Introducción a Microsoft Power Platform
 date: 2026-10-21T18:16:49
-author: Fer
+author: Fer Díaz-González
 type: guía
 version: 1.0.0
 tags:
