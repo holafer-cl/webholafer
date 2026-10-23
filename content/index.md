@@ -12,3 +12,9 @@ Aquí, quiero compartir contigo contenido resultado de mi creatividad.
 Este hipervolumen se encuentra en construcción 🚧
 
 - [[guia|Guías]]
+
+## Otros proyectos
+
+### Tienda De Reyes®
+<iframe src="https://tienda.dereyesfoods.cl/" width="100%" height="500px"></iframe>
+
