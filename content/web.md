@@ -8,7 +8,8 @@ tags:
   - informática
 ---
 
-Aquí quiero **presentar** páginas web que he diseñado y construido.
+Aquí presento páginas web que he diseñado y desarrollado.
 
 # tienda.dereyesfoods.cl
-<iframe src="https://tienda.dereyesfoods.cl/" width="100%" height="500px"></iframe>
+> [!info]- Ver página web
+> <iframe src="https://tienda.dereyesfoods.cl/" width="100%" height="500px"></iframe>

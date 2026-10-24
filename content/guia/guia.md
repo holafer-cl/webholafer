@@ -6,4 +6,4 @@ type: guía
 version: 1.0.0
 ---
 
-Aquí quiero **compartir** orientación a través de temas que he investigado y trabajado.
+Aquí comparto guías sobre temas que he investigado y trabajado.

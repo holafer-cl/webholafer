@@ -1,17 +1,15 @@
 ---
-title: Inicio
+title: Home
 date: 2026-10-20T22:01:34
 author: Fer Díaz-González
 type: index
 version: 1.0.0
 ---
-# ¡Hola! Es un gusto saludarte 👋
+# ¡Hola! Un gusto saludarte 👋
 
-Aquí quiero **compartir** contigo contenido resultante de mi creatividad.
+He creado este espacio para **compartir** cosas que investigo, creo y desarrollo.
 
-Este hipervolumen se encuentra en construcción 🚧
-
-**Contenido:**
+**Aquí puedes encontrar:**
 
 - [[guia|Guías]]
 - [[web|Páginas web]]
