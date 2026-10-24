@@ -10,7 +10,7 @@ tags:
 
 Aquí muestro una selección de publicaciones científicas en las que he colaborado.
 
-# Metaanálisis basado en rasgos de los gremios microbianos en el ciclo redox del hierro
+## Metaanálisis basado en rasgos de los gremios microbianos en el ciclo redox del hierro
 mSystems. 2026 Jan 26;11(2):e01488-25. doi: [10.1128/msystems.01488-25](https://doi.org/10.1128/msystems.01488-25)
 
 > [!info]- Ver documento PDF
@@ -18,7 +18,7 @@ mSystems. 2026 Jan 26;11(2):e01488-25. doi: [10.1128/msystems.01488-25](https://
 
 ---
 
-# Caracterización de IgY de pollo específica frente a esporas de *Clostridium difficile* R20291 y efecto de su administración oral en modelos murinos de inicio y recurrencia de la enfermedad
+## Caracterización de IgY de pollo específica frente a esporas de *Clostridium difficile* R20291 y efecto de su administración oral en modelos murinos de inicio y recurrencia de la enfermedad
 Front Cell Infect Microbiol. 2017 Aug 14:7:365. doi: [10.3389/fcimb.2017.00365](https://doi.org/10.3389/fcimb.2017.00365)
 
 > [!info]- Ver documento PDF
@@ -26,7 +26,7 @@ Front Cell Infect Microbiol. 2017 Aug 14:7:365. doi: [10.3389/fcimb.2017.00365](
 
 ---
 
-# Composición proteica de la capa más externa, similar al exosporio, de las esporas de *Clostridium difficile* 630
+## Composición proteica de la capa más externa, similar al exosporio, de las esporas de *Clostridium difficile* 630
 J Proteomics. 2015 Jun 18:123:1-13. doi:  [10.1016/j.jprot.2015.03.035](https://doi.org/10.1016/j.jprot.2015.03.035)
 
 > [!info]- Ver documento PDF
