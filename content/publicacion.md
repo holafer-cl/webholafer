@@ -27,6 +27,7 @@ Front Cell Infect Microbiol. 2017 Aug 14:7:365. doi: [10.3389/fcimb.2017.00365](
 ---
 
 # Composición proteica de la capa más externa, similar al exosporio, de las esporas de *Clostridium difficile* 630
+J Proteomics. 2015 Jun 18:123:1-13. doi:  [10.1016/j.jprot.2015.03.035](https://doi.org/10.1016/j.jprot.2015.03.035)
 
 > [!info]- Ver documento PDF
 > ![[@diaz-gonzalez2015.pdf]]
