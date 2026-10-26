@@ -1,13 +1,14 @@
 ---
 title: Home
-date: 2026-10-20T22:01:34
+date: 2026-10-26
+date_creacion: 2026-10-20T22:01:34
 author: Fer Díaz-González
 type: index
 version: 1.0.0
 ---
 # ¡Hola! Un gusto saludarte 👋
 
-He creado este espacio para **compartir** cosas que investigo, creo y desarrollo.
+He creado este espacio para **compartir** cosas hechas por mí.
 
 **Aquí puedes encontrar:**
 
