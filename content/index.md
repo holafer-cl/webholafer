@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2026-10-26
+date: 2026-10-27
 date_creacion: 2026-10-20T22:01:34
 author: Fer Díaz-González
 type: index
@@ -13,6 +13,7 @@ He creado este espacio para **compartir** cosas hechas por mí.
 **Aquí puedes encontrar:**
 
 - [[guia|Guías]]
+- [[ideario|Ideario]]
 - [[web|Páginas web]]
 - [[publicacion|Publicaciones científicas]]
 
