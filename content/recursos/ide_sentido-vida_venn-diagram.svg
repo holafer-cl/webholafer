@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 450 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,224.744,32.75)">
+        <text x="-106.934px" y="0px" style="font-family:'Roboto-Regular', 'Roboto';font-size:30px;">¿Qué es la vida?</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-175,24)">
+        <g transform="matrix(1,0,0,1,-2.84217e-14,4.75)">
+            <path d="M191.169,283.008L191.169,283.008C191.169,353.222 248.946,411 319.161,411C389.375,411 447.153,353.222 447.153,283.008L447.153,283.008C447.153,212.794 389.375,155.016 319.161,155.016C248.946,155.016 191.169,212.794 191.169,283.008L191.169,283.008" style="fill:rgb(181,234,215);fill-opacity:0.6;fill-rule:nonzero;stroke:white;stroke-opacity:0.95;stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,276,311.2)">
+                <text x="-42.047px" y="0px" style="font-family:'Roboto-Bold', 'Roboto';font-weight:700;font-size:24px;fill:rgb(62,200,151);">Ent<tspan x="-7.289px " y="0px ">o</tspan>rno</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-2.84217e-14,4.75)">
+            <path d="M352.847,283.008C352.847,353.222 410.625,411 480.839,411C551.054,411 608.831,353.222 608.831,283.008C608.831,212.794 551.054,155.016 480.839,155.016C410.625,155.016 352.847,212.794 352.847,283.008" style="fill:rgb(199,206,234);fill-opacity:0.6;fill-rule:nonzero;stroke:white;stroke-opacity:0.95;stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,523,311.2)">
+                <text x="-54.311px" y="0px" style="font-family:'Roboto-Bold', 'Roboto';font-weight:700;font-size:24px;fill:rgb(88,109,192);">Cognición</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-2.84217e-14,4.75)">
+            <path d="M272.007,142.992C272.007,213.206 329.785,270.984 399.999,270.984C470.213,270.984 527.991,213.206 527.991,142.992C527.991,72.778 470.213,15 399.999,15C329.785,15 272.007,72.778 272.007,142.992" style="fill:rgb(255,218,193);fill-opacity:0.6;fill-rule:nonzero;stroke:white;stroke-opacity:0.95;stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,399,97.2)">
+                <text x="-107.637px" y="0px" style="font-family:'Roboto-Bold', 'Roboto';font-weight:700;font-size:24px;fill:rgb(255,127,40);">Unidad aut<tspan x="7.91px " y="0px ">o</tspan>poiética</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-2.84217e-14,4.75)">
+            <path d="M400,382.24C370.182,357.949 352.847,321.468 352.847,283.008C352.847,244.548 370.182,208.067 400,183.776C429.818,208.067 447.153,244.548 447.153,283.008C447.153,321.468 429.818,357.949 400,382.24" style="fill:none;fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-2.84217e-14,4.75)">
+            <path d="M354.482,262.617C364.447,200.867 418.29,155.016 480.839,155.016C496.394,155.016 511.819,157.852 526.356,163.383C516.391,225.133 462.548,270.984 399.999,270.984C384.445,270.984 369.02,268.148 354.482,262.617" style="fill:none;fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-2.84217e-14,4.75)">
+            <path d="M273.642,163.384C288.18,157.852 303.606,155.016 319.161,155.016C381.709,155.016 435.552,200.867 445.518,262.616C430.98,268.148 415.554,270.984 399.999,270.984C337.45,270.984 283.607,225.133 273.642,163.384" style="fill:none;fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-2.84217e-14,4.75)">
+            <path d="M354.482,262.617C359.479,231.655 375.685,203.585 400,183.776C424.315,203.584 440.521,231.655 445.518,262.616C416.206,273.77 383.794,273.77 354.482,262.617" style="fill:none;fill-rule:nonzero;"/>
+            <g transform="matrix(1,0,0,1,400,240.2)">
+                <text x="-24.193px" y="0px" style="font-family:'Roboto-Bold', 'Roboto';font-weight:700;font-size:24px;fill:rgb(40,37,61);">Vida</text>
+            </g>
+        </g>
+    </g>
+</svg>

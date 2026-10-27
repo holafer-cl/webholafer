@@ -18,7 +18,7 @@ Durante siglos, el sentido de la vida ha sido un tema que ha inspirado intensa c
 - Marcar una diferencia positiva en el mundo.
 - Cumplir un objetivo dado por dioses. 
 
-Otros argumentan que, en sí misma, **la vida no tiene un propósito** y, por eso, los individuos tienen que crear su propio sentido o razón de ser.
+Otros argumentan que, en sí misma, **la vida no tiene un sentido** y, por eso, los individuos tienen que crear su propio propósito o razón de ser.
 
 Por lo anterior, se ha definido el sentido de la vida como los juicios subjetivos de las personas sobre que sus vidas están marcadas por la coherencia, el propósito y el significado [^1], que emergen de “la **red de conexiones, interpretaciones, aspiraciones y evaluaciones** que:
 
@@ -36,21 +36,7 @@ Desde la visión sistémica, la vida es una propiedad emergente que involucra la
 
 [^4]: Takola, E., & Schielzeth, H. (2022). Hutchinson’s ecological niche for individuals. Biology &amp; Philosophy, 37(4). https://doi.org/10.1007/s10539-022-09849-y
 
-```mermaid
-venn-beta
-  title ¿Qué es la vida?
-  set A [Entorno]
-  set C [Cognición]
-  set U [Unidad autopoiética]
-  union A,C
-  union C,U
-  union A,U
-  union A,C,U[Vida]
-  style A fill:#B5EAD7,stroke:#fff,stroke-width:2px,fill-opacity:0.6 
-  style C fill:#C7CEEA,stroke:#fff,stroke-width:2px,fill-opacity:0.6 
-  style U fill:#FFDAC1,stroke:#fff,stroke-width:2px,fill-opacity:0.6
-```
-
+![[ide_sentido-vida_venn-diagram.svg]]
 **Figura 1. La trilogía de la vida.** La estructura orgánica y viva (unidad autopoiética) interactúa con el entorno a través de un sensorio de cognición, el cual es un producto específico de su desarrollo y evolución. No tiene sentido considerar a cada uno de estos tres dominios como independientes entre sí. La vida es la sinergia de estos tres dominios, tal como lo implica la noción de la "mente encarnada" (*embodied mind*).
 
 Por lo tanto, y desde mi entendimiento, considero que **el sentido fundamental de la vida es vivir y convivir** (un vivir con otro vivir). Ser parte del proceso de la biología social [^5], donde al organismo (el vivir) le ocurre el proceso de la vida. Ahora, **cómo se vive y convive** es un asunto, personal y subjetivo, que cada individuo debe resolver por sí mismo. Además, no es un asunto exclusivo, pueden idearse pequeños, medianos y grandes propósitos. Cada uno con su respectivo nivel de complejidad [^6], que dependerá de la cantidad necesaria de energía y tiempo para su logro.
