@@ -39,6 +39,7 @@ Desde la visión sistémica, la vida es una propiedad emergente que involucra la
 <div align="center">
   <img src="ide_sentido-vida_venn-diagram.png" style="max-width: 80%; height: auto;" />
 </div>
+
 **Figura 1. La trilogía de la vida.** La estructura orgánica y viva (unidad autopoiética) interactúa con el entorno a través de un sensorio de cognición, el cual es un producto específico de su desarrollo y evolución. No tiene sentido considerar a cada uno de estos tres dominios como independientes entre sí. La vida es la sinergia de estos tres dominios, tal como lo implica la noción de la "mente encarnada" (*embodied mind*).
 
 Por lo tanto, y desde mi entendimiento, considero que **el sentido fundamental de la vida es vivir y convivir** (un vivir con otro vivir). Ser parte del proceso de la biología social [^5], donde al organismo (el vivir) le ocurre el proceso de la vida. Ahora, **cómo se vive y convive** es un asunto, personal y subjetivo, que cada individuo debe resolver por sí mismo. Además, no es un asunto exclusivo, pueden idearse pequeños, medianos y grandes propósitos. Cada uno con su respectivo nivel de complejidad [^6], que dependerá de la cantidad necesaria de energía y tiempo para su logro.
