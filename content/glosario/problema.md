@@ -3,7 +3,7 @@ title: Problema
 date: 2026-10-28T11:48:19
 author: Fer Díaz-González
 type: producto
-version: 0.1.0
+version: 1.0.0
 tags:
   - ciencia
 aliases:
@@ -25,10 +25,61 @@ La **situación** $X$ es un **problema** para el **agente** $A$, si, y solo si, 
 
 [^2]: Barseghyan, H., Patton, P., Dechauffour, G., & Henikoff, C. (2024). What are problems? Philosophical Studies, 181(10), 2755–2777. https://doi.org/10.1007/s11098-024-02201-y
 
-Varias conclusiones se derivan de estas definiciones:
-1. **No todos los problemas incluyen preguntas**
-2. **No todos los problemas incluyen estados indeseables**
-3. Para que un agente considere una situación como problemática, debe ser **consciente** de la situación; sin embargo, la consciencia de la situación no es necesaria para que un agente **tenga** un problema o para que una situación **sea** un problema para un agente.
-4. Los **contextos** no tienen por qué ser parte del problema: el contexto de un problema específico no tiene por qué ser también parte de un problema más general.
-5. La **eliminación completa de la discrepancia** entre una situación y una meta **elimina el problema**, mientras que el **problema continúa existiendo** cuando recibe una **solución parcial**.
-6. Para que algo sea **un problema, no tiene por qué ser solucionable,** y el agente no tiene que aceptar que se deba hacer algo al respecto, ni debe utilizar el lenguaje de lo mejorable/solucionable.
+Como se ilustra en la **Figura 1**, los criterios necesarios y suficientes del problema operan en dos dominios interrelacionados que describen a un agente $A$ con meta $G$ en situación $X$.
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#e1f5fe', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#fff'}}}%%
+flowchart TD
+    %% Estilos
+    classDef startClass fill:#e0f2f1,stroke:#00695c,stroke-width:2px,color:#004d40;
+    classDef diamondClass fill:#fffde7,stroke:#fbc02d,stroke-width:2px,color:#f57f17;
+    classDef resultClass fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#0d47a1;
+    classDef noClass fill:#ffebee,stroke:#c62828,stroke-width:1.5px,color:#b71c1c;
+
+    %% Cúspide: Elementos base independientes
+    Start(["Agente <b><i>A</i></b> con Meta <b><i>G</i></b> en Situación <b><i>X</i></b>"]):::startClass
+    
+    Start --> Branch1 & Branch2
+
+    %% --- RAMA IZQUIERDA: TENER UN PROBLEMA ---
+    Branch1["<b>Tener</b> un Problema (Realidad ontológica)"]:::startClass
+    Branch1 --> D1
+
+    D1{"¿<b><i>X</i></b> está en conflicto con <b><i>G</i></b>?"}:::diamondClass
+    D1 -- No --> EndNo1(["No tiene el problema"]):::noClass
+    D1 -- Sí --> D2
+    
+    D2{"¿Eliminar discrepancia<br/>presenta dificultad?"}:::diamondClass
+    D2 -- No --> EndNo1
+    D2 -- Sí --> D3
+    
+    D3{"¿El agente <b><i>A</i></b> está<br/>realmente en <b><i>X</i></b>?"}:::diamondClass
+    D3 -- No --> EndNo1
+    D3 -- Sí --> Res1(["El agente <b><i>A</i></b><br/><b>TIENE</b> el problema"]):::resultClass
+
+
+    %% --- RAMA DERECHA: RECONOCER UN PROBLEMA ---
+    Branch2["<b>Reconocer</b> un Problema (Representación epistemológica)"]:::startClass
+    Branch2 --> E1
+
+    E1{"¿<b><i>A</i></b> representa que<br/><b><i>X</i></b> está en conflicto con <b><i>G</i></b>?<br/>(correcta o incorrecta)"}:::diamondClass
+    E1 -- No --> EndNo2(["No reconoce el problema"]):::noClass
+    E1 -- Sí --> E2
+    
+    E2{"¿<b><i>A</i></b> representa que<br/>eliminar discrepancia tiene dificultad?<br/>(correcta o incorrecta)"}:::diamondClass
+    E2 -- No --> EndNo2
+    E2 -- Sí --> E3
+    
+    E3{"¿<b><i>A</i></b> representa que<br/>se encuentra en <b><i>X</i></b>?<br/>(correcta o incorrecta)"}:::diamondClass
+    E3 -- No --> EndNo2
+    E3 -- Sí --> Res2(["El agente <b><i>A</i></b><br/><b>RECONOCE</b> el problema"]):::resultClass
+```
+**Figura 1. Dominios óntico y epistémico del problema.** Desglose de los criterios necesarios, suficientes e interrelacionados para determinar el estado de un problema desde la perspectiva del agente, la meta y la situación.
+
+> [!important] Varias conclusiones se derivan de estas definiciones:
+> 1. **No todos los problemas incluyen preguntas**
+> 2. **No todos los problemas incluyen estados indeseables**
+> 3. Para que un agente considere una situación como problemática, debe ser **consciente** de la situación; sin embargo, la consciencia de la situación no es necesaria para que un agente **tenga** un problema o para que una situación **sea** un problema para un agente.
+> 4. Los **contextos** no tienen por qué ser parte del problema: el contexto de un problema específico no tiene por qué ser también parte de un problema más general.
+> 5. La **eliminación completa de la discrepancia** entre una situación y una meta **elimina el problema**, mientras que el **problema continúa existiendo** cuando recibe una **solución parcial**.
+> 6. Para que algo sea **un problema, no tiene por qué ser solucionable,** y el agente no tiene que aceptar que se deba hacer algo al respecto, ni debe utilizar el lenguaje de lo mejorable/solucionable.
