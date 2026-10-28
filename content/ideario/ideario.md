@@ -6,4 +6,4 @@ type: idea
 version: 1.0.0
 ---
 
-Aquí comparto ideas que caracterizan mi forma de observar la vida.
+Aquí comparto ideas que caracterizan mi forma de entender la vida.
