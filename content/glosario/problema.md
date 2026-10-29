@@ -1,23 +1,24 @@
 ---
 title: Problema
-date: 2026-10-28T11:48:19
+date: 2026-10-29
+date_creacion: 2026-10-28T11:48:19
 author: Fer Díaz-González
 type: producto
-version: 1.0.0
+version: 1.1.0
 tags:
   - ciencia
 aliases:
   - problemas
 ---
 
-Del latín *problēma,* y este del griero πρόβλημα *próblēma,* es una **brecha o diferencia entre la situación actual y la situación que se desearía tener** [^1]. Esto significa que los problemas pueden ser:
+Del latín *problēma,* y este del griero πρόβλημα *próblēma,* es una **brecha o diferencia entre cómo es la situación ahora y cómo te gustaría que fuera.** [^1]. Esto significa que los problemas pueden ser:
 
 [^1]: Brooks J. (2022). The art of problem solving and its translation into practice. Bdj in Practice, 35 (9), 21–23. https://doi.org/10.1038/s41404-022-1714-y
 
 - **Universales**: la misma situación representaría un problema para todo el mundo.
 - **Específicos**: la situación es un problema para nosotros o para un grupo de personas determinado.
 
-La **situación** $X$ es un **problema** para el **agente** $A$, si, y solo si, (SSI o IFF) la situación $X$ está en **conflicto** con la **meta** $G$ del agente y eliminar la **discrepancia** entre $X$ y $G$ presenta alguna **dificultad** para el agente $A$ [^2]. Además, para que el agente $A$ tenga realmente un problema, también debe estar en dicha situación $X$. En contraste, el agente $A$ reconoce que la situación $X$ es un problema para él SSI:
+De manera más precisa, una **situación** $X$ es un **problema** para el **agente** $A$, si, y solo si, (SSI o IFF) la situación $X$ está en **conflicto** con la **meta** $G$ del agente y eliminar la **discrepancia** entre $X$ y $G$ presenta alguna **dificultad** para el agente $A$ [^2]. Además, para que el agente $A$ tenga realmente un problema, también debe estar en dicha situación $X$. En contraste, el agente $A$ reconoce que la situación $X$ es un problema para él SSI:
 
 1. El agente $A$ representa, correcta o incorrectamente, que la situación $X$ está en conflicto con su meta $G$.
 2. El agente $A$ representa, correcta o incorrectamente, que eliminar la discrepancia entre $X$ y $G$ presenta alguna dificultad.
@@ -25,7 +26,10 @@ La **situación** $X$ es un **problema** para el **agente** $A$, si, y solo si, 
 
 [^2]: Barseghyan, H., Patton, P., Dechauffour, G., & Henikoff, C. (2024). What are problems? Philosophical Studies, 181(10), 2755–2777. https://doi.org/10.1007/s11098-024-02201-y
 
-Como se ilustra en la **Figura 1**, los criterios necesarios y suficientes del problema operan en dos dominios interrelacionados que describen a un agente $A$ con meta $G$ en situación $X$.
+Como se ilustra en la **Figura 1**, los criterios necesarios y suficientes del problema operan en dos dominios interrelacionados que describen a un agente $A$ en situación $X$ con meta $G$ (otra situación). Entendiendo que toda situación es un sistema, los dominios son: 
+
+- **Ontológico:** que define la realización material del sistema.
+- **Epistemológico:** que define la representación abstracta del sistema.
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#e1f5fe', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#fff'}}}%%
@@ -37,12 +41,12 @@ flowchart TD
     classDef noClass fill:#ffebee,stroke:#c62828,stroke-width:1.5px,color:#b71c1c;
 
     %% Cúspide: Elementos base independientes
-    Start(["Agente <b><i>A</i></b> con Meta <b><i>G</i></b> en Situación <b><i>X</i></b>"]):::startClass
+    Start(["Agente <b><i>A</i></b> en Situación <b><i>X</i></b> con Meta <b><i>G</i></b>"]):::startClass
     
     Start --> Branch1 & Branch2
 
     %% --- RAMA IZQUIERDA: TENER UN PROBLEMA ---
-    Branch1["<b>Tener</b> un Problema (Realidad ontológica)"]:::startClass
+    Branch1["<b>Tener</b> un Problema (Realización ontológica)"]:::startClass
     Branch1 --> D1
 
     D1{"¿<b><i>X</i></b> está en conflicto con <b><i>G</i></b>?"}:::diamondClass
@@ -74,7 +78,7 @@ flowchart TD
     E3 -- No --> EndNo2
     E3 -- Sí --> Res2(["El agente <b><i>A</i></b><br/><b>RECONOCE</b> el problema"]):::resultClass
 ```
-**Figura 1. Dominios óntico y epistémico del problema.** Desglose de los criterios necesarios, suficientes e interrelacionados para determinar el estado de un problema desde la perspectiva del agente, la meta y la situación.
+**Figura 1. Dominios ontológico y epistemológico del problema.** Desglose de los criterios necesarios, suficientes e interrelacionados para determinar un problema desde la perspectiva del agente, la situación actual y la meta (otra situación), en la realización material y representación abstracta del sistema.
 
 > [!important] Varias conclusiones se derivan de estas definiciones:
 > 1. **No todos los problemas incluyen preguntas**
