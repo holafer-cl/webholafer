@@ -1,10 +1,10 @@
 ---
 title: Problema
-date: 2026-10-29
+date: 2026-10-30
 date_creacion: 2026-10-28T11:48:19
 author: Fer Díaz-González
 type: producto
-version: 1.1.0
+version: 1.2.0
 tags:
   - ciencia
 aliases:
@@ -26,10 +26,14 @@ De manera más precisa, una **situación** $X$ es un **problema** para el **agen
 
 [^2]: Barseghyan, H., Patton, P., Dechauffour, G., & Henikoff, C. (2024). What are problems? Philosophical Studies, 181(10), 2755–2777. https://doi.org/10.1007/s11098-024-02201-y
 
-Como se ilustra en la **Figura 1**, los criterios necesarios y suficientes del problema operan en dos dominios interrelacionados que describen a un agente $A$ en situación $X$ con meta $G$ (otra situación). Entendiendo que toda situación es un sistema, los dominios son: 
+Como ilustro en la **Figura 1**, los criterios necesarios y suficientes del problema operan en dos dominios interrelacionados explícitos que describen a un agente $A$ en situación $X$ con meta $G$ (otra situación). Entendiendo que toda situación es un sistema, los dominios son:
 
 - **Ontológico:** que define la realización material del sistema.
 - **Epistemológico:** que define la representación abstracta del sistema.
+
+Cuando ambos dominios explícitos son positivos, se tiene y se reconoce un problema, emerge un tercer dominio implícito que permite resolver el problema:
+
+- **Metodológico:** que define la acción procedimental del sistema.
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#e1f5fe', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#fff'}}}%%
