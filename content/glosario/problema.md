@@ -1,10 +1,10 @@
 ---
 title: Problema
-date: 2026-10-30
+date: 2026-11-03
 date_creacion: 2026-10-28T11:48:19
 author: Fer Díaz-González
 type: producto
-version: 1.2.0
+version: 1.3.0
 tags:
   - ciencia
 aliases:
@@ -29,11 +29,11 @@ De manera más precisa, una **situación** $X$ es un **problema** para el **agen
 Como ilustro en la **Figura 1**, los criterios necesarios y suficientes del problema operan en dos dominios interrelacionados explícitos que describen a un agente $A$ en situación $X$ con meta $G$ (otra situación). Entendiendo que toda situación es un sistema, los dominios son:
 
 - **Ontológico:** que define la realización material del sistema.
-- **Epistemológico:** que define la representación abstracta del sistema.
+- **Epistemológico:** que define la representación material del sistema.
 
 Cuando ambos dominios explícitos son positivos, se tiene y se reconoce un problema, emerge un tercer dominio implícito que permite resolver el problema:
 
-- **Metodológico:** que define la acción procedimental del sistema.
+- **Metodológico:** que define la enacción procedimental del sistema.
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#e1f5fe', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#fff'}}}%%
@@ -82,7 +82,7 @@ flowchart TD
     E3 -- No --> EndNo2
     E3 -- Sí --> Res2(["El agente <b><i>A</i></b><br/><b>RECONOCE</b> el problema"]):::resultClass
 ```
-**Figura 1. Dominios ontológico y epistemológico del problema.** Desglose de los criterios necesarios, suficientes e interrelacionados para determinar un problema desde la perspectiva del agente, la situación actual y la meta (otra situación), en la realización material y representación abstracta del sistema.
+**Figura 1. Dominios ontológico y epistemológico del problema.** Desglose de los criterios necesarios, suficientes e interrelacionados para determinar un problema desde la perspectiva del agente, la situación actual y la meta (otra situación), en la realización material y representación material del sistema. Ambos dominios permiten la emergencia del dominio metodológico.
 
 > [!important] Varias conclusiones se derivan de estas definiciones:
 > 1. **No todos los problemas incluyen preguntas**
