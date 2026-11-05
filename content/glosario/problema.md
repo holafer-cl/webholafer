@@ -26,7 +26,7 @@ De manera más precisa, una **situación** $X$ es un **problema** para el **agen
 
 [^2]: Barseghyan, H., Patton, P., Dechauffour, G., & Henikoff, C. (2024). What are problems? Philosophical Studies, 181(10), 2755–2777. https://doi.org/10.1007/s11098-024-02201-y
 
-Como ilustro en la **Figura 1**, los criterios necesarios y suficientes del problema operan en dos dominios interrelacionados explícitos que describen a un agente $A$ en situación $X$ con meta $G$ (otra situación). Entendiendo que toda situación es un sistema, los dominios son:
+Como ilustro en la **Figura 1**, los criterios necesarios y suficientes del problema operan en dos dominios interrelacionados explícitos que describen a un agente $A$ en situación $X$ con meta $G$ (otra situación). Entendiendo que toda situación es un [[sistema]], los dominios son:
 
 - **Ontológico:** que define la realización material del sistema.
 - **Epistemológico:** que define la representación material del sistema.

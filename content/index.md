@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2026-11-03
+date: 2026-11-04
 date_creacion: 2026-10-20T22:01:34
 author: Fer Díaz-González
 type: index

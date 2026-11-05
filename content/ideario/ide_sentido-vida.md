@@ -1,10 +1,10 @@
 ---
 title: "Sentido fundamental de la vida: vivir y convivir"
-date: 2026-10-27
+date: 2026-11-04
 date_creación: 2026-10-26T19:57:40
 author: Fer Díaz-González
 type: idea
-version: 1.0.0
+version: 1.0.1
 tags:
   - biología
 ---
@@ -49,7 +49,7 @@ Por lo tanto, y desde mi entendimiento, considero que **el sentido fundamental d
 [^6]: Chaisson, E. J. (2004). The Rise of Complexity in Nature. Symposium - International Astronomical Union, 213, 531–534. https://doi.org/10.1017/s0074180900193842
 
 > [!tip] Mi sugerencia
-> Encontrar técnicas que reduzcan el uso de tiempo y energía. Así, nos adaptamos a nuestro entorno o intentamos cambiar el entorno para adaptarlo a nuestro propósito. Lo que resulte más fácil.
+> Encontrar metodologías que reduzcan el uso de tiempo y energía. Así, nos adaptamos a nuestro entorno o intentamos cambiar el entorno para adaptarlo a nuestro propósito. Lo que resulte más fácil.
 
 > [!question] En última instancia
 > **¿Cómo quieres vivir y convivir?**
