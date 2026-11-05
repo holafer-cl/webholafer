@@ -4,7 +4,7 @@ date: 2026-11-04
 date_creación: 2026-10-26T19:57:40
 author: Fer Díaz-González
 type: idea
-version: 1.0.1
+version: 1.0.2
 tags:
   - biología
 ---
@@ -20,7 +20,7 @@ Durante siglos, el sentido de la vida ha sido un tema que ha inspirado intensa c
 
 Otros argumentan que, en sí misma, **la vida no tiene un sentido** y, por eso, los individuos tienen que crear su propio propósito o razón de ser.
 
-Por lo anterior, se ha definido el sentido de la vida como los juicios subjetivos de las personas sobre que sus vidas están marcadas por la coherencia, el propósito y el significado [^1], que emergen de “la **red de conexiones, interpretaciones, aspiraciones y evaluaciones** que:
+Por lo anterior, se ha definido al sentido de la vida como los juicios subjetivos de las personas sobre que sus vidas están marcadas por la coherencia, el propósito y el significado [^1], que emergen de “la **red de conexiones, interpretaciones, aspiraciones y evaluaciones** que:
 
 [^1]: Steger, M. F. (2022). *Meaning in life is a fundamental protective factor in the context of psychopathology*. World Psychiatry, 21(3), 389–390. https://doi.org/10.1002/wps.20916
 
