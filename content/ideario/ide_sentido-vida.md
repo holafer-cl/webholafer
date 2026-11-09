@@ -4,7 +4,7 @@ date: 2026-11-04
 date_creación: 2026-10-26T19:57:40
 author: Fer Díaz-González
 type: idea
-version: 1.0.2
+version: 1.0.3
 tags:
   - biología
 ---
@@ -28,7 +28,7 @@ Por lo anterior, se ha definido al sentido de la vida como los juicios subjetivo
 2. Dirigen nuestros esfuerzos hacia futuros deseados.
 3. Proporcionan la sensación de que nuestras vidas importan y valen la pena."
 
-Desde la visión sistémica, la vida es una propiedad emergente que involucra la relación entre el ser vivo (unidad autopoiética u organismo), la cognición y el entorno (medio ambiente) (**Fig.1**) [^2]. Así, el organismo procesa información, con la percepción, pensamiento, toma de decisiones, competencia lingüística y control motor [^3], desde el entorno, un hipervolumen multidimensional que incluye todos los factores bióticos (ej. unidades autopoiéticas) y abióticos (ej. temperatura, humedad, etc.) con los que el organismo se relaciona [^4].
+Desde la visión sistémica, la vida es una propiedad emergente que involucra la relación entre el ser vivo (unidad autopoiética u organismo), la cognición y el entorno (medio ambiente) (**Fig.1**) [^2]. Así, **el organismo procesa información**, con la percepción, pensamiento, toma de decisiones, competencia lingüística y control motor [^3], **desde el entorno**, un hipervolumen multidimensional que incluye todos los factores bióticos (ej. unidades autopoiéticas) y abióticos (ej. temperatura, humedad, etc.) con los que el organismo se relaciona [^4].
 
 [^2]: Capra, F., & Luisi, P. L. (2016). The systems view of life. Cambridge, England: Cambridge University Press. https://doi.org/10.1017/CBO9780511895555
 
@@ -40,13 +40,15 @@ Desde la visión sistémica, la vida es una propiedad emergente que involucra la
   <img src="ide_sentido-vida_venn-diagram.png" style="max-width: 80%; height: auto;" />
 </div>
 
-**Figura 1. La trilogía de la vida.** La estructura orgánica y viva (unidad autopoiética) interactúa con el entorno a través de un sensorio de cognición, el cual es un producto específico de su desarrollo y evolución. No tiene sentido considerar a cada uno de estos tres dominios como independientes entre sí. La vida es la sinergia de estos tres dominios, tal como lo implica la noción de la "mente encarnada" (*embodied mind*).
+**Figura 1. La trilogía de la vida.** La estructura orgánica y viva (unidad autopoiética) interactúa con el entorno a través de un sensorio de cognición, el cual es un producto específico de su desarrollo y evolución. No tiene sentido considerar a cada uno de estos tres dominios como independientes entre sí. La vida es la sinergia de estos tres dominios, tal como lo implica la noción de la "mente encarnada" (*embodied mind*) [^5].
 
-Por lo tanto, y desde mi entendimiento, considero que **el sentido fundamental de la vida es vivir y convivir** (un vivir con otro vivir). Ser parte del proceso de la biología social [^5], donde al organismo (el vivir) le ocurre el proceso de la vida. Ahora, **cómo se vive y convive** es un asunto, personal y subjetivo, que cada individuo debe resolver por sí mismo. Además, no es un asunto exclusivo, pueden idearse pequeños, medianos y grandes propósitos. Cada uno con su respectivo nivel de complejidad [^6], que dependerá de la cantidad necesaria de energía y tiempo para su logro.
+[^5]: Varela, F., Thompson, E., & Rosch, E. (1991). The Embodied Mind. Cognitive Science and Human Experience. ISBN: 978-84-7432-419-8
 
-[^5]: Gutiérrez, H. (2010). Biología Social: Una Mirada Sistémica Comprensiva Biológica. MAD, (23), 38–42. [https://doi.org/10.5354/0719-0527.2010.13634](https://revistamad.uchile.cl/index.php/RMAD/article/view/13634/13904)
+Por lo tanto, y desde mi entendimiento, considero que **el sentido fundamental de la vida es vivir y convivir** (un vivir con otro vivir). Ser parte del proceso de la [[biologia-social|Biología Social]] [^6], donde al organismo (el vivir) le ocurre el proceso de la vida. Ahora, **cómo se vive y convive** es un asunto, personal y subjetivo, que cada individuo debe resolver por sí mismo. Además, no es un asunto exclusivo, pueden idearse pequeños, medianos y grandes propósitos. Cada uno con su respectivo nivel de complejidad [^7], que dependerá de la cantidad necesaria de energía y tiempo para su logro.
 
-[^6]: Chaisson, E. J. (2004). The Rise of Complexity in Nature. Symposium - International Astronomical Union, 213, 531–534. https://doi.org/10.1017/s0074180900193842
+[^6]: Gutiérrez, H. (2010). Biología Social: Una Mirada Sistémica Comprensiva Biológica. MAD, (23), 38–42. [https://doi.org/10.5354/0719-0527.2010.13634](https://revistamad.uchile.cl/index.php/RMAD/article/view/13634/13904)
+
+[^7]: Chaisson, E. J. (2004). The Rise of Complexity in Nature. Symposium - International Astronomical Union, 213, 531–534. https://doi.org/10.1017/s0074180900193842
 
 > [!tip] Mi sugerencia
 > Encontrar metodologías que reduzcan el uso de tiempo y energía. Así, nos adaptamos a nuestro entorno o intentamos cambiar el entorno para adaptarlo a nuestro propósito. Lo que resulte más fácil.
