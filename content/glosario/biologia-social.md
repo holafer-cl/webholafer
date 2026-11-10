@@ -30,7 +30,7 @@ La intersección entre ambos dominios constituye la [[cognicion|cognición]]: el
 
 **Figura 1. Acoplamiento entre los dominios de existencia (Vivir y Convivir) y la emergencia de la Cognición en la intersección operacional.**
 
-> [!bug] **Zombie teórico**
+> [!bug] Zombie teórico
 > El modelo de Biología Social, en su versión original, se fundamenta en un axioma que asume el carácter generativo del conocimiento -presente también en el constructivismo y socioconstruccionismo-, el cual critica al objetivismo bajo la premisa de que:
 > > **La realidad no es independiente del observador** o **no existe realidad independiente del observador.**
 > 
@@ -49,7 +49,7 @@ La intersección entre ambos dominios constituye la [[cognicion|cognición]]: el
 > > 2. **En salud y biomedicina:** Las corrientes que niegan la base material de la patología o la biología evolutiva, creyendo que las enfermedades o los estados fisiológicos se pueden disolver puramente mediante "resignificación discursiva" o actitud mental, ignorando las restricciones como la genética, epigenética o bioquímica.
 > > 3. **En ecología y planificación urbana:** Diseñar modelos de crecimiento económico e industrial indefinido en un planeta con recursos finitos, bajo el dogma de que la tecnología o los acuerdos sociales pueden saltarse indefinidamente los límites biofísicos de los ecosistemas.
 
-> [!check] **Propuesta teórica**
+> [!check] Propuesta teórica
 > Por el contrario, mi modelo revisado de Biología Social se soporta en el siguiente axioma, basado en la visión sistémica de la vida y mi propia definición de [[sistema]].
 > > **La realidad es independiente y dependiente del observador.**
 > 

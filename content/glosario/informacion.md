@@ -25,13 +25,13 @@ Desde esta perspectiva sistémica, se despliega en una doble dimensión [^2]:
 
 Dado que la información está vinculada a ciertos cambios, diferencias o dependencias, resulta conveniente referirse a estos y distinguir entre *información almacenada*, *información transportada*, *información transmitida*, *información requerida*, etc. La información pura y sin calificar es una abstracción no justificada.
 
-  > [!example] **Ejemplos**
+  > [!example] Ejemplos
   > - El ADN porta **información genética** en la medida en que organiza o controla el crecimiento ordenado de un organismo vivo.
   > - Un mensaje porta información en la medida en que transmite algo que no se conocía previamente.
   > - La respuesta a una pregunta porta información en la medida en que reduce la incertidumbre de quien pregunta.
   > - Una línea telefónica porta información solo cuando las señales enviadas se correlacionan con las recibidas.
   
-  > [!abstract] **Nota técnica: medición y Teoría de la Información**
+  > [!abstract] Nota técnica: medición y Teoría de la Información
   > La **Teoría de la Información** mide las cantidades de todos estos tipos de información en términos de *bits*. Cuanto mayor es la incertidumbre eliminada por un mensaje, mayor es la correlación entre la **entrada** y la **salida** de un **canal de comunicación**, y cuanto más detalladas son las instrucciones particulares, mayor es la información transmitida [^1].
 
 
