@@ -209,7 +209,7 @@ plugins:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
