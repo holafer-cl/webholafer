@@ -211,6 +211,7 @@ plugins:
   - source: "@quartz-community/recent-notes"
     enabled: true
     options:
+      title: "Notas recientes"
       showTags: false
   - source: "@quartz-community/spacer"
     enabled: true
