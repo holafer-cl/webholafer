@@ -210,6 +210,8 @@ plugins:
       priority: 50
   - source: "@quartz-community/recent-notes"
     enabled: true
+    options:
+      showTags: false
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
