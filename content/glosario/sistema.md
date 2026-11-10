@@ -22,8 +22,8 @@ Del lat. tardío *systēma*, y este del gr. σύστημα *sýstēma*, represe
 > - **Epistemológico**: que define la representación material del sistema (dependiente del agente).
 > - **Metodológico**: que define la enacción procedimental del sistema (interdependiente).
 
-> [!question] Agente (observador)
-> > [!check] Sistema
+> [!question] **Agente (observador)**
+> > [!check] **Sistema**
 > > <div align="center">
 > >   <img src="sistema_venn-diagram.png" style="max-width: 80%; height: auto;" />
 > > </div>
