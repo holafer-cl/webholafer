@@ -20,7 +20,7 @@ Durante siglos, el sentido de la vida ha sido un tema que ha inspirado intensa c
 
 Otros argumentan que, en sí misma, **la vida no tiene un sentido** y, por eso, los individuos tienen que crear su propio propósito o razón de ser.
 
-Por lo anterior, se ha definido al sentido de la vida como los juicios subjetivos de las personas sobre que sus vidas están marcadas por la coherencia, el propósito y el significado [^1], que emergen de “la **red de conexiones, interpretaciones, aspiraciones y evaluaciones** que:
+Por lo anterior, se ha definido al sentido de la vida como los juicios subjetivos de las personas sobre que sus vidas están marcadas por la coherencia, el propósito y el significado [^1], que emergen de “la **[[red]] de conexiones, interpretaciones, aspiraciones y evaluaciones** que:
 
 [^1]: Steger, M. F. (2022). *Meaning in life is a fundamental protective factor in the context of psychopathology*. World Psychiatry, 21(3), 389–390. https://doi.org/10.1002/wps.20916
 
@@ -28,7 +28,7 @@ Por lo anterior, se ha definido al sentido de la vida como los juicios subjetivo
 2. Dirigen nuestros esfuerzos hacia futuros deseados.
 3. Proporcionan la sensación de que nuestras vidas importan y valen la pena."
 
-Desde la visión sistémica, la vida es una propiedad emergente que involucra la relación entre el ser vivo (unidad autopoiética u organismo), la cognición y el entorno (medio ambiente) (**Fig.1**) [^2]. Así, **el organismo procesa información**, con la percepción, pensamiento, toma de decisiones, competencia lingüística y control motor [^3], **desde el entorno**, un hipervolumen multidimensional que incluye todos los factores bióticos (ej. unidades autopoiéticas) y abióticos (ej. temperatura, humedad, etc.) con los que el organismo se relaciona [^4].
+Desde la visión sistémica, la vida es una propiedad emergente que involucra la relación entre el ser vivo (unidad autopoiética u organismo), la [[cognicion|cognición]] y el entorno (medio ambiente) (**Fig.1**) [^2]. Así, **el organismo procesa [[informacion|información]]**, con la percepción, pensamiento, toma de decisiones, competencia lingüística y control motor [^3], **desde el entorno**, un hipervolumen multidimensional que incluye todos los factores bióticos (ej. unidades autopoiéticas) y abióticos (ej. temperatura, humedad, etc.) con los que el organismo se relaciona [^4].
 
 [^2]: Capra, F., & Luisi, P. L. (2016). The systems view of life. Cambridge, England: Cambridge University Press. https://doi.org/10.1017/CBO9780511895555
 

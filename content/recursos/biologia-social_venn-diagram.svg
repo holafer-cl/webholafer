@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 800 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
-    <g transform="matrix(1,0,0,1,399.921,31.4238)">
-        <text x="-129.023px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;">Biología Social</text>
+<svg width="100%" height="100%" viewBox="0 0 650 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,195.898,31.4238)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;">Biología Social</text>
     </g>
-    <g transform="matrix(1,0,0,1,0,24)">
+    <g transform="matrix(1,0,0,1,-75,24)">
         <g>
             <path d="M76.328,213C76.328,321.62 165.709,411 274.328,411C382.948,411 472.328,321.62 472.328,213C472.328,104.38 382.948,15 274.328,15C165.709,15 76.328,104.38 76.328,213" style="fill:rgb(181,234,215);fill-opacity:0.6;fill-rule:nonzero;stroke:rgb(30,132,73);stroke-opacity:0.95;stroke-width:1px;"/>
             <g transform="matrix(1,0,0,1,202,217.2)">
-                <text x="-38.698px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:rgb(62,200,151);">V<tspan x="-15.337px -5.335px " y="0px 0px ">iv</tspan>ir</text>
+                <g>
+                    <g transform="matrix(1,0,0,1,-38.698,0)">
+                        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:rgb(62,200,151);">V</text>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-15.337,0)">
+                        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:rgb(62,200,151);">ivir</text>
+                    </g>
+                </g>
             </g>
         </g>
         <g>
             <path d="M327.672,213C327.672,321.62 417.052,411 525.672,411C634.291,411 723.672,321.62 723.672,213C723.672,104.38 634.291,15 525.672,15C417.052,15 327.672,104.38 327.672,213" style="fill:rgb(199,206,234);fill-opacity:0.6;fill-rule:nonzero;stroke:rgb(43,76,126);stroke-opacity:0.95;stroke-width:1px;"/>
-            <g transform="matrix(1,0,0,1,598,217.2)">
-                <text x="-72.018px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:rgb(88,109,192);">Convivir</text>
+            <g transform="matrix(1,0,0,1,525.982,217.2)">
+                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:rgb(88,109,192);">Convivir</text>
             </g>
         </g>
         <g>
             <path d="M400,366.005C354.239,328.419 327.672,272.219 327.672,213C327.672,153.781 354.239,97.581 400,59.995C445.761,97.581 472.328,153.781 472.328,213C472.328,272.219 445.761,328.419 400,366.005" style="fill:none;fill-rule:nonzero;"/>
-            <g transform="matrix(1,0,0,1,400,216.2)">
-                <text x="-70.879px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:29px;fill:rgb(40,37,61);">Cognición</text>
+            <g transform="matrix(1,0,0,1,329.121,216.2)">
+                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:29px;fill:rgb(40,37,61);">Cognición</text>
             </g>
         </g>
     </g>
