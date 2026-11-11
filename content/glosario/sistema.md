@@ -19,7 +19,7 @@ Del lat. tardío *systēma*, y este del gr. σύστημα *sýstēma*, represe
 > Es la unidad, de componentes y relaciones (restricciones), distinguida por un agente (observador) sobre un hipervolumen físico-energético en el espacio-tiempo. Sin la distinción del observador, existe un [[flujo]] de energía cuantizado que se manifiesta como concentraciones locales de [[materia]] e [[informacion|información]], en distintos niveles de acoplamiento estructural.
 > Para el agente (observador), y en base al **monismo físico-energético**, el sistema se distingue en tres dominios fundamentales de existencia (**Fig.1**):
 > - **Ontológico**: que define la realización material del sistema (independiente del agente).
-> - **Epistemológico**: que define la representación material del sistema (dependiente del agente).
+> - **[[epistemologia|Epistemológico]]**: que define la representación material del sistema (dependiente del agente).
 > - **Metodológico**: que define la enacción procedimental del sistema (interdependiente).
 
 > [!question] Agente (observador)
