@@ -54,7 +54,7 @@ La intersección entre ambos dominios constituye la [[cognicion|cognición]]: el
 > > **La realidad es independiente y dependiente del observador.**
 > 
 > En tanto sistema, la realidad es una distinción del observador y, basado en el **monismo físico-energético**, define tres dominios de fundamentales de existencia:
-> - **Ontológico:** Realización material (independiente).
+> - **[[ontologia|Ontológico]]:** Realización material (independiente).
 > - **[[epistemologia|Epistemológico]]:** Representación material (dependiente).
-> - **Metodológico:** Enacción procedimental (interdependiente).
+> - **[[metodologia|Metodológico]]:** Enacción procedimental (interdependiente).
 

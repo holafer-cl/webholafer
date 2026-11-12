@@ -28,12 +28,12 @@ De manera más precisa, una **situación** $X$ es un **problema** para el **agen
 
 Como ilustro en la **Figura 1**, los criterios necesarios y suficientes del problema operan en dos dominios interrelacionados explícitos que describen a un agente $A$ en situación $X$ con meta $G$ (otra situación). Entendiendo que toda situación es un [[sistema]], los dominios son:
 
-- **Ontológico:** que define la realización [[materia|material]] del sistema.
+- **[[ontologia|Ontológico]]:** que define la realización [[materia|material]] del sistema.
 - **[[epistemologia|Epistemológico]]:** que define la representación material del sistema.
 
 Cuando ambos dominios explícitos son positivos, se tiene y se reconoce un problema, emerge un tercer dominio implícito que permite resolver el problema:
 
-- **Metodológico:** que define la enacción procedimental del sistema.
+- **[[metodologia|Metodológico]]:** que define la enacción procedimental del sistema.
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#e1f5fe', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#fff'}}}%%

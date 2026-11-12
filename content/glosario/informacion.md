@@ -1,9 +1,10 @@
 ---
 title: Información
-date: 2026-11-09T13:55:45
+date: 2026-11-12
+date_creacion: 2026-11-09T13:55:45
 author: Fer Díaz-González
 type: producto
-version: 1.0.0
+version: 1.0.1
 tags:
   - cibernética
 aliases:
@@ -12,7 +13,7 @@ aliases:
 
 Literalmente, «aquello que se forma dentro». Pero de manera más adecuada: el equivalente o la capacidad de algo para realizar **trabajo organizacional**; la diferencia entre dos formas de **organización** o entre dos estados de **incertidumbre** antes y después de haber recibido un mensaje; así como también el grado en que una **variable** de un **[[sistema]]** depende de, o está restringida por, otra [^1].
 
-[^1]: Krippendorff, K. (1986). A dictionary of cybernetics. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
+[^1]: Krippendorff, K. (1986). A dictionary of cybernetics. Information. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
 
 Para un sistema, la información es el concepto unificador fundamental que equivale, para las estructuras organizadas, a lo que la energía representa para la física clásica: la capacidad de ejercer trabajo organizacional y control guiado hacia un propósito [^2]. Asimismo, los datos brutos no constituyen información por sí mismos, sino que requieren ser integrados dentro de un marco de referencia explícito y una [[red]] de elementos interactivos que fluyen en el espacio-tiempo para adquirir significado, transformar el conocimiento y reducir la incertidumbre del observador.
 

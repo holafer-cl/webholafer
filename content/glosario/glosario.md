@@ -6,4 +6,5 @@ type: glosario
 version: 1.0.0
 tags: []
 ---
+
 Aquí comparto palabras definidas y/o comentadas que dan forma al conocimiento.
