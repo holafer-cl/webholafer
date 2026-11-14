@@ -23,7 +23,7 @@ Desde la cibernética y sistémica, la epistemología no busca responder "qué e
 [^2]: Krippendorff, K. (1986). A dictionary of cybernetics. Epistemology. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
 
 > [!check] Propuesta teórica: anclaje al sistema
-> Para un [[sistema]], el dominio de existencia epistemológico define la **representación [[materia|material]] del sistema (dependiente del agente)**.
+> Para un [[sistema]], el dominio fundamental de existencia epistemológico define la **[[representacion|representación]] [[materia|material]] del sistema (dependiente del agente)**.
 > 
 > - **Operación:** Delimita la estructura observada y la distinción del agente (observador).
 > - **Base:** Es la representación material [[cognicion|cognitiva]] en el espacio-tiempo, no un "ente ideal" o "flotante", en base al **monismo físico-energético**.

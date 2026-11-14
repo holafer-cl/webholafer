@@ -17,9 +17,9 @@ Una rama de la filosofía preocupada por lo que realmente existe, en oposición 
 [^1]: Krippendorff, K. (1986). A dictionary of cybernetics. Ontology. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
 
 > [!check] Propuesta teórica: anclaje al sistema
-> Para un [[sistema]], el dominio de existencia ontológico define la **realización [[materia|material]] del sistema (independiente del agente)**.
+> Para un [[sistema]], el dominio fundamental de existencia ontológico define la **[[realizacion|realización]] [[materia|material]] del sistema (independiente del agente)**.
 > 
-> - **Operación:** Delimita el conjunto de objetos o eventos reales que existen, sin referencia a un observador.
+> - **Operación:** Delimita el [[flujo]] de energía que emerge como concentraciones locales de [[materia]] e [[informacion|información]], en distintos niveles de acoplamiento estructural.
 > - **Base:** Es la realización material (físico-energética) en el espacio-tiempo, anterior a cualquier distinción [[cognicion|cognitiva]], en base al **monismo físico-energético**.
 
 > [!note] Desambiguación técnica:

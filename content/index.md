@@ -17,6 +17,3 @@ He creado este espacio para **compartir** cosas hechas por mí.
 - [[ideario|Ideario]]
 - [[web|Páginas web]]
 - [[publicacion|Publicaciones científicas]]
-
-
-

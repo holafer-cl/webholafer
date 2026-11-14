@@ -22,7 +22,7 @@ Para un sistema, la información es el concepto unificador fundamental que equiv
 Desde esta perspectiva sistémica, se despliega en una doble dimensión [^2]: 
 
 - **Adquisición de conocimiento:** mediante el registro y la observación.
-- **Poder de organización y acción creadora:** capaz de dar orden, estructura y dirección sobre la realización [[materia|material]].
+- **Poder de organización y acción creadora:** capaz de dar orden, estructura y dirección sobre la [[realizacion|realización]] [[materia|material]].
 
 Dado que la información está vinculada a ciertos cambios, diferencias o dependencias, resulta conveniente referirse a estos y distinguir entre *información almacenada*, *información transportada*, *información transmitida*, *información requerida*, etc. La información pura y sin calificar es una abstracción no justificada.
 

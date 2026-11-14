@@ -25,7 +25,7 @@ Entonces, `Biología` por dar cuenta del **vivir** en tanto seres vivos particul
 La intersección entre ambos dominios constituye la [[cognicion|cognición]]: el fenómeno emergente del conocer en tanto enacción en el entorno (**Fig.1**).
 
 <div align="center">
-  <img src="biologia-social_venn-diagram.png" style="max-width: 80%; height: auto;" />
+  <img src="biologia-social_venn-diagram.png" style="max-width: 100%; height: auto;" />
 </div>
 
 **Figura 1. Acoplamiento entre los dominios de existencia (Vivir y Convivir) y la emergencia de la Cognición en la intersección operacional.**
@@ -43,7 +43,7 @@ La intersección entre ambos dominios constituye la [[cognicion|cognición]]: el
 > 
 > **Reconocer las limitaciones congnitivas de los seres vivos no es causa para rechazar una realización material (ontológico) independiente del observador**. Efectivamente, la distinción de la realidad (sistema) es una acción del observador, pero dicha distinción se representa en una existencia material que posee restricciones en sus relaciones. Por ejemplo: las fuerzas del átomo, la cadena transportadora de electrones de la mitocondria, o el acto físico de escribir esto mismo en un papel.
 > 
-> Ahora, **sin observador**, el sistema es un [[flujo]] de energía cuantizado que se distingue como concentraciones locales de [[materia]] e [[informacion|información]], en distintos niveles de acoplamiento estructural en el espacio-tiempo; es un dominio que está y es parte del sistema (realidad). Si el observador no fuera parte de un dominio material independiente que lo sostiene y lo restringe, ni siquiera podría hacer la distinción de `realidad` para empezar. Ignorar esa base es un error grave.
+> Ahora, **sin observador**, el sistema es un [[flujo]] de energía cuantizado que emerge como concentraciones locales de [[materia]] e [[informacion|información]], en distintos niveles de acoplamiento estructural en el espacio-tiempo; es un dominio que está y es parte del sistema (realidad). Si el observador no fuera parte de un dominio material independiente que lo sostiene y lo restringe, ni siquiera podría hacer la distinción de `realidad` para empezar. Ignorar esa base es un error grave.
 > > [!example] Ejemplos aplicados a la vida humana de este zombie teórico:
 > > 1. **En economía y políticas públicas:** Pretender que la escasez material, las leyes de la oferta y la demanda, o los límites termodinámicos de la energía se pueden superar a punta de decreto, ignorando el flujo de recursos físicos y la termodinámica de los sistemas productivos.
 > > 2. **En salud y biomedicina:** Las corrientes que niegan la base material de la patología o la biología evolutiva, creyendo que las enfermedades o los estados fisiológicos se pueden disolver puramente mediante "resignificación discursiva" o actitud mental, ignorando las restricciones como la genética, epigenética o bioquímica.
@@ -54,7 +54,7 @@ La intersección entre ambos dominios constituye la [[cognicion|cognición]]: el
 > > **La realidad es independiente y dependiente del observador.**
 > 
 > En tanto sistema, la realidad es una distinción del observador y, basado en el **monismo físico-energético**, define tres dominios de fundamentales de existencia:
-> - **[[ontologia|Ontológico]]:** Realización material (independiente).
-> - **[[epistemologia|Epistemológico]]:** Representación material (dependiente).
-> - **[[metodologia|Metodológico]]:** Enacción procedimental (interdependiente).
+> - **[[ontologia|Ontológico]]:** [[realizacion|Realización]] material (independiente).
+> - **[[epistemologia|Epistemológico]]:** [[representacion|Representación]] material (dependiente).
+> - **[[metodologia|Metodológico]]:** [[enaccion|Enacción]] procedimental (interdependiente).
 
