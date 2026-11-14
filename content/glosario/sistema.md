@@ -18,7 +18,7 @@ Del lat. tardío *systēma*, y este del gr. σύστημα *sýstēma*, represe
 [^2]: Capra, F., & Luisi, P. L. (2016). The systems view of life. Cambridge, England: Cambridge University Press. https://doi.org/10.1017/CBO9780511895555
 
 <div align="center">
-  <img src="sistema_definicion.png" style="max-width: 80%; height: auto;" />
+  <img src="sistema_definicion.png" style="max-width: 100%; height: auto;" />
 </div>
 
 **Figura 1. Desplazamiento figura/fondo: de los objetos a las relaciones.** a) desde los objetos hacia las relaciones. b) desde las relaciones hacia los objetos (mirada sistémica).
@@ -33,7 +33,7 @@ Del lat. tardío *systēma*, y este del gr. σύστημα *sýstēma*, represe
 > [!question] Agente (observador)
 > > [!check] Sistema
 > > <div align="center">
-> >   <img src="sistema_venn-diagram.png" style="max-width: 80%; height: auto;" />
+> >   <img src="sistema_venn-diagram.png" style="max-width: 100%; height: auto;" />
 > > </div>
 
 **Figura 2. Despliegue de los dominios de existencia del sistema según la distinción del agente (observador).**

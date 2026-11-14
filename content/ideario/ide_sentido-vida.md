@@ -37,7 +37,7 @@ Desde la visión sistémica, la vida es una propiedad emergente que involucra la
 [^4]: Takola, E., & Schielzeth, H. (2022). Hutchinson’s ecological niche for individuals. Biology &amp; Philosophy, 37(4). https://doi.org/10.1007/s10539-022-09849-y
 
 <div align="center">
-  <img src="ide_sentido-vida_venn-diagram.png" style="max-width: 80%; height: auto;" />
+  <img src="ide_sentido-vida_venn-diagram.png" style="max-width: 100%; height: auto;" />
 </div>
 
 **Figura 1. La trilogía de la vida.** La estructura orgánica y viva (unidad autopoiética) interactúa con el entorno a través de un sensorio de cognición, el cual es un producto específico de su desarrollo y evolución. No tiene sentido considerar a cada uno de estos tres dominios como independientes entre sí. La vida es la sinergia de estos tres dominios, tal como lo implica la noción de la "mente encarnada" (*embodied mind*) [^5].
