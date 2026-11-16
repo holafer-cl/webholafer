@@ -18,7 +18,7 @@ Es un modelo de biología teórica que, desde una mirada sistémica comprensiva 
 1. **Vivir:** que define el cambio de estados internos (fisiológicos).
 2. **Convivir**: que define el acoplamiento con el entorno (conductuales o relacionales).
 
-Entonces, `Biología` por dar cuenta del **vivir** en tanto seres vivos particulares y únicos, y `Social` por dar cuenta del **convivir** en tanto se conserva la interacción y acoplamiento estructural con el entorno, que incluye a otros seres vivos. Dando origen, por ejemplo, al lenguaje simbólico en humanos [^2]. En consecuencia, se sostiene que: **Somos individualmente sociales y socialmente individuales**, siendo lo individual y lo colectivo únicamente separables por la distinción del lenguaje de un observador.
+Entonces, `Biología` por dar cuenta del **vivir** en tanto seres vivos particulares y únicos, y `Social` por dar cuenta del **convivir** en tanto se conserva la interacción y acoplamiento estructural con el entorno, que incluye a otros seres vivos. Dando origen, por ejemplo, al lenguaje simbólico en humanos [^2]. En consecuencia, se sostiene que: **Somos individualmente sociales y socialmente individuales**, siendo lo individual y lo colectivo únicamente separables por la distinción del lenguaje de un [[observador]].
 
 [^2]: Gutiérrez, H. (2010). Biología Social: Una Mirada Sistémica Comprensiva Biológica. MAD, (23), 38–42. [https://doi.org/10.5354/0719-0527.2010.13634](https://revistamad.uchile.cl/index.php/RMAD/article/view/13634/13904)
 
@@ -50,8 +50,8 @@ La intersección entre ambos dominios constituye la [[cognicion|cognición]]: el
 > > 3. **En ecología y planificación urbana:** Diseñar modelos de crecimiento económico e industrial indefinido en un planeta con recursos finitos, bajo el dogma de que la tecnología o los acuerdos sociales pueden saltarse indefinidamente los límites biofísicos de los ecosistemas.
 
 > [!check] Propuesta teórica
-> Por el contrario, mi modelo revisado de Biología Social se soporta en el siguiente axioma, basado en la visión sistémica de la vida y mi propia definición de [[sistema]].
-> > **La realidad es independiente y dependiente del observador.**
+> Por el contrario, mi modelo revisado de Biología Social se soporta en el siguiente axioma, basado en la [[ide_pensamiento-sistemico|visión sistémica de la vida]] y mi propia definición de [[sistema]].
+> > **La realidad es independiente y dependiente del [[observador]].**
 > 
 > En tanto sistema, la realidad es una distinción del observador y, basado en el **monismo físico-energético**, define tres dominios de fundamentales de existencia:
 > - **[[ontologia|Ontológico]]:** [[realizacion|Realización]] material (independiente).

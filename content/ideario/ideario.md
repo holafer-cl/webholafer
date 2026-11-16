@@ -2,7 +2,7 @@
 title: Ideario
 date: 2026-10-27T00:20:26
 author: Fer Díaz-González
-type: idea
+type: ideario
 version: 1.0.0
 ---
 

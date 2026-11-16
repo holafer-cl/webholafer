@@ -1,10 +1,10 @@
 ---
 title: Enacción
-date: 2026-11-14
+date: 2026-11-16
 date_creación: 2026-11-13T23:33:57
 author: Fer Díaz-González
 type: glosario
-version: 1.0.0
+version: 1.0.2
 tags:
   - biología
 aliases:
@@ -13,7 +13,7 @@ aliases:
 
 **La acción corporizada del conocimiento en su acoplamiento estructural con el entorno**. El neologismo enacción traduce el término inglés enaction (derivado de enact, "representar" o "desempeñar un papel, actuar"), adoptando la forma enactuar para evitar la confusión que generarían traducciones como "actuar", "representar" o "poner en acto". Como teoría de la [[cognicion|cognición]] inscrita en el cuerpo (*embodied mind*), este enfoque se introduce influenciado por la psicología tradicional budista y como desarrollo del concepto de autopoiesis, proponiendo un abordaje integrado al [[problema]] "mente-cuerpo" donde el cuerpo es el lugar en el que los mecanismos perceptivos y cognitivos se elaboran como cognición subjetiva [^1].
 
-[^1]: Bertalanffy Center for the Study of Systems Science (2020). Flow. In Charles François (Ed.), International Encyclopedia of Systems and Cybernetics. Retrieved from http://systemspedia.bcsss.org/?title=ENACTION+THEORY
+[^1]: Bertalanffy Center for the Study of Systems Science (2020). Enaction Theory. In Charles François (Ed.), International Encyclopedia of Systems and Cybernetics. Retrieved from http://systemspedia.bcsss.org/?title=ENACTION+THEORY
 
 En su sentido sintético, el enfoque enactivo se fundamenta en que [^2]:
 - La percepción es acción guiada perceptivamente.
@@ -34,8 +34,8 @@ Bajo esta [[red]] de múltiples niveles de subredes sensorio-motrices interconec
 Por último, este modelo enactivo se mantiene a distancia de la actitud objetivista/subjetivista predominante en la ciencia contemporánea. Dado que nuestra corporización y el mundo enactuado reflejan solo una de las muchas vías evolutivas posibles, nos encontramos siempre restringidos por la senda que trazamos, sin un fundamento último que dictamine los pasos. Esta falta de fundamento y la incertidumbre al trazar la senda constituyen el problema filosófico clave de la ausencia de fundamento.
 
 > [!check] Propuesta teórica: anclaje al sistema
-> Para un [[sistema]], la enacción es la acción corporizada que hace emerger el dominio de existencia **[[metodologia|metodológico]] (interdependiente entre el agente y la base [[materia|material]])**.
+> Para un [[sistema]], la enacción es la acción corporizada que hace emerger el dominio de existencia **[[metodologia|metodológico]] (interdependiente entre el [[observador]] y la base [[materia|material]])**.
 > 
 > - **Operación:** Despliega una percepción como acción guiada perceptivamente, a partir de modelos sensorio-motrices recurrentes que configuran un mundo compartido de significación.
-> - **Base:** No responde a un fundamento último ni a un diseño óptimo prefijado, sino a una historia viable de acoplamiento estructural bajo una lógica proscriptiva (mantener la integridad del sistema/linaje) en el marco de la **deriva natural** y el **monismo físico-energético**.
+> - **Base:** No responde a un fundamento último ni a un diseño óptimo prefijado, sino a una historia viable de acoplamiento estructural bajo una lógica proscriptiva (mantener la integridad del sistema/linaje) en el marco evolutivo de la **deriva natural** y el **monismo físico-energético**.
 

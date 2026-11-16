@@ -12,12 +12,12 @@ aliases:
   - ontológico
 ---
 
-Una rama de la filosofía preocupada por lo que realmente existe, en oposición a lo que solo aparenta existir pero no lo hace. La ontología de una teoría es el conjunto de objetos o eventos reales cuya existencia es asumida, por la teoría al referirse a ellos, **sin hacer referencia a un observador**. Toda pretensión de conocimiento sobre lo que es, lleva implícita una ontología [^1].
+Una rama de la filosofía preocupada por lo que realmente existe, en oposición a lo que solo aparenta existir pero no lo hace. La ontología de una teoría es el conjunto de objetos o eventos reales cuya existencia es asumida, por la teoría al referirse a ellos, **sin hacer referencia a un [[observador]]**. Toda pretensión de conocimiento sobre lo que es, lleva implícita una ontología [^1].
 
 [^1]: Krippendorff, K. (1986). A dictionary of cybernetics. Ontology. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
 
 > [!check] Propuesta teórica: anclaje al sistema
-> Para un [[sistema]], el dominio fundamental de existencia ontológico define la **[[realizacion|realización]] [[materia|material]] del sistema (independiente del agente)**.
+> Para un [[sistema]], el dominio fundamental de existencia ontológico define la **[[realizacion|realización]] [[materia|material]] del sistema (independiente del observador)**.
 > 
 > - **Operación:** Delimita el [[flujo]] de energía que emerge como concentraciones locales de [[materia]] e [[informacion|información]], en distintos niveles de acoplamiento estructural.
 > - **Base:** Es la realización material (físico-energética) en el espacio-tiempo, anterior a cualquier distinción [[cognicion|cognitiva]], en base al **monismo físico-energético**.

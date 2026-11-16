@@ -1,24 +1,24 @@
 ---
 title: Problema
-date: 2026-11-03
+date: 2026-11-16
 date_creacion: 2026-10-28T11:48:19
 author: Fer Díaz-González
-type: producto
-version: 1.3.0
+type: glosario
+version: 1.4.0
 tags:
   - ciencia
 aliases:
   - problemas
 ---
 
-Del latín *problēma,* y este del griero πρόβλημα *próblēma,* es una **brecha o diferencia entre cómo es la situación ahora y cómo te gustaría que fuera.** [^1]. Esto significa que los problemas pueden ser:
+Del latín *problēma,* y este del griego πρόβλημα *próblēma,* es una **brecha o diferencia entre cómo es la situación ahora y cómo te gustaría que fuera.** [^1]. Esto significa que los problemas pueden ser:
 
 [^1]: Brooks J. (2022). The art of problem solving and its translation into practice. Bdj in Practice, 35 (9), 21–23. https://doi.org/10.1038/s41404-022-1714-y
 
 - **Universales**: la misma situación representaría un problema para todo el mundo.
 - **Específicos**: la situación es un problema para nosotros o para un grupo de personas determinado.
 
-De manera más precisa, una **situación** $X$ es un **problema** para el **agente** $A$, si, y solo si, (SSI o IFF) la situación $X$ está en **conflicto** con la **meta** $G$ del agente y eliminar la **discrepancia** entre $X$ y $G$ presenta alguna **dificultad** para el agente $A$ [^2]. Además, para que el agente $A$ tenga realmente un problema, también debe estar en dicha situación $X$. En contraste, el agente $A$ reconoce que la situación $X$ es un problema para él SSI:
+De manera más precisa, una **situación** $X$ es un **problema** para el **[[agente]]** $A$, si, y solo si, (SSI o IFF) la situación $X$ está en **conflicto** con la **meta** $G$ del agente y eliminar la **discrepancia** entre $X$ y $G$ presenta alguna **dificultad** para el agente $A$ [^2]. Además, para que el agente $A$ tenga realmente un problema, también debe estar en dicha situación $X$. En contraste, el agente $A$ reconoce que la situación $X$ es un problema para él SSI:
 
 1. El agente $A$ representa, correcta o incorrectamente, que la situación $X$ está en conflicto con su meta $G$.
 2. El agente $A$ representa, correcta o incorrectamente, que eliminar la discrepancia entre $X$ y $G$ presenta alguna dificultad.
@@ -83,6 +83,9 @@ flowchart TD
     E3 -- Sí --> Res2(["El agente <b><i>A</i></b><br/><b>RECONOCE</b> el problema"]):::resultClass
 ```
 **Figura 1. Dominios ontológico y epistemológico del problema.** Desglose de los criterios necesarios, suficientes e interrelacionados para determinar un problema desde la perspectiva del agente, la situación actual y la meta (otra situación), en la realización material y representación material del sistema. Ambos dominios permiten la emergencia del dominio metodológico.
+
+> [!note] Relación entre agente y observador
+> En la formalización de Barseghyan et al. (2024), el sujeto del problema se modela como un **[[agente]]** ($A$) definido por sus metas (teleología) y representaciones materiales. Desde una perspectiva sistémica y enactiva, dicho agente corresponde a un **[[observador]]** acoplado estructuralmente a su entorno, cuya **[[enaccion|enacción]]** emerge de la interacción entre la realización ontológica y la representación epistemológica de un [[sistema]].
 
 > [!important] Varias conclusiones se derivan de estas definiciones:
 > 1. **No todos los problemas incluyen preguntas**

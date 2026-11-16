@@ -1,6 +1,6 @@
 ---
 title: Realización
-date: 2026-11-13
+date: 2026-11-16
 date_creacion: 2026-11-13T16:38:32
 author: Fer Díaz-González
 type: glosario
@@ -19,7 +19,7 @@ A su vez, esta noción de producción se comprende estrictamente como *"cualquie
 [^2]: Krippendorff, K. (1986). A dictionary of cybernetics. Production. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
 
 > [!check] Propuesta teórica: anclaje al sistema
-> Para un [[sistema]], la realización es la producción [[materia|material]] del dominio de existencia **[[ontologia|ontológico]] (independiente del agente)**.
+> Para un [[sistema]], la realización es la producción [[materia|material]] del dominio de existencia **[[ontologia|ontológico]] (independiente del [[observador]])**.
 > 
 > - **Operación:** Emergen procesos de síntesis, transformación y estructuración en un espacio de componentes interactivos, generando [[flujo|flujos]] materiales capaces de interactuar causalmente.
-> - **Base:** No es una mera emisión de señales o símbolos, sino el sustrato físico-energético en el espacio-tiempo desde donde emerge la producción material de los sistemas, en estricta base al **monismo físico-energético**.
+> - **Base:** No es una mera emisión de señales o símbolos, sino el sustrato físico-energético en el espacio-tiempo desde donde emerge la producción material de los sistemas, en base al **monismo físico-energético**.

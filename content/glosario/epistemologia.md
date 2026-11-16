@@ -16,14 +16,14 @@ Proviene del vocablo griego *episteme*, cuyo significado es *"conocimiento"* y *
 Desde la cibernética y sistémica, la epistemología no busca responder "qué es" la realidad (tarea de la [[ontologia|ontología]]), sino **cómo llegamos a conocer** [^2]. Esto incluye las operaciones de:
 - Levantar distinciones y establecer relaciones.
 - Crear constructos derivados de la comunicación entre observadores.
-- Considerar al observador y lo observado como partes del mismo sistema, donde la teoría emerge del proceso de interacción.
+- Considerar al [[observador]] y lo observado como partes del mismo sistema, donde la teoría emerge del proceso de interacción.
 
 [^1]: Colorado, G. G. (2011). Diccionario enciclopédico de bioética. Editorial Trillas Sa De Cv. ISBN: 978-607-17-0927-1
 
 [^2]: Krippendorff, K. (1986). A dictionary of cybernetics. Epistemology. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
 
 > [!check] Propuesta teórica: anclaje al sistema
-> Para un [[sistema]], el dominio fundamental de existencia epistemológico define la **[[representacion|representación]] [[materia|material]] del sistema (dependiente del agente)**.
+> Para un [[sistema]], el dominio fundamental de existencia epistemológico define la **[[representacion|representación]] [[materia|material]] del sistema (dependiente del observador)**.
 > 
-> - **Operación:** Delimita la estructura observada y la distinción del agente (observador).
+> - **Operación:** Delimita la estructura observada y la distinción del observador.
 > - **Base:** Es la representación material [[cognicion|cognitiva]] en el espacio-tiempo, no un "ente ideal" o "flotante", en base al **monismo físico-energético**.

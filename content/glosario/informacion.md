@@ -3,7 +3,7 @@ title: Información
 date: 2026-11-12
 date_creacion: 2026-11-09T13:55:45
 author: Fer Díaz-González
-type: producto
+type: glosario
 version: 1.0.1
 tags:
   - cibernética
@@ -15,7 +15,7 @@ Literalmente, «aquello que se forma dentro». Pero de manera más adecuada: el 
 
 [^1]: Krippendorff, K. (1986). A dictionary of cybernetics. Information. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
 
-Para un sistema, la información es el concepto unificador fundamental que equivale, para las estructuras organizadas, a lo que la energía representa para la física clásica: la capacidad de ejercer trabajo organizacional y control guiado hacia un propósito [^2]. Asimismo, los datos brutos no constituyen información por sí mismos, sino que requieren ser integrados dentro de un marco de referencia explícito y una [[red]] de elementos interactivos que fluyen en el espacio-tiempo para adquirir significado, transformar el conocimiento y reducir la incertidumbre del observador.
+Para un sistema, la información es el concepto unificador fundamental que equivale, para las estructuras organizadas, a lo que la energía representa para la física clásica: la capacidad de ejercer trabajo organizacional y control guiado hacia un propósito [^2]. Asimismo, los datos brutos no constituyen información por sí mismos, sino que requieren ser integrados dentro de un marco de referencia explícito y una [[red]] de elementos interactivos que fluyen en el espacio-tiempo para adquirir significado, transformar el conocimiento y reducir la incertidumbre del [[observador]].
 
 [^2]: Bertalanffy Center for the Study of Systems Science (2020). Information. In Charles François (Ed.), International Encyclopedia of Systems and Cybernetics. Retrieved from http://systemspedia.bcsss.org/?title=INFORMATION
 

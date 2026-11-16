@@ -1,10 +1,10 @@
 ---
 title: "Sentido fundamental de la vida: vivir y convivir"
-date: 2026-11-04
+date: 2026-11-16
 date_creación: 2026-10-26T19:57:40
 author: Fer Díaz-González
-type: idea
-version: 1.0.3
+type: ideario
+version: 1.1.3
 tags:
   - biología
 ---
@@ -28,7 +28,7 @@ Por lo anterior, se ha definido al sentido de la vida como los juicios subjetivo
 2. Dirigen nuestros esfuerzos hacia futuros deseados.
 3. Proporcionan la sensación de que nuestras vidas importan y valen la pena."
 
-Desde la visión sistémica, la vida es una propiedad emergente que involucra la relación entre el ser vivo (unidad autopoiética u organismo), la [[cognicion|cognición]] y el entorno (medio ambiente) (**Fig.1**) [^2]. Así, **el organismo procesa [[informacion|información]]**, con la percepción, pensamiento, toma de decisiones, competencia lingüística y control motor [^3], **desde el entorno**, un hipervolumen multidimensional que incluye todos los factores bióticos (ej. unidades autopoiéticas) y abióticos (ej. temperatura, humedad, etc.) con los que el organismo se relaciona [^4].
+Desde la [[ide_pensamiento-sistemico|visión sistémica de la vida]], es un [[sistema]] emergente que involucra la relación entre el ser vivo (unidad autopoiética u organismo), la [[cognicion|cognición]] y el entorno (medio ambiente) (**Fig.1**) [^2]. Así, **el organismo procesa [[informacion|información]]**, con la percepción, pensamiento, toma de decisiones, competencia lingüística y control motor [^3], **desde el entorno**, un hipervolumen multidimensional que incluye todos los factores bióticos (ej. unidades autopoiéticas) y abióticos (ej. temperatura, humedad, etc.) con los que el organismo se relaciona [^4].
 
 [^2]: Capra, F., & Luisi, P. L. (2016). The systems view of life. Cambridge, England: Cambridge University Press. https://doi.org/10.1017/CBO9780511895555
 
@@ -44,7 +44,7 @@ Desde la visión sistémica, la vida es una propiedad emergente que involucra la
 
 [^5]: Varela, F., Thompson, E., & Rosch, E. (1991). The Embodied Mind. Cognitive Science and Human Experience. ISBN: 978-84-7432-419-8
 
-Por lo tanto, y desde mi entendimiento, considero que **el sentido fundamental de la vida es vivir y convivir** (un vivir con otro vivir). Ser parte del proceso de la [[biologia-social|Biología Social]] [^6], donde al organismo (el vivir) le ocurre el proceso de la vida. Ahora, **cómo se vive y convive** es un asunto, personal y subjetivo, que cada individuo debe resolver por sí mismo. Además, no es un asunto exclusivo, pueden idearse pequeños, medianos y grandes propósitos. Cada uno con su respectivo nivel de complejidad [^7], que dependerá de la cantidad necesaria de energía y tiempo para su logro.
+Por lo tanto, y desde mi entendimiento como [[agente]], considero que **el sentido fundamental de la vida es vivir y convivir** (un vivir con otro vivir en el entorno). Ser parte del proceso de la [[biologia-social|Biología Social]] [^6], donde al organismo (el vivir) le ocurre el proceso de la vida. Ahora, **cómo se vive y convive** es un asunto, personal y subjetivo, que cada individuo debe resolver por sí mismo. Además, no es un asunto exclusivo, pueden idearse pequeños, medianos y grandes propósitos. Cada uno con su respectivo nivel de complejidad [^7], que dependerá de la cantidad necesaria de energía y tiempo para su logro.
 
 [^6]: Gutiérrez, H. (2010). Biología Social: Una Mirada Sistémica Comprensiva Biológica. MAD, (23), 38–42. [https://doi.org/10.5354/0719-0527.2010.13634](https://revistamad.uchile.cl/index.php/RMAD/article/view/13634/13904)
 
