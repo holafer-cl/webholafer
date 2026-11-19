@@ -4,14 +4,14 @@ date: 2026-11-09
 date_crecion: 2026-11-08T23:46:48
 author: Fer Díaz-González
 type: glosario
-version: 1.2.1
+version: 1.2.2
 tags:
   - biología
 aliases:
   - biología social
 ---
 
-Es un modelo de biología teórica que, desde una mirada sistémica comprensiva biológica, distingue que el ser vivo posee **dos dominios de existencia interdependientes** [^1], vivir y convivir: 
+Es un modelo de biología teórica que, desde una mirada sistémica comprensiva biológica, [[distincion|distingue]] que el ser vivo posee **dos dominios de existencia interdependientes** [^1], vivir y convivir: 
 
 [^1]: Gutiérrez, H. (2009). Biología Social. Editorial Forja. ISBN: 978-956-8323-65-3
 
@@ -31,17 +31,17 @@ La intersección entre ambos dominios constituye la [[cognicion|cognición]]: el
 **Figura 1. Acoplamiento entre los dominios de existencia (Vivir y Convivir) y la emergencia de la Cognición en la intersección operacional.**
 
 > [!bug] Zombie teórico
-> El modelo de Biología Social, en su versión original, se fundamenta en un axioma que asume el carácter generativo del conocimiento -presente también en el constructivismo y socioconstruccionismo-, el cual critica al objetivismo bajo la premisa de que:
+> El modelo de Biología Social, en su versión original, se fundamenta en un axioma que asume el carácter generativo del [[conocimiento]] -presente también en el constructivismo y socioconstruccionismo-, el cual critica al objetivismo bajo la premisa de que:
 > > **La realidad no es independiente del observador** o **no existe realidad independiente del observador.**
 > 
-> Esto se fundamenta principalmente en las restricciones cognitivas que presenta el observador en su base biológica y que soporta la experiencia subjetiva de los seres vivos. No obstante, los autores cometen un error grave al sobreestimar el dominio subjetivo (epistemológico) y, en consecuencia, sostienen que:
+> Esto se fundamenta principalmente en las [[restriccion|restricciones]] cognitivas que presenta el observador en su base biológica y que soporta la experiencia subjetiva de los seres vivos. No obstante, los autores cometen un error grave al sobreestimar el dominio subjetivo (epistemológico) y, en consecuencia, sostienen que:
 > - Toda realidad es una distinción del lenguaje, reduciéndose a un [[problema]] solo discursivo.
 > - Cualquier lenguaje tiene validez para explicar la realidad.
 > - Pueden existir tantas realidades como modelos de lenguaje.
 >
 > El **zombie teórico** aquí, en la práctica de estos modelos, es asumir que las restricciones materiales de la naturaleza no existen y que todos los lenguajes pueden dar las mismas certezas sobre la realidad. Por ejemplo, desconociendo el lenguaje matemático en todas sus aplicaciones al diario vivir y convivir.
 > 
-> **Reconocer las limitaciones congnitivas de los seres vivos no es causa para rechazar una realización material (ontológico) independiente del observador**. Efectivamente, la distinción de la realidad (sistema) es una acción del observador, pero dicha distinción se representa en una existencia material que posee restricciones en sus relaciones. Por ejemplo: las fuerzas del átomo, la cadena transportadora de electrones de la mitocondria, o el acto físico de escribir esto mismo en un papel.
+> **Reconocer las limitaciones congnitivas de los seres vivos no es causa para rechazar una realización material (ontológico) independiente del observador**. Efectivamente, la distinción de la realidad (sistema) es una acción del observador, pero dicha distinción se representa en una existencia material que posee restricciones en sus [[relacion|relaciones]]. Por ejemplo: las fuerzas del átomo, la cadena transportadora de electrones de la mitocondria, o el acto físico de escribir esto mismo en un papel.
 > 
 > Ahora, **sin observador**, el sistema es un [[flujo]] de energía cuantizado que emerge como concentraciones locales de [[materia]] e [[informacion|información]], en distintos niveles de acoplamiento estructural en el espacio-tiempo; es un dominio que está y es parte del sistema (realidad). Si el observador no fuera parte de un dominio material independiente que lo sostiene y lo restringe, ni siquiera podría hacer la distinción de `realidad` para empezar. Ignorar esa base es un error grave.
 > > [!example] Ejemplos aplicados a la vida humana de este zombie teórico:

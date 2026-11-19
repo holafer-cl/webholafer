@@ -12,9 +12,9 @@ aliases:
   - epistemológico
 ---
 
-Proviene del vocablo griego *episteme*, cuyo significado es *"conocimiento"* y *logos, "ciencia o estudio"*. De este modo, su nombre etimológico establece que la ciencia epistemológica versará sobre el análisis del conocimiento, especialmente en lo que se refiere al conocimiento científico, aquel que cuenta con un objeto de estudio definido, con métodos y recursos medibles, con estructuras de análisis y de generación de hipótesis [^1].
+Proviene del vocablo griego *episteme*, cuyo significado es *"[[conocimiento]]"* y *logos, "ciencia o estudio"*. De este modo, su nombre etimológico establece que la ciencia epistemológica versará sobre el análisis del conocimiento, especialmente en lo que se refiere al conocimiento científico, aquel que cuenta con un objeto de estudio definido, con métodos y recursos medibles, con estructuras de análisis y de generación de hipótesis [^1].
 Desde la cibernética y sistémica, la epistemología no busca responder "qué es" la realidad (tarea de la [[ontologia|ontología]]), sino **cómo llegamos a conocer** [^2]. Esto incluye las operaciones de:
-- Levantar distinciones y establecer relaciones.
+- Levantar distinciones y establecer [[relacion|relaciones]].
 - Crear constructos derivados de la comunicación entre observadores.
 - Considerar al [[observador]] y lo observado como partes del mismo sistema, donde la teoría emerge del proceso de interacción.
 
@@ -25,5 +25,5 @@ Desde la cibernética y sistémica, la epistemología no busca responder "qué e
 > [!check] Propuesta teórica: anclaje al sistema
 > Para un [[sistema]], el dominio fundamental de existencia epistemológico define la **[[representacion|representación]] [[materia|material]] del sistema (dependiente del observador)**.
 > 
-> - **Operación:** Delimita la estructura observada y la distinción del observador.
+> - **Operación:** Delimita la estructura observada y la [[distincion|distinción]] del observador.
 > - **Base:** Es la representación material [[cognicion|cognitiva]] en el espacio-tiempo, no un "ente ideal" o "flotante", en base al **monismo físico-energético**.

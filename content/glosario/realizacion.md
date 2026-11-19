@@ -12,7 +12,7 @@ aliases:
 ---
 
 La acción de realizar se define como la *"producción de un objeto o sistema de acuerdo con instrucciones, planes o programas ([[informacion|información]]), por ejemplo, construir una casa según planos, replicar un experimento científico publicado previamente, cocinar según una receta, realizar una idea artística"* [^1].
-A su vez, esta noción de producción se comprende estrictamente como *"cualquier proceso de síntesis, transformación o destrucción realizado en un espacio de componentes interactivos que da como resultado, no meramente la emisión de señales o la disposición de caracteres, sino —como en una computadora o un mecanismo de relojería— en entidades materiales que son capaces de interactuar con otras entidades, posiblemente incluyendo a los componentes que las produjeron"* [^2].
+A su vez, esta noción de producción se comprende estrictamente como *"cualquier proceso de síntesis, transformación o destrucción realizado en un espacio de [[componente|componentes]] interactivos que da como resultado, no meramente la emisión de señales o la disposición de caracteres, sino —como en una computadora o un mecanismo de relojería— en entidades materiales que son capaces de interactuar con otras entidades, posiblemente incluyendo a los componentes que las produjeron"* [^2].
 
 [^1]: Krippendorff, K. (1986). A dictionary of cybernetics. Realization. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
 

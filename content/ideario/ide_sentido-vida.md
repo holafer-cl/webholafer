@@ -11,7 +11,7 @@ tags:
 > [!quote] Idea
 > Hoy, entendemos que en la naturaleza todas las cosas van a expirar. Junto a ella, la muerte se llevará la vida entera. No obstante, en los ciclos que continúan la vida renacerá. Porque el propósito fluye a través de todo lo que hacemos.
 
-Durante siglos, el sentido de la vida ha sido un tema que ha inspirado intensa curiosidad en la especie humana. Cada persona y cada cultura tiene su propia respuesta en relación con sus experiencias de vida, creencias, ideas y valores particulares. Algunos creen que **el sentido de la vida es**:
+Durante siglos, el sentido de la vida ha sido un tema que ha inspirado intensa curiosidad en la especie humana. Cada persona y cada cultura tiene su propia respuesta en [[relacion|relación]] con sus experiencias de vida, creencias, ideas y valores particulares. Algunos creen que **el sentido de la vida es**:
 
 - Buscar la felicidad.
 - Lograr el crecimiento personal.

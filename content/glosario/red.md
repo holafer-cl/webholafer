@@ -23,6 +23,6 @@ Las redes son fundamentalmente:
 - **Combinatorias:** sujetas a reglas.
 - **Autocatalíticas:** mediante la construcción espontánea de ciclos funcionales.
 
-Cada elemento adquiere una actividad específica al vincularse con otros que actúan sobre él o sobre los cuales él actúa. Toda red está predefinida por **restricciones** (*constraints*) apropiadas: una selección deliberada de enlaces útiles (actuales o potenciales) que excluye aquellos no significativos para el funcionamiento del sistema [^2].
+Cada elemento adquiere una actividad específica al vincularse con otros que actúan sobre él o sobre los cuales él actúa. Toda red está predefinida por **[[restriccion|restricciones]]** (*constraints*) apropiadas: una selección deliberada de enlaces útiles (actuales o potenciales) que excluye aquellos no significativos para el funcionamiento del sistema [^2].
 
 Además, se caracterizan por una **interdependencia autorreferencial** entre las partes y el todo, manteniendo el equilibrio del sistema ante perturbaciones internas y externas. Dado que los elementos de la red operan en paralelo de manera síncrona, la sucesión de sus estados determina la **trayectoria de la red**, generando su propia estructura mediante procesos autorregulados de ensayo y error en lugar de algoritmos rígidos preprogramados [^2].

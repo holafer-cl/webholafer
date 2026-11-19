@@ -12,7 +12,7 @@ aliases:
   - ontológico
 ---
 
-Una rama de la filosofía preocupada por lo que realmente existe, en oposición a lo que solo aparenta existir pero no lo hace. La ontología de una teoría es el conjunto de objetos o eventos reales cuya existencia es asumida, por la teoría al referirse a ellos, **sin hacer referencia a un [[observador]]**. Toda pretensión de conocimiento sobre lo que es, lleva implícita una ontología [^1].
+Una rama de la filosofía preocupada por lo que realmente existe, en oposición a lo que solo aparenta existir pero no lo hace. La ontología de una teoría es el conjunto de objetos o eventos reales cuya existencia es asumida, por la teoría al referirse a ellos, **sin hacer referencia a un [[observador]]**. Toda pretensión de [[conocimiento]] sobre lo que es, lleva implícita una ontología [^1].
 
 [^1]: Krippendorff, K. (1986). A dictionary of cybernetics. Ontology. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
 
@@ -20,7 +20,7 @@ Una rama de la filosofía preocupada por lo que realmente existe, en oposición 
 > Para un [[sistema]], el dominio fundamental de existencia ontológico define la **[[realizacion|realización]] [[materia|material]] del sistema (independiente del observador)**.
 > 
 > - **Operación:** Delimita el [[flujo]] de energía que emerge como concentraciones locales de [[materia]] e [[informacion|información]], en distintos niveles de acoplamiento estructural.
-> - **Base:** Es la realización material (físico-energética) en el espacio-tiempo, anterior a cualquier distinción [[cognicion|cognitiva]], en base al **monismo físico-energético**.
+> - **Base:** Es la realización material (físico-energética) en el espacio-tiempo, anterior a cualquier [[distincion|distinción]] [[cognicion|cognitiva]], en base al **monismo físico-energético**.
 
 > [!note] Desambiguación técnica:
 > En ciencias de la computación, bases de datos y bioinformática (p. ej., *Gene Ontology*), el término se utiliza de forma técnica para referirse a vocabularios controlados y modelos semánticos [^2]. Desde un rigor sistémico, dichas aplicaciones no constituyen ontología en sentido estricto, sino herramientas **epistemológicas y metodológicas** (constructos del observador para ordenar distinciones).

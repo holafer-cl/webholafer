@@ -9,9 +9,11 @@ tags:
   - biología
 aliases:
   - enacción
+  - enactivo
+  - enactiva
 ---
 
-**La acción corporizada del conocimiento en su acoplamiento estructural con el entorno**. El neologismo enacción traduce el término inglés enaction (derivado de enact, "representar" o "desempeñar un papel, actuar"), adoptando la forma enactuar para evitar la confusión que generarían traducciones como "actuar", "representar" o "poner en acto". Como teoría de la [[cognicion|cognición]] inscrita en el cuerpo (*embodied mind*), este enfoque se introduce influenciado por la psicología tradicional budista y como desarrollo del concepto de autopoiesis, proponiendo un abordaje integrado al [[problema]] "mente-cuerpo" donde el cuerpo es el lugar en el que los mecanismos perceptivos y cognitivos se elaboran como cognición subjetiva [^1].
+**La acción corporizada del [[conocimiento]] en su acoplamiento estructural con el entorno**. El neologismo enacción traduce el término inglés enaction (derivado de enact, "representar" o "desempeñar un papel, actuar"), adoptando la forma enactuar para evitar la confusión que generarían traducciones como "actuar", "representar" o "poner en acto". Como teoría de la [[cognicion|cognición]] inscrita en el cuerpo (*embodied mind*), este enfoque se introduce influenciado por la psicología tradicional budista y como desarrollo del concepto de autopoiesis, proponiendo un abordaje integrado al [[problema]] "mente-cuerpo" donde el cuerpo es el lugar en el que los mecanismos perceptivos y cognitivos se elaboran como cognición subjetiva [^1].
 
 [^1]: Bertalanffy Center for the Study of Systems Science (2020). Enaction Theory. In Charles François (Ed.), International Encyclopedia of Systems and Cybernetics. Retrieved from http://systemspedia.bcsss.org/?title=ENACTION+THEORY
 
@@ -23,7 +25,7 @@ En su sentido sintético, el enfoque enactivo se fundamenta en que [^2]:
 
 En consecuencia, la cognición ya no se encara como resolución de problemas a partir de representaciones preexistentes. Por el contrario, en su sentido más abarcador, consiste en la **enactuación de un mundo —en hacer emerger un mundo— mediante una historia viable de acoplamiento estructural**. Este acoplamiento corporal e histórico se enmarca dentro de la evolución como deriva natural, donde las historias vividas no son óptimas, sino meramente viables:
 - Para que el acoplamiento sea viable, basta con que la acción del sistema facilite su integridad continua (ontogenia) y/o la de su linaje (filogenia).
-- Esto opera bajo una lógica proscriptiva y no prescriptiva: se permite toda acción del sistema siempre que no viole la restricción de mantener la integridad de dicho sistema o linaje.
+- Esto opera bajo una lógica proscriptiva y no prescriptiva: se permite toda acción del sistema siempre que no viole la [[restriccion|restricción]] de mantener la integridad de dicho sistema o linaje.
 
 Bajo esta [[red]] de múltiples niveles de subredes sensorio-motrices interconectadas, se despliegan las siguientes nociones fundamentales:
 - **¿Qué es la cognición?:** Es **enacción**; la historia del acoplamiento corporal que enactúa (hace emerger) un mundo.

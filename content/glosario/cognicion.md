@@ -13,7 +13,7 @@ aliases:
   - cognitiva
   - cognitivo
 ---
-Originalmente, término utilizado para separar los procesos racionales involucrados en la adquisición, organización y uso del conocimiento de las reacciones emocionales, instintivas o impulsivas [^1]. Desde una perspectiva cibernética y sistémica, designa **la adquisición de una comprensión ordenada y operativa de nosotros mismos y de nuestro entorno** [^2], abarcando todas las actividades de procesamiento de [[informacion|información]]: percepción, pensamiento, toma de decisiones, competencia lingüística y control motor [^1].
+Originalmente, término utilizado para separar los procesos racionales involucrados en la adquisición, organización y uso del [[conocimiento]] de las reacciones emocionales, instintivas o impulsivas [^1]. Desde una perspectiva cibernética y sistémica, designa **la adquisición de una comprensión ordenada y operativa de nosotros mismos y de nuestro entorno** [^2], abarcando todas las actividades de procesamiento de [[informacion|información]]: percepción, pensamiento, toma de decisiones, competencia lingüística y control motor [^1].
 
 [^1]: Krippendorff, K. (1986). A dictionary of cybernetics. Cognition. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
 
@@ -24,3 +24,5 @@ Originalmente, término utilizado para separar los procesos racionales involucra
 - **Computación recursiva (von Foerster):** Complementariamente, se postula que *«la cognición es una computación continuamente recursiva de descripciones de la realidad»* (Wilson, 1979, p. 32), donde el sistema nervioso no opera como un computador secuencial simple, sino que construye sus propios algoritmos recursivos [^2].
 
 - **[[enaccion|Enacción]] y acoplamiento corporal (Varela et al., 1991):** Superando el mero procesamiento de información, la cognición se define como **enacción**: *«la historia del acoplamiento corporal que enactúa (hace emerger) un mundo»* [^3]. Opera *«a través de una red de múltiples niveles de subredes sensorio-motrices interconectadas»*, y su funcionamiento adecuado se verifica cuando el sistema *«se transforma en parte de un mundo de significación preexistente o configura uno nuevo»*.
+
+[^3]: Varela, F., Thompson, E., & Rosch, E. (1991). The Embodied Mind. Cognitive Science and Human Experience. ISBN: 978-84-7432-419-8
