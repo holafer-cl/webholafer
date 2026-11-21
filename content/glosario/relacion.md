@@ -9,6 +9,7 @@ tags:
 aliases:
   - relación
   - relaciones
+  - relacionales
 ---
 
 Se define como *«una propiedad o propiedades de un conjunto de objetos y/o eventos que no tienen cuando se toman por separado»* (Ackoff & Emery, 1972, p. 255) [^1], o bien como un enunciado con uno o más argumentos que implica una **[[restriccion|restricción]]** (*constraint*) entre valores coocurrentes, equivalente a un subconjunto de un producto cartesiano que contiene las coocurrencias observadas o permisibles (Krippendorff, 1986) [^2]. Desde una perspectiva formal y [[sistema|sistémica]], se estrucutura a través de los siguientes ejes:

@@ -1,34 +1,34 @@
 ---
 title: Biología Social
-date: 2026-11-09
+date: 2026-11-21
 date_crecion: 2026-11-08T23:46:48
 author: Fer Díaz-González
 type: glosario
-version: 1.2.2
+version: 1.3.2
 tags:
   - biología
 aliases:
   - biología social
 ---
 
-Es un modelo de biología teórica que, desde una mirada sistémica comprensiva biológica, [[distincion|distingue]] que el ser vivo posee **dos dominios de existencia interdependientes** [^1], vivir y convivir: 
+Es un modelo de biología teórica que, desde una mirada sistémica comprensiva biológica, [[distincion|distingue]] que el ser vivo posee **dos dominios de existencia interdependientes** [^1], vivir y convivir:
 
 [^1]: Gutiérrez, H. (2009). Biología Social. Editorial Forja. ISBN: 978-956-8323-65-3
 
 1. **Vivir:** que define el cambio de estados internos (fisiológicos).
-2. **Convivir**: que define el acoplamiento con el entorno (conductuales o relacionales).
+2. **Convivir**: que define el acoplamiento con el entorno (conductuales o [[relacion|relacionales]]).
 
 Entonces, `Biología` por dar cuenta del **vivir** en tanto seres vivos particulares y únicos, y `Social` por dar cuenta del **convivir** en tanto se conserva la interacción y acoplamiento estructural con el entorno, que incluye a otros seres vivos. Dando origen, por ejemplo, al lenguaje simbólico en humanos [^2]. En consecuencia, se sostiene que: **Somos individualmente sociales y socialmente individuales**, siendo lo individual y lo colectivo únicamente separables por la distinción del lenguaje de un [[observador]].
 
 [^2]: Gutiérrez, H. (2010). Biología Social: Una Mirada Sistémica Comprensiva Biológica. MAD, (23), 38–42. [https://doi.org/10.5354/0719-0527.2010.13634](https://revistamad.uchile.cl/index.php/RMAD/article/view/13634/13904)
 
-La intersección entre ambos dominios constituye la [[cognicion|cognición]]: el fenómeno emergente del conocer en tanto enacción en el entorno (**Fig.1**).
+La relación interdependiente entre ambos dominios constituye la [[cognicion|cognición]]: el fenómeno emergente del conocer en tanto [[enaccion|enacción]] con el entorno (**Fig.1**).
 
 <div align="center">
   <img src="biologia-social_venn-diagram.png" style="max-width: 100%; height: auto;" />
 </div>
 
-**Figura 1. Acoplamiento entre los dominios de existencia (Vivir y Convivir) y la emergencia de la Cognición en la intersección operacional.**
+**Figura 1. Acoplamiento entre los dominios de existencia (Vivir y Convivir) y la emergencia de la Cognición en la relación interdependiente entre ambos.**
 
 > [!bug] Zombie teórico
 > El modelo de Biología Social, en su versión original, se fundamenta en un axioma que asume el carácter generativo del [[conocimiento]] -presente también en el constructivismo y socioconstruccionismo-, el cual critica al objetivismo bajo la premisa de que:
@@ -53,7 +53,7 @@ La intersección entre ambos dominios constituye la [[cognicion|cognición]]: el
 > Por el contrario, mi modelo revisado de Biología Social se soporta en el siguiente axioma, basado en la [[ide_pensamiento-sistemico|visión sistémica de la vida]] y mi propia definición de [[sistema]].
 > > **La realidad es independiente y dependiente del [[observador]].**
 > 
-> En tanto sistema, la realidad es una distinción del observador y, basado en el **monismo físico-energético**, define tres dominios de fundamentales de existencia:
+> En tanto sistema, la realidad es una [[distincion|distinción]] del observador y, basado en el **monismo físico-energético**, define tres dominios de fundamentales de existencia:
 > - **[[ontologia|Ontológico]]:** [[realizacion|Realización]] material (independiente).
 > - **[[epistemologia|Epistemológico]]:** [[representacion|Representación]] material (dependiente).
 > - **[[metodologia|Metodológico]]:** [[enaccion|Enacción]] procedimental (interdependiente).
