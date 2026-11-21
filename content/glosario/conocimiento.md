@@ -10,7 +10,7 @@ aliases:
   - conocimientos
 ---
 
-Se define fundamentalmente como el **resultado de la [[cognicion|cognición]] y el aprendizaje probado en la práctica**, concebido no como una sustancia acumulable o una mercancía estática que se transfiere, sino como un **proceso dinámico** y una [[relacion|relación]] recursiva entre el [[observador]] y su entorno (UNESCO–UNEP, 1983; von Foerster, 1974; Pask en Gregory, 1993) [^1]. Desde una perspectiva sistémica, antropológica y bioética, se estructura a través de los siguientes ejes:
+Se define fundamentalmente como el **resultado de la [[cognicion|cognición]] y el aprendizaje probado en la práctica**, concebido no como una sustancia acumulable o una mercancía estática que se transfiere, sino como un **proceso dinámico** y una [[relacion|relación]] recursiva entre el [[observador]] y su entorno (UNESCO–UNEP, 1983; von Foerster, 1974; Pask en Gregory, 1993) [^1]. Desde una perspectiva sistémica, antropológica y [[bioetica|bioética]], se estructura a través de los siguientes ejes:
 
 [^1]: Bertalanffy Center for the Study of Systems Science (2020). Knowledge. In Charles François (Ed.), International Encyclopedia of Systems and Cybernetics. Retrieved from http://systemspedia.bcsss.org/?title=KNOWLEDGE
 
