@@ -13,7 +13,7 @@ aliases:
   - distinguida
 ---
 
-Es la operación fundamental en la teoría de [[sistema|sistemas]] y la cibernética: **el acto mediante el cual un [[observador]] traza un límite que escinde el mundo en dos partes** (un «esto» y un «aquello», o un sistema y su entorno) (Goguen & Varela, 1967; Spencer-Brown, 1969) [^1]. Formalmente, se define como una relación entre fenómenos que se conserva de manera biyectiva incluso si los fenómenos mismos cambian durante el proceso. Desde una perspectiva sistémica, epistemológica y social, se estructura a través de los siguientes ejes:
+Es la operación fundamental en la teoría de [[sistema|sistemas]] y la cibernética: **el acto mediante el cual un [[observador]] traza un límite que escinde el mundo en dos partes** (un «esto» y un «aquello», o un sistema y su [[ambiente|entorno]]) (Goguen & Varela, 1967; Spencer-Brown, 1969) [^1]. Formalmente, se define como una relación entre fenómenos que se conserva de manera biyectiva incluso si los fenómenos mismos cambian durante el proceso. Desde una perspectiva sistémica, epistemológica y social, se estructura a través de los siguientes ejes:
 
 [^1]: Bertalanffy Center for the Study of Systems Science (2020). Distinction. In Charles François (Ed.), International Encyclopedia of Systems and Cybernetics. Retrieved from http://systemspedia.bcsss.org/?title=DISTINCTION
 
@@ -24,4 +24,4 @@ Es la operación fundamental en la teoría de [[sistema|sistemas]] y la ciberné
 - **El riesgo reduccionista y la reconciliación sistémica (Schwarz, 1999):** E. Schwarz advierte un riesgo crítico: aunque la distinción es un requisito previo para modelar científicamente el mundo, el enfoque mecanicista ha exagerado la separabilidad de las cosas, impidiendo percibir la densa red de [[relacion|relaciones]] del mundo sensible y originando crisis ecológicas o sociales contemporáneas. Para superarlo, el pensamiento de David Bohm ofrece una vía de reconciliación entre la necesidad de hacer distinciones para reconocer las configuraciones del mundo y la conciencia de que somos una parte no separable de él (Schwarz, 1999).
 
 > [!note] Relación entre distinción y sistema
-> La **distinción** no es un acto aislado, sino la operación fundacional que da forma al **[[sistema]]**. Al trazar un límite que separa lo que es objeto de interés de su entorno, el observador genera la condición de posibilidad de toda observación. Esto limita la observación de los [[flujo|flujos]] de acoplamiento estructural de la [[red]] que constituye la realidad [[enaccion|enactiva]].
+> La **distinción** no es un acto aislado, sino la operación fundacional que da forma al **[[sistema]]**. Al trazar un límite que separa lo que es objeto de interés de su entorno, el observador genera la condición de posibilidad de toda observación. Esto limita la observación de los [[flujo|flujos]] de [[acoplamiento]] estructural de la [[red]] que constituye la realidad [[enaccion|enactiva]].

@@ -8,3 +8,5 @@ tags: []
 ---
 
 Aquí comparto palabras definidas y/o comentadas que dan forma al [[conocimiento]].
+
+> **sistémica → ecología → biología social → bioética**

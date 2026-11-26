@@ -9,6 +9,7 @@ tags:
   - ciencia
 aliases:
   - realización
+  - realiza
 ---
 
 La acción de realizar se define como la *"producción de un objeto o sistema de acuerdo con instrucciones, planes o programas ([[informacion|información]]), por ejemplo, construir una casa según planos, replicar un experimento científico publicado previamente, cocinar según una receta, realizar una idea artística"* [^1].

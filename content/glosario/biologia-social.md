@@ -16,7 +16,7 @@ Es un modelo de biología teórica que, desde una mirada sistémica comprensiva 
 [^1]: Gutiérrez, H. (2009). Biología Social. Editorial Forja. ISBN: 978-956-8323-65-3
 
 1. **Vivir:** que define el cambio de estados internos (fisiológicos).
-2. **Convivir**: que define el acoplamiento con el entorno (conductuales o [[relacion|relacionales]]).
+2. **Convivir**: que define el [[acoplamiento]] con el [[ambiente|entorno]] ([[conducta|conductuales]] o [[relacion|relacionales]]).
 
 Entonces, `Biología` por dar cuenta del **vivir** en tanto seres vivos particulares y únicos, y `Social` por dar cuenta del **convivir** en tanto se conserva la interacción y acoplamiento estructural con el entorno, que incluye a otros seres vivos. Dando origen, por ejemplo, al lenguaje simbólico en humanos [^2]. En consecuencia, se sostiene que: **Somos individualmente sociales y socialmente individuales**, siendo lo individual y lo colectivo únicamente separables por la distinción del lenguaje de un [[observador]].
 
@@ -43,7 +43,7 @@ La relación interdependiente entre ambos dominios constituye la [[cognicion|cog
 > 
 > **Reconocer las limitaciones congnitivas de los seres vivos no es causa para rechazar una realización material (ontológico) independiente del observador**. Efectivamente, la distinción de la realidad (sistema) es una acción del observador, pero dicha distinción se representa en una existencia material que posee restricciones en sus [[relacion|relaciones]]. Por ejemplo: las fuerzas del átomo, la cadena transportadora de electrones de la mitocondria, o el acto físico de escribir esto mismo en un papel.
 > 
-> Ahora, **sin observador**, el sistema es un [[flujo]] de energía cuantizado que emerge como concentraciones locales de [[materia]] e [[informacion|información]], en distintos niveles de acoplamiento estructural en el espacio-tiempo; es un dominio que está y es parte del sistema (realidad). Si el observador no fuera parte de un dominio material independiente que lo sostiene y lo restringe, ni siquiera podría hacer la distinción de `realidad` para empezar. Ignorar esa base es un error grave.
+> Ahora, **sin observador**, el sistema es un [[flujo]] de energía cuantizado que emerge como concentraciones locales de [[materia]] e [[informacion|información]], en distintos niveles de [[acoplamiento]] estructural en el espacio-tiempo; es un dominio que está y es parte del sistema (realidad). Si el observador no fuera parte de un dominio material independiente que lo sostiene y lo restringe, ni siquiera podría hacer la distinción de `realidad` para empezar. Ignorar esa base es un error grave.
 > > [!example] Ejemplos aplicados a la vida humana de este zombie teórico:
 > > 1. **En economía y políticas públicas:** Pretender que la escasez material, las leyes de la oferta y la demanda, o los límites termodinámicos de la energía se pueden superar a punta de decreto, ignorando el flujo de recursos físicos y la termodinámica de los sistemas productivos.
 > > 2. **En salud y biomedicina:** Las corrientes que niegan la base material de la patología o la biología evolutiva, creyendo que las enfermedades o los estados fisiológicos se pueden disolver puramente mediante "resignificación discursiva" o actitud mental, ignorando las restricciones como la genética, epigenética o bioquímica.

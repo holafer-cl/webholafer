@@ -68,4 +68,4 @@ Esto puede sonar desalentador, pero durante el último siglo los científicos se
 > 3. Sus dinámicas son no lineales y pueden incluir la emergencia de un nuevo orden en puntos críticos de inestabilidad.
 > 4. Es operacionalmente cerrado: una red acotada y autopoiética.
 > 5. Es autogenerador: cada componente ayuda a transformar y reemplazar a otros componentes, incluidos los de su frontera semipermeable.
-> 6. Sus interacciones con el entorno son cognitivas: es decir, están determinadas por su propia organización interna.
+> 6. Sus interacciones con el [[ambiente|entorno]] son cognitivas: es decir, están determinadas por su propia organización interna.

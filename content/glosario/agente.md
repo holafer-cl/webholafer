@@ -11,7 +11,7 @@ aliases:
   - agentes
 ---
 
-Se define fundamentalmente como **un elemento activo en un [[sistema]] o [[red]] de múltiples elementos** [^1]. De manera más precisa, Jacques Ferber (1999) lo define como **una entidad virtual o física** capaz de actuar en un entorno y comunicarse directamente con otros agentes, cuyo comportamiento *«tiende hacia la satisfacción de sus objetivos, teniendo en cuenta los recursos y habilidades disponibles y dependiendo de su percepción, su [[representacion|representación]] y la comunicación que recibe»*, cumpliendo las propiedades necesarias para ser considerado un *«sistema inteligente»* [^1].
+Se define fundamentalmente como **un elemento activo en un [[sistema]] o [[red]] de múltiples elementos** [^1]. De manera más precisa, Jacques Ferber (1999) lo define como **una entidad virtual o física** capaz de actuar en un [[ambiente|entorno]] y comunicarse directamente con otros agentes, cuyo [[comportamiento]] *«tiende hacia la satisfacción de sus objetivos, teniendo en cuenta los recursos y habilidades disponibles y dependiendo de su percepción, su [[representacion|representación]] y la comunicación que recibe»*, cumpliendo las propiedades necesarias para ser considerado un *«sistema inteligente»* [^1].
 
 [^1]: Bertalanffy Center for the Study of Systems Science (2020). Agent. In Charles François (Ed.), International Encyclopedia of Systems and Cybernetics. Retrieved from http://systemspedia.bcsss.org/?title=AGENT
 

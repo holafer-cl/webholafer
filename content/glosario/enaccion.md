@@ -13,7 +13,7 @@ aliases:
   - enactiva
 ---
 
-**La acción corporizada del [[conocimiento]] en su acoplamiento estructural con el entorno**. El neologismo enacción traduce el término inglés enaction (derivado de enact, "representar" o "desempeñar un papel, actuar"), adoptando la forma enactuar para evitar la confusión que generarían traducciones como "actuar", "representar" o "poner en acto". Como teoría de la [[cognicion|cognición]] inscrita en el cuerpo (*embodied mind*), este enfoque se introduce influenciado por la psicología tradicional budista y como desarrollo del concepto de autopoiesis, proponiendo un abordaje integrado al [[problema]] "mente-cuerpo" donde el cuerpo es el lugar en el que los mecanismos perceptivos y cognitivos se elaboran como cognición subjetiva [^1].
+**La acción corporizada del [[conocimiento]] en su [[acoplamiento]] estructural con el [[ambiente|entorno]]**. El neologismo enacción traduce el término inglés enaction (derivado de enact, "representar" o "desempeñar un papel, actuar"), adoptando la forma enactuar para evitar la confusión que generarían traducciones como "actuar", "representar" o "poner en acto". Como teoría de la [[cognicion|cognición]] inscrita en el cuerpo (*embodied mind*), este enfoque se introduce influenciado por la psicología tradicional budista y como desarrollo del concepto de autopoiesis, proponiendo un abordaje integrado al [[problema]] "mente-cuerpo" donde el cuerpo es el lugar en el que los mecanismos perceptivos y cognitivos se elaboran como cognición subjetiva [^1].
 
 [^1]: Bertalanffy Center for the Study of Systems Science (2020). Enaction Theory. In Charles François (Ed.), International Encyclopedia of Systems and Cybernetics. Retrieved from http://systemspedia.bcsss.org/?title=ENACTION+THEORY
 

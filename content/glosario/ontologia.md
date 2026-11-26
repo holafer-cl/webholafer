@@ -19,7 +19,7 @@ Una rama de la filosofía preocupada por lo que realmente existe, en oposición 
 > [!check] Propuesta teórica: anclaje al sistema
 > Para un [[sistema]], el dominio fundamental de existencia ontológico define la **[[realizacion|realización]] [[materia|material]] del sistema (independiente del observador)**.
 > 
-> - **Operación:** Delimita el [[flujo]] de energía que emerge como concentraciones locales de [[materia]] e [[informacion|información]], en distintos niveles de acoplamiento estructural.
+> - **Operación:** Delimita el [[flujo]] de energía que emerge como concentraciones locales de [[materia]] e [[informacion|información]], en distintos niveles de [[acoplamiento]] estructural.
 > - **Base:** Es la realización material (físico-energética) en el espacio-tiempo, anterior a cualquier [[distincion|distinción]] [[cognicion|cognitiva]], en base al **monismo físico-energético**.
 
 > [!note] Desambiguación técnica:

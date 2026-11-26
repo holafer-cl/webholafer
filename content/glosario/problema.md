@@ -85,7 +85,7 @@ flowchart TD
 **Figura 1. Dominios ontológico y epistemológico del problema.** Desglose de los criterios necesarios, suficientes e interrelacionados para determinar un problema desde la perspectiva del agente, la situación actual y la meta (otra situación), en la realización material y representación material del sistema. Ambos dominios permiten la emergencia del dominio metodológico.
 
 > [!note] Relación entre agente y observador
-> En la formalización de Barseghyan et al. (2024), el sujeto del problema se modela como un **[[agente]]** ($A$) definido por sus metas (teleología) y representaciones materiales. Desde una perspectiva sistémica y enactiva, dicho agente corresponde a un **[[observador]]** acoplado estructuralmente a su entorno, cuya **[[enaccion|enacción]]** emerge de la interacción entre la realización ontológica y la representación epistemológica de un [[sistema]].
+> En la formalización de Barseghyan et al. (2024), el sujeto del problema se modela como un **[[agente]]** ($A$) definido por sus metas (teleología) y representaciones materiales. Desde una perspectiva sistémica y enactiva, dicho agente corresponde a un **[[observador]]** acoplado estructuralmente a su [[ambiente|entorno]], cuya **[[enaccion|enacción]]** emerge de la interacción entre la realización ontológica y la representación epistemológica de un [[sistema]].
 
 > [!important] Varias conclusiones se derivan de estas definiciones:
 > 1. **No todos los problemas incluyen preguntas**

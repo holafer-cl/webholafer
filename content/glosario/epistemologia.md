@@ -18,7 +18,7 @@ Desde la cibernética y sistémica, la epistemología no busca responder "qué e
 - Crear constructos derivados de la comunicación entre observadores.
 - Considerar al [[observador]] y lo observado como partes del mismo sistema, donde la teoría emerge del proceso de interacción.
 
-[^1]: Colorado, G. G. (2011). Diccionario enciclopédico de bioética. Editorial Trillas Sa De Cv. ISBN: 978-607-17-0927-1
+[^1]: Colorado, G. G. (2011). Diccionario enciclopédico de bioética. Epistemología. Editorial Trillas Sa De Cv. ISBN: 978-607-17-0927-1
 
 [^2]: Krippendorff, K. (1986). A dictionary of cybernetics. Epistemology. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
 

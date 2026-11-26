@@ -9,6 +9,7 @@ tags:
   - ciencia
 aliases:
   - representación
+  - representa
 ---
 
 La acción de representar se define como *"un conjunto de signos para la comunicación de las características de alguna entidad o sistema"* (Young, 1974, p. 298) o *"cualquier estructura (patrón, imagen, modelo), ya sea abstracta o concreta, cuyas características pretenden simbolizar o corresponder en algún sentido con las de otra estructura"* (MacKay, 1969, p. 161), siendo el resultado de nuestras formas de observar la realidad y construir modelos de ella (inspirado en Gibson) [^1]. Su [[distincion|distinción]] sistémica se estructura a través de los siguientes ejes:
@@ -25,4 +26,4 @@ La acción de representar se define como *"un conjunto de signos para la comunic
 > Para un [[sistema]], la representación es el modelamiento [[materia|material]] del dominio de existencia **[[epistemologia|epistemológico]] (dependiente del [[observador]])**.
 > 
 > - **Operación:** Codifica, mapea y otorga significado a las [[relacion|relaciones]], [[restriccion|restricciones]] y [[componente|componentes]] del sistema desde la perspectiva *ad hoc* del observador.
-> - **Base:** No es un ente ideal aislado, sino un proceso físico-energético de estructuración de información (MacKay/Gibson) que se valida y corrige mediante el acoplamiento estructural (Bonsack/[[metodologia|Metodología]]), en base al **monismo físico-energético**.
+> - **Base:** No es un ente ideal aislado, sino un proceso físico-energético de estructuración de información (MacKay/Gibson) que se valida y corrige mediante el [[acoplamiento]] estructural (Bonsack/[[metodologia|Metodología]]), en base al **monismo físico-energético**.
