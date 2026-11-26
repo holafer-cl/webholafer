@@ -12,7 +12,7 @@ aliases:
   - metodológico
 ---
 
-Una rama de la filosofía de la ciencia preocupada por los métodos y técnicas de la investigación científica, su composición y su capacidad para producir [[conocimiento]] válido. Aunque "metodología" se confunde a menudo con "métodos", sus referentes se relacionan tal como la biología se relaciona con los organismos vivos o la sociología con la sociedad. El objetivo de la metodología es describir y analizar no los objetos ni los productos, sino los procesos de indagación, investigar las potencialidades y limitaciones de técnicas particulares, revelar sus presupuestos y consecuencias epistemológicas, sugerir razones estructurales para los éxitos y fracasos, y desarrollar, probar y ofrecer generalizaciones sobre los procedimientos [^1].
+Una rama de la filosofía de la ciencia preocupada por los métodos y técnicas de la investigación científica, su composición y su capacidad para producir [[conocimiento]] válido. Aunque "metodología" se confunde a menudo con "métodos", sus referentes se relacionan tal como la [[biologia|biología]] se relaciona con los [[organismo|organismos]] vivos o la sociología con la sociedad. El objetivo de la metodología es describir y analizar no los objetos ni los productos, sino los procesos de indagación, investigar las potencialidades y limitaciones de técnicas particulares, revelar sus presupuestos y consecuencias epistemológicas, sugerir razones estructurales para los éxitos y fracasos, y desarrollar, probar y ofrecer generalizaciones sobre los procedimientos [^1].
 
 [^1]: Krippendorff, K. (1986). A dictionary of cybernetics. Methodology. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf
 

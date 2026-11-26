@@ -9,7 +9,7 @@ tags:
 aliases: []
 ---
 
-Se define como **cualquier organismo [[cognicion|cognitivo]] capaz de adquirir cierto grado de consciencia y obtener alguna comprensión de su [[ambiente|entorno]] (*environment*) y de su medio interno (*invironment*)**, operando fundamentalmente haciendo [[distincion|distinciones]], en función de su propia organización interna, física y/o cerebral-mental (von Foerster, Maturana y Varela) [^1].
+Se define como **cualquier [[organismo]] [[cognicion|cognitivo]] capaz de adquirir cierto grado de consciencia y obtener alguna comprensión de su [[ambiente|entorno]] (*environment*) y de su medio interno (*invironment*)**, operando fundamentalmente haciendo [[distincion|distinciones]], en función de su propia organización interna, física y/o cerebral-mental (von Foerster, Maturana y Varela) [^1].
 
 [^1]: Bertalanffy Center for the Study of Systems Science (2020). Observer. In Charles François (Ed.), International Encyclopedia of Systems and Cybernetics. Retrieved from http://systemspedia.bcsss.org/?title=OBSERVER
 

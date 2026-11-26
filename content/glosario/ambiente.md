@@ -13,7 +13,7 @@ aliases:
   - ambientales
 ---
 
-Complejo de condiciones bióticas, climáticas, edáficas y de otro tipo que constituyen el hábitat inmediato de un organismo; medios físico, químico y biológico de un organismo en un tiempo dado; entorno [^1].
+Complejo de condiciones bióticas, climáticas, edáficas y de otro tipo que constituyen el hábitat inmediato de un [[organismo]]; medios físico, químico y biológico de un organismo en un tiempo dado; entorno [^1].
 
 - **En cibernética (Krippendorff, 1986) [^2]:**
   1. El [[sistema]] de cosas, condiciones o influencias circundantes, especialmente aquellas que afectan la existencia o el desarrollo de alguien, algo u otro sistema ($\rightarrow$ hábitat).
@@ -38,4 +38,4 @@ Complejo de condiciones bióticas, climáticas, edáficas y de otro tipo que con
 [^4]: Findeisen, W., Yastrebov, A.P., Lande, A., Lindsay, J., Quade, E.S., & Pearson, M.M.L. (1978). A Sample Glossary of Systems Analysis. Environment. IIASA Working Paper. IIASA, Laxenburg, Austria: WP-78-012. https://pure.iiasa.ac.at/id/eprint/891/1/WP-78-012.pdf
 
 > [!note] Relación con el modelo de Sistema
-> Vínculo entre la [[sistema|sistémica]] y la ecología: [[distincion|distingue]] la existencia física-biológica y el conjunto de variables externas que un [[observador]] [[representacion|representa]], definiendo el dominio de existencia externo con el que se [[realizacion|realiza]] el [[acoplamiento]] estructural y donde se distingue el [[comportamiento]].
+> Vínculo entre la [[sistema|sistémica]] y la [[ecologia|ecología]]: [[distincion|distingue]] la existencia física-biológica y el conjunto de variables externas que un [[observador]] [[representacion|representa]], definiendo el dominio de existencia externo con el que se [[realizacion|realiza]] el [[acoplamiento]] estructural y donde se distingue el [[comportamiento]].

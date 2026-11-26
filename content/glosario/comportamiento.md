@@ -10,7 +10,7 @@ aliases:
   - comportamientos
 ---
 
-Cualquier acción o respuesta observable de un organismo; respuesta de un organismo, grupo o especie a los factores [[ambiente|ambientales]] [^1].
+Cualquier acción o respuesta observable de un [[organismo]]; respuesta de un organismo, grupo o especie a los factores [[ambiente|ambientales]] [^1].
 
 [^1]: Lincoln, R. J., Boxshall, G. A., & Clark, P. F. (2009). Diccionario de Ecologia, Evolucion y Taxonomia. Comportamiento. 2nd ed.; E. C. T. Isoard & A. C. Dominguez Reyes, Trans. Fondo de Cultura Economica. ISBN: 978-607-16-0041-7
 
@@ -40,4 +40,4 @@ Cualquier acción o respuesta observable de un organismo; respuesta de un organi
 | **Con propósito / Intencional** (*Purposeful*) | Variable y elegido | Variable y elegido |
 
 > [!note] Relación con el modelo de Biología Social
-> Vínculo entre la ecología y la [[biologia-social|biología social]]: [[distincion|distingue]] la interacción organismo–[[ambiente|entorno]] en lo observable por un [[observador]] y es base para la definición de [[conducta]] en el dominio de existencia fundamental del **convivir**.
+> Vínculo entre la [[ecologia|ecología]] y la [[biologia-social|biología social]]: [[distincion|distingue]] la interacción organismo–[[ambiente|entorno]] en lo observable por un [[observador]] y es base para la definición de [[conducta]] en el dominio de existencia fundamental del **convivir**.

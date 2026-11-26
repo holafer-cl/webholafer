@@ -19,7 +19,7 @@ Originalmente, término utilizado para separar los procesos racionales involucra
 
 [^2]: Bertalanffy Center for the Study of Systems Science (2020). Cognition. In Charles François (Ed.), International Encyclopedia of Systems and Cybernetics. Retrieved from http://systemspedia.bcsss.org/?title=COGNITION
 
-- **Biología del conocer y cierre neuronal (Maturana):** Desde el enfoque autopoiético, la realidad y su cognición constituyen «un modo de operación del [[sistema]] nervioso como una [[red]] neuronal cerrada» (Maturana, 1979, p. 25), estableciendo la identidad fundamental entre vida y conocimiento: *«los sistemas vivos son sistemas cognitivos, y vivir como proceso es un proceso de cognición»* (Maturana, 1980, p. 13) [^2].
+- **[[biologia|Biología]] del conocer y cierre neuronal (Maturana):** Desde el enfoque autopoiético, la realidad y su cognición constituyen «un modo de operación del [[sistema]] nervioso como una [[red]] neuronal cerrada» (Maturana, 1979, p. 25), estableciendo la identidad fundamental entre vida y conocimiento: *«los sistemas vivos son sistemas cognitivos, y vivir como proceso es un proceso de cognición»* (Maturana, 1980, p. 13) [^2].
 
 - **Computación recursiva (von Foerster):** Complementariamente, se postula que *«la cognición es una computación continuamente recursiva de descripciones de la realidad»* (Wilson, 1979, p. 32), donde el sistema nervioso no opera como un computador secuencial simple, sino que construye sus propios algoritmos recursivos [^2].
 
