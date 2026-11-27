@@ -13,6 +13,7 @@ aliases:
   - cognitiva
   - cognitivo
 ---
+
 Originalmente, término utilizado para separar los procesos racionales involucrados en la adquisición, organización y uso del [[conocimiento]] de las reacciones emocionales, instintivas o impulsivas [^1]. Desde una perspectiva cibernética y sistémica, designa **la adquisición de una comprensión ordenada y operativa de nosotros mismos y de nuestro [[ambiente|entorno]]** [^2], abarcando todas las actividades de procesamiento de [[informacion|información]]: percepción, pensamiento, toma de decisiones, competencia lingüística y control motor [^1].
 
 [^1]: Krippendorff, K. (1986). A dictionary of cybernetics. Cognition. The American Society for Cybernetics. https://asc-cybernetics.org/publications/Krippendorff/A_Dictionary_of_Cybernetics.pdf

@@ -47,7 +47,7 @@ La relación interdependiente entre ambos dominios constituye la [[cognicion|cog
 > > [!example] Ejemplos aplicados a la vida humana de este zombie teórico:
 > > 1. **En economía y políticas públicas:** Pretender que la escasez material, las leyes de la oferta y la demanda, o los límites termodinámicos de la energía se pueden superar a punta de decreto, ignorando el flujo de recursos físicos y la termodinámica de los sistemas productivos.
 > > 2. **En salud y biomedicina:** Las corrientes que niegan la base material de la patología o la biología evolutiva, creyendo que las enfermedades o los estados fisiológicos se pueden disolver puramente mediante "resignificación discursiva" o actitud mental, ignorando las restricciones como la genética, epigenética o bioquímica.
-> > 3. **En [[ecologia|ecología]] y planificación urbana:** Diseñar modelos de crecimiento económico e industrial indefinido en un planeta con recursos finitos, bajo el dogma de que la tecnología o los acuerdos sociales pueden saltarse indefinidamente los límites biofísicos de los ecosistemas.
+> > 3. **En [[ecologia|ecología]] y planificación urbana:** Diseñar modelos de crecimiento económico e industrial indefinido en un planeta con recursos finitos, bajo el dogma de que la tecnología o los acuerdos sociales pueden saltarse indefinidamente los límites biofísicos de los [[ecosistema|ecosistemas]].
 
 > [!check] Propuesta teórica
 > Por el contrario, mi modelo revisado de Biología Social se soporta en el siguiente axioma, basado en la [[ide_pensamiento-sistemico|visión sistémica de la vida]] y mi propia definición de [[sistema]].
